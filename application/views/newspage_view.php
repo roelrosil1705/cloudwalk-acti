@@ -288,6 +288,7 @@
                                     <ul style="margin-left: 50px;">
                                         <li>Videos were shown on-screen during the event that informs concert goers to follow the event’s security, safety and emergency rules. </li>
                                     </ul>
+                                    <iframe class="embed-responsive-item twidth" src="<?=base_url('videos/Media1.mp4')?>" style="height: 388px;" allowfullscreen></iframe>
                                 </div>
                                 <!--End CONTENT -->
                             </div>

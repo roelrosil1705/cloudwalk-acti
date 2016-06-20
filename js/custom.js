@@ -660,5 +660,8 @@ $(function() {
 		$('.prev_btn').fadeOut();
 	});
 
+	$(document).ready(function(){
+		$('#sec_video').bind('contextmenu',function() { return false; });
+	});
 });
 
