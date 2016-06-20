@@ -117,12 +117,35 @@
                         <div class="col-md-12" style="border-bottom:solid px gray;padding: 70px 15px;text-align: justify;">
                             <div class="container" style="font-weight: 100;font-family: sans-serif;">
                                 <!--Start CONTENT -->
-                                <p><span><strong>Activations brings excitement at every turn with the launch of the Samsung Gear S2 and Samsung Galaxy Studio.</strong></span></p>
-                                <p>Hundreds of media and influencers from the tech scene flocked to the SM Mall of Asia where, for the first time ever, a big event was held at the iconic Globe Rotunda in front of the Mall.
-                                    Activations Advertising played a leading role in creating one of the biggest tech launches ever in the country with the arrival of Samsung's latest smartwatch, the Gear S2. We converted the MOA globe into the biggest smartwatch ever in a live interactive display to celebrate the product's launch.
-                                    The night also saw the opening of the Samsung Galaxy Studio at the SM MOA Cyberzone as it makes its exclusive stop here in the Philippines on its worldwide tour. The booth activation featured exciting experience zones headline by Samsung's latest line of smartphones with the Gear S2 taking center stage.
-                                    Check out the Samsung Galaxy Studio at the SM Mall of Asia Cyberzone from November 27 to December 5, 2015.
-                                    #GalaxyStudioPH #GearsS2</p>
+                                <b>3 SM Mall of Asia</b>
+                                <p>The venue was provided by SM Mall of Asia at their concert grounds. The venue has been a popular location for big concert events similar to CloseUp Forever Summer.</p>
+                                <ul class="mar30">
+                                    <li>Venue</li>
+                                    <li>Additional Security</li>
+                                </ul>
+                                <b>Pasay City Police</b>
+                                <p>The Pasay City Police was asked to support and participate in the planning and implementation of the event by providing expert assistance in regards to security planning and identifying potential dangers and hazards in events of this type. Pasay City Police was also requested to provide police assistance outside and inside the venue during the event as well as show police presence.</p>
+                                <ul class="mar30">
+                                    <li>Additional Security</li>
+                                    <li>Police presence</li>
+                                    <li>Planning and implementation support</li>
+                                </ul>
+
+                                <h2 class="twidth">PRE-EVENT PLANNING</h2>
+                                <p>Months and weeks before the event, the event organizer (CloseUp/Unilever Philippines) and its joint suppliers and partners (Eventscape and Activations Advertising) formulated and finalized the event logistics, procedures and security measures in implementing the 4th annual running of CloseUp Forever summer music festival.</p>
+                                <h3>Standards Followed</h3>
+                                <b>Security Personnel Requirements</b>
+                                <ul class="mar30">
+                                    <li>The security plan was based on the US events standard a security-to-guest ratio of 1:50. 1 security personnel for every 50 audience members. </li>
+                                </ul>
+                                <b>Medical Personnel Requirements</b>
+                                <ul class="mar30">
+                                    <li>
+                                        The organizers also followed the WHO standard of the number of emergency medical professionals and teams to be used for events of this type and size.
+                                        <br><a href="http://ww2.health.wa.gov.au/~/media/Files/Corporate/general%20documents/Environmental%20health/Concerts%20and%20Mass%20Gathering%20Guidelines.ashx">Click here for reference.</a><br>
+                                        <br>Government of Western Australia-Department of Health: Guidelines for Concerts, Events, and Organized Gatherings
+                                    </li>
+                                </ul>
                                 <!--End CONTENT -->
                             </div>
                         </div>
@@ -133,18 +156,182 @@
                         <div class="col-md-12" style="border-bottom:solid px gray;padding: 70px 15px;text-align: justify;">
                             <div class="container" style="font-weight: 100;font-family: sans-serif;">
                                 <!--Start CONTENT -->
-                                <p><span><strong>Activations brings excitement at every turn with the launch of the Samsung Gear S2 and Samsung Galaxy Studio.</strong></span></p>
-                                <p>Hundreds of media and influencers from the tech scene flocked to the SM Mall of Asia where, for the first time ever, a big event was held at the iconic Globe Rotunda in front of the Mall.
-                                    Activations Advertising played a leading role in creating one of the biggest tech launches ever in the country with the arrival of Samsung's latest smartwatch, the Gear S2. We converted the MOA globe into the biggest smartwatch ever in a live interactive display to celebrate the product's launch.
-                                    The night also saw the opening of the Samsung Galaxy Studio at the SM MOA Cyberzone as it makes its exclusive stop here in the Philippines on its worldwide tour. The booth activation featured exciting experience zones headline by Samsung's latest line of smartphones with the Gear S2 taking center stage.
-                                    Check out the Samsung Galaxy Studio at the SM Mall of Asia Cyberzone from November 27 to December 5, 2015.
-                                    #GalaxyStudioPH #GearsS2</p>
+                                <h2 class="twidth">5 VENUE SAFETY FEATURES, PROCEDURES AND ASSETS</h2>
+                                <h3><i>Venue Map</i></h3>
+                                <img class="twidth" src="<?=base_url('img/odds/1.jpg');?>">
+                                <h3><i>Barricades and Restricted Entry Points</i></h3>
+                                <p>The venue was barricaded to prevent non-ticket holders from entering and to ensure all guests were directed to the entrance locations and go through the thorough entry and security procedures.</p>
+                                <p>Important sections of the venue were divided into different zones with varying levels of security and can only be entered by passing through security and inspection.</p>
+                                <h3><i>Guest Information </i></h3>
                                 <!--End CONTENT -->
                             </div>
                         </div>
                     </div>
                     <!--End PAGE -->
+                    <!--Start PAGE -->
+                    <div class="row col-md-10 col-md-offset-1 aai-news-bshadow" style="min-height: 800px;margin-bottom: 60px;">
+                        <div class="col-md-12" style="border-bottom:solid px gray;padding: 70px 15px;text-align: justify;">
+                            <div class="container" style="font-weight: 100;font-family: sans-serif;">
+                                <!--Start CONTENT -->
+                                <h3><i>7 Pouch RFID System</i></h3>
+                                <p>Puch provided RFID tagging system using an RFID wristband that facilitates and records entrances as well as facilitating wireless cash transactions between guests and concessionaires. This system also restricts minors from buying alcoholic drinks.</p>
+                                <h3><i>Entrance Procedure and Security</i></h3>
+                                <p>Before entering the venue, audience members must pass several lines of security steps. </p>
+                                <ol type="1" class="mar30">
+                                    <li>Barker Announcement</li>
+                                    <li>Checking of Tickets & Frisking</li>
+                                    <li>2<sup>nd</sup> Frisking</li>
+                                    <li>Scanning of tickets </li>
+                                    <li>Tagging and registration</li>
+                                </ol>
+                                <video src=""></video>
+                                <h3><i>CCTV</i></h3>
+                                <p>CCTV units were also deployed to monitor the entire venue. All footage was viewed live in a central control room inside the venue.</p>
+                                <h3><i>Central Control Room</i></h3>
+                                <p>A central control room monitored and directed all operations in the venue via communication with on-ground and security personnel plus CCTV live footage.</p>
+                                <!--End CONTENT -->
+                            </div>
+                        </div>
+                    </div>
+                    <!--End PAGE -->
+                    <!--Start PAGE -->
+                    <div class="row col-md-10 col-md-offset-1 aai-news-bshadow" style="min-height: 800px;margin-bottom: 60px;">
+                        <div class="col-md-12" style="padding: 70px 15px;text-align: justify;">
+                            <div class="container" style="font-weight: 100;font-family: sans-serif;">
+                                <!--Start CONTENT -->
+                                <h2 class="twidth">9 NUMBER OF PERSONNEL DEPLOYED FOR THE EVENT</h2>
+                                <h3><i>On-ground Security Personnel</i></h3>
+                                <p>Security was to be provided by teams comprised of bouncers, on-ground personnel and police. These units were to be deployed inside and outside the venue including critical locations like entrances and exits and other entry points between different sections of the venue.</p>
+                                <p>Certified and registered bouncer teams were provided Delirum and Red Knights which were comprised of bouncers with experience in handling large-scale live events.</p>
+                                <p>Security Objectives:</p>
+                                <ul class="mar30">
+                                    <li>Deter and stop violence or unruly behavior</li>
+                                    <li>Prevent or minimize physical injuries</li>
+                                    <li>Prevent damage to property</li>
+                                    <li>Deter or stop theft and other petty crimes</li>
+                                    <li>Confiscate prohibited items from entering the venue (Weapons, drugs, cameras etc.)</li>
+                                    <li>Prevent other threats like terrorist actions. </li>
+                                </ul>
+                                <table class="twidth" border="1px">
+                                    <tr>
+                                        <th>Particulars</th>
+                                        <th>Planned No.</th>
+                                        <th>Actual Deployed</th>
+                                    </tr>
+                                    <tr align="left">
+                                        <td>On-ground Safety Commander</td>
+                                        <td>1</td>
+                                        <td>1</td>
+                                    </tr>
+                                    <tr align="left">
+                                        <td>Assistant Safety Commanders</td>
+                                        <td>3</td>
+                                        <td>4</td>
+                                    </tr>
+                                    <tr align="left">
+                                        <td>SM Mall of Asia Security</td>
+                                        <td>100</td>
+                                        <td>100</td>
+                                    </tr>
+                                    <tr align="left">
+                                        <td>Head Security</td>
+                                        <td>1</td>
+                                        <td>1</td>
+                                    </tr>
+                                    <tr align="left">
+                                        <td>Bouncers Team Leaders</td>
+                                        <td>15</td>
+                                        <td>15</td>
+                                    </tr>
+                                    <tr align="left">
+                                        <td>Bouncers</td>
+                                        <td>235</td>
+                                        <td>235</td>
+                                    </tr>
+                                    <tr align="left">
+                                        <td>Red Knights Security (for SVIP)</td>
+                                        <td>16</td>
+                                        <td>16</td>
+                                    </tr>
+                                    <tr align="left">
+                                        <td>k-9 Units</td>
+                                        <td>6</td>
+                                        <td>6</td>
+                                    </tr>
+                                    <tr align="left">
+                                        <td>Total</td>
+                                        <td>377</td>
+                                        <td>378</td>
+                                    </tr>
+                                </table>
+                                <h3><i>On-ground Manpower</i></h3>
+                                <p>A separate group of on-ground manpower were deployed to operate key sections of the venue. These include manning entrances, guest assistance, utility, logistics, etc.</p>
+                                <!--End CONTENT -->
+                            </div>
+                        </div>
+                    </div>
+                    <!--End PAGE -->
+                    <!--Start PAGE -->
+                    <div class="row col-md-10 col-md-offset-1 aai-news-bshadow" style="min-height: 800px;margin-bottom: 60px;">
+                        <div class="col-md-12" style="padding: 70px 15px;text-align: justify;">
+                            <div class="container" style="font-weight: 100;font-family: sans-serif;">
+                                <!--Start CONTENT -->11
+                                <table class="twidth" border="1px">
+                                    <tr>
+                                        <th style="text-align: center;">Particulars</th>
+                                        <th style="text-align: center;">Planned</th>
+                                        <th style="text-align: center;">Actual Deployed</th>
+                                    </tr>
+                                    <tr>
+                                        <td>INTEL GROUP (Undercover)</td>
+                                        <td>none</td>
+                                        <td>8</td>
+                                    </tr>
+                                </table>
+                                <h3><i>Pasay City Event Inspection Team</i></h3>
+                                <p>Before and during the event, Pasay City Local Government also deployed a 20-man event inspection team who will verify and sign-off if the said event is in compliance with the city’s Laws and Ordinances with regards to safety, lewd behavior, and drugs.</p>
 
+                                <table class="twidth" border="1px" style="padding: 5px;">
+                                    <tr>
+                                        <th style="text-align: center;">Particulars</th>
+                                        <th style="text-align: center;">Planned</th>
+                                        <th style="text-align: center;">Actual Deployed</th>
+                                    </tr>
+                                    <tr>
+                                        <td>Pasay City Event Inspection Team</td>
+                                        <td>20</td>
+                                        <td>20</td>
+                                    </tr>
+                                </table>
+
+                                <h1 class="twidth">IMPORTANT INCIDENTS</h1>
+                                <h3><i>Event Fatalities</i></h3>
+                                <p>During the event, 3 audience members were given quick medical aid due to illness. These individuals were then immediately transported to the nearest hospitals to be given necessary medical attention.</p>
+                                <table class="twidth" border="1px">
+                                    <tr>
+                                        <th style="text-align: center;">Name of Individual</th>
+                                        <th style="text-align: center;">Hospital</th>
+                                    </tr>
+                                    <tr>
+                                        <td>Ariel Leal (22 yrs)</td>
+                                        <td>San Juan de Dios</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Bianca Fontejon 19 yrs old</td>
+                                        <td>Manila Doctors</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Eric Miller 36 yrs old</td>
+                                        <td>Manila Doctors</td>
+                                    </tr>
+                                </table>
+                                <h3><i>Outside Fatalities</i></h3>
+                                <p>Two individuals who also attended the event earlier in the evening were found outside the venue and brought to hospitals and were then declared fatalities. Additional information on the events that transpired before the individuals were received in the hospital are unknown as they were not inside the venue when the incidents occurred.</p>
+                                <!--End CONTENT -->
+                            </div>
+                        </div>
+                    </div>
+                    <!--End PAGE -->
                 </div>
             </div>
         </div>
