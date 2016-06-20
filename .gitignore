@@ -7,3 +7,9 @@ application/cache/*
 application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
+.idea/cloudwalk-acti.iml
+.idea/deployment.xml
+.idea/copyright/profiles_settings.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
