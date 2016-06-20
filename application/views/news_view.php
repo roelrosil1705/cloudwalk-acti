@@ -44,23 +44,35 @@
 				Check out the Samsung Galaxy Studio at the SM Mall of Asia Cyberzone from November 27 to December 5, 2015.
 				#GalaxyStudioPH #GearsS2</p>
 			</div>
+			<!--<hr class="featurette-divider">-->
+			<!--<div>&nbsp;</div>-->
+		</div>
+	</div>
+	<div class="row aai-news-bshadow">
+		<div class="col-md-12" style="border-bottom:solid px gray;padding: 15px;">
 			<div class="container">
 				<p><span><strong>Powering-up 1 MILLION Future-ready teen AGAIN!!!</strong></span></p>
 				<p>#TeenWeekPH 2015 has just wrapped-up it's nationwide celebrations of all things teens. We visited more than 200 high-schools throughout the Philippines where we enjoyed, celebrated and shared wonderful experiences with more than 1 million students.
-				The 1-week celebrations aimed to educate Filipino teens about the important topics that are essential to a their personal development like personal care, hygiene, self-esteem. ambitions and future careers, which were made more fun and exciting with the help of Creamsilk, Rexona and Pond's.
-				From enlightening TED-talk forums, fun games, and shareable photo moments, students took-in important learnings while still having a good time all week long.
-				The celebrations concluded with the first-ever TeenWeek Fair headlined by a talent showcase featuring outstanding live performances from the students themselves. Our favorite Unilever brand ambassadors and celebrities like were also there to share the celebrations with our students.
-				In it's 3rd year of running, #TeenWeekPH has added 1 million more young teens who are future-ready to take on the world.
-				See you all next year!</p>
+					The 1-week celebrations aimed to educate Filipino teens about the important topics that are essential to a their personal development like personal care, hygiene, self-esteem. ambitions and future careers, which were made more fun and exciting with the help of Creamsilk, Rexona and Pond's.
+					From enlightening TED-talk forums, fun games, and shareable photo moments, students took-in important learnings while still having a good time all week long.
+					The celebrations concluded with the first-ever TeenWeek Fair headlined by a talent showcase featuring outstanding live performances from the students themselves. Our favorite Unilever brand ambassadors and celebrities like were also there to share the celebrations with our students.
+					In it's 3rd year of running, #TeenWeekPH has added 1 million more young teens who are future-ready to take on the world.
+					See you all next year!</p>
 			</div>
+			<!--<hr class="featurette-divider">-->
+			<!--<div>&nbsp;</div>-->
+		</div>
+	</div>
+	<div class="row aai-news-bshadow">
+		<div class="col-md-12" style="border-bottom:solid px gray;padding: 15px;">
 			<div class="container" style="border-bottom:solid px gray; margin-top: 10px;">
 				<p><span><strong>Activations Advertising Inc. breaks another world record.</strong></span></p>
-				<p>AAI has bagged another world record after it set the official Guinness World Record for the most number of people handwashing a single piece of fabric 
-				simultaneously for Breeze Detergent. 
-				Fighting through torrential rain and the massive logistics and planning nightmare of an official world record attempt, the agency successfully 
-				gathered more than 2,200 moms at the UMAK Track & Field who were able to successfully handwash a 1 Kilometer long piece of cloth all at the same time.
-				The record-breaking attempt was the perfect showcase of Breeze's superiority over other detergent brands and it's a quality is now etched in the record books. 
-				This is also the agency's second successful record attempt after its Mentos Geyser record which was set in 2010 <!--<a href="#" class="aai-news-link"><strong>Read More...</strong></a>--></p>
+				<p>AAI has bagged another world record after it set the official Guinness World Record for the most number of people handwashing a single piece of fabric
+					simultaneously for Breeze Detergent.
+					Fighting through torrential rain and the massive logistics and planning nightmare of an official world record attempt, the agency successfully
+					gathered more than 2,200 moms at the UMAK Track & Field who were able to successfully handwash a 1 Kilometer long piece of cloth all at the same time.
+					The record-breaking attempt was the perfect showcase of Breeze's superiority over other detergent brands and it's a quality is now etched in the record books.
+					This is also the agency's second successful record attempt after its Mentos Geyser record which was set in 2010 <!--<a href="#" class="aai-news-link"><strong>Read More...</strong></a>--></p>
 			</div>
 			<!--<hr class="featurette-divider">-->
 			<div class="container">
@@ -75,16 +87,5 @@
 			</div>
 			<!--<div>&nbsp;</div>-->
 		</div>
-		<!--<div>&nbsp;</div>-->
-		<!--
-		<div class="col-md-12" style="border-bottom:solid px gray;">
-			<div class="container" style="margin-top: 10px;">
-				<p><span><b>Activation Advertising Wins Special Award for Ambient Media Advertising!</b></span></p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at scelerisque ipsum. Sed at tellus ut lectus 
-				aliquam fermentum ut nec mauris. Nullam quis dolor ornare, lobortis orci et, ullamcorper metus. Aliquam dignissim 
-				sed urna nec suscipit. Donec tincidunt, felis pharetra gravida commodo, nulla quam mattis sem, et dignissim augue enim a lacus. <a href="#" class="aai-news-link"><b>Read More...</b></a></p>
-			</div>	
-		</div>
-		-->
 	</div>
 </div>
