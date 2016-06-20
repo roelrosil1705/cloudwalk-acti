@@ -619,6 +619,7 @@
                                             <td><img src="<?php echo base_url() ?>img/slides/Slide50.jpg" style="width:100%;" /></td>
                                         </tr>
                                     </table>
+                                    <img src="<?php echo base_url() ?>img/slides/pnp_highlight.jpg" style="width:100%;" />
                                     <h4>PNP Undercover Contingent: INTEL GROUP</h4>
                                     <p>The Pasay PNP also deployed civilian-clothed units inside the venue to monitor the audience and guard against potential dangers.</p>
                                 </div>
