@@ -242,9 +242,47 @@
                                             <td style="border: 1px solid #000;">Mall of Asia</td>
                                         </tr>
                                     </table>
+                                    <h3>1st Briefing Day - May 12, 2016</h3>
+                                    <img src="<?php echo base_url() ?>img/slides/Slide2.jpg" style="width:100%;" />
+                                    <table>
+                                        <tr>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide2.jpg" style="width:100%;" /></td>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide3.jpg" style="width:100%;" /></td>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide4.png" style="width:100%;" /></td>
+                                        </tr>
+                                    </table>
+                                    <h3>2nd Briefing Day - May 18, 2016</h3>
+                                    <img src="<?php echo base_url() ?>img/slides/Slide7.jpg" style="width:100%;" />
+                                    <table>
+                                        <tr>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide7.jpg" style="width:100%;" /></td>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide8.jpg" style="width:100%;" /></td>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide9.jpg" style="width:100%;" /></td>
+                                        </tr>
+                                    </table>
+                                    <h3>3rd Briefing Day - May 19, 2016</h3>
+                                    <img src="<?php echo base_url() ?>img/slides/Slide11.jpg" style="width:100%;" />
+                                    <table>
+                                        <tr>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide11.jpg" style="width:100%;" /></td>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide10.jpg" style="width:100%;" /></td>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide12.jpg" style="width:100%;" /></td>
+                                        </tr>
+                                    </table>
+                                    <h3>Day of Event Briefing</h3>
+                                    <img src="<?php echo base_url() ?>img/slides/Slide13.jpg" style="width:100%;" />
+                                    <table>
+                                        <tr>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide13.jpg" style="width:100%;" /></td>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide14.jpg" style="width:100%;" /></td>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide15.jpg" style="width:100%;" /></td>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide16.jpg" style="width:100%;" /></td>
+                                        </tr>
+                                    </table>
                                     <h3><b>EVENT DAY AND IMPLEMENTATION OF SECURITY PLAN</b></h3>
                                     <b>Quick Look: Security Plan</b>
                                     <p>The security plan was based from previous CloseUp Forever Summer runs and similar events implemented by the organizers. </p>
+                                    <img src="<?php echo base_url() ?>img/slides/Slide21.jpg" style="width:100%;" />
                                 </div>
                                 <!--End CONTENT -->
                             </div>
@@ -263,7 +301,6 @@
                                     <h3><i>Barricades and Restricted Entry Points</i></h3>
                                     <p>The venue was barricaded to prevent non-ticket holders from entering and to ensure all guests were directed to the entrance locations and go through the thorough entry and security procedures.</p>
                                     <p>Important sections of the venue were divided into different zones with varying levels of security and can only be entered by passing through security and inspection.</p>
-                                    <h3><i>Guest Information </i></h3>
                                 </div>
                                 <!--End CONTENT -->
                             </div>
@@ -276,6 +313,7 @@
                             <div class="container" style="font-weight: 100;font-family: sans-serif;">
                                 <!--Start CONTENT -->
                                 <div class="col-md-10 col-md-offset-1">
+                                    <h3><i>Guest Information</i></h3>
                                     <p>The organizers also provided information to guests regarding the safety and security rules of the event including a list of prohibited items.</p>
                                     <h4>Prohibited Items Signages.</h4>
                                     <ul style="margin-left: 50px;">
@@ -286,7 +324,9 @@
                                     </ul>
                                     <h4>Security and Emergency Safety Videos</h4>
                                     <ul style="margin-left: 50px;">
-                                        <li>Videos were shown on-screen during the event that informs concert goers to follow the event’s security, safety and emergency rules. </li>
+                                        <li>
+                                            <p>Videos were shown on-screen during the event that informs concert goers to follow the event’s security, safety and emergency rules.</p>
+                                        </li>
                                     </ul>
                                 </div>
                                 <!--End CONTENT -->
@@ -316,6 +356,7 @@
                                     <p>CCTV units were also deployed to monitor the entire venue. All footage was viewed live in a central control room inside the venue.</p>
                                     <h3><i>Central Control Room</i></h3>
                                     <p>A central control room monitored and directed all operations in the venue via communication with on-ground and security personnel plus CCTV live footage.</p>
+                                    <img src="<?php echo base_url() ?>img/slides/controlsystem.jpg" style="width: 100%;">
                                 </div>
                                 <!--End CONTENT -->
                             </div>
@@ -330,7 +371,9 @@
                                 <div class="col-md-10 col-md-offset-1">
                                     <h4>Medical Tents</h4>
                                     <p>A number of medical first-aide stations were installed offering quick first-aide. A larger ambulatory tent was also installed equipped to provide medical treatment for serious cases.</p>
-                                    <table style="border: 1px solid #000;width: 100%;text-align: center;">
+                                    <img src="<?php echo base_url() ?>img/slides/Slide19.JPG" style="width: 76%;display: block;margin: 0 auto;" />
+                                    <img src="<?php echo base_url() ?>img/slides/medical_highlight.jpg" style="width: 76%;display: block;margin: 0 auto;" />
+                                    <table style="border: 1px solid #000;width: 100%;text-align: center;margin-top: 27px;">
                                         <tr>
                                             <td style="border: 1px solid #000;"><b>Asset</b></td>
                                             <td style="border: 1px solid #000;"><b>Capability</b></td>
@@ -347,6 +390,7 @@
                                             <td style="border: 1px solid #000;">1</td>
                                         </tr>
                                     </table>
+                                    <br/>
                                     <h4>Hospitals</h4>
                                     <p>Several days before the event, we have coordinated with  4 hospitals nearby. </p>
                                     <table style="border: 1px solid #000;width: 100%;text-align: center;">
@@ -368,7 +412,15 @@
                                     </table>
                                     <h4>Security Sweep</h4>
                                     <p>Before the event, a thorough security sweep was conducted by security teams with K-9 units to ensure that no illicit material are present in the venue before guests were allowed to enter.</p>
-
+                                    <img src="<?php echo base_url() ?>img/slides/Slide44.jpg" style="width:100%;" />
+                                    <table>
+                                        <tr>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide41.jpg" style="width:100%;" /></td>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide42.jpg" style="width:100%;" /></td>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide43.jpg" style="width:100%;" /></td>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide44.jpg" style="width:100%;" /></td>
+                                        </tr>
+                                    </table>
                                     <h4>Emergency and Evacuation Protocol</h4>
                                     <p>Organizers also implemented plans for immediate evacuation and assistance to all audience members and staff inside the venue in case of a major emergency including: earthquake, fire, floods, or terrorist incidents</p>
                                 </div>
@@ -448,6 +500,7 @@
                                             <td>378</td>
                                         </tr>
                                     </table>
+                                    <img src="<?php echo base_url() ?>img/slides/Slide21.JPG" style="width: 100%;" />
                                     <h3><i>On-ground Manpower</i></h3>
                                     <p>A separate group of on-ground manpower were deployed to operate key sections of the venue. These include manning entrances, guest assistance, utility, logistics, etc.</p>
                                 </div>
@@ -514,7 +567,8 @@
                                     </table>
                                     <h4>Emergency Medical Teams and Medical Stations</h4>
                                     <p>Emergency Medical Teams were deployed throughout the venue ready to quickly provide medical assistance to audience members when needed.</p>
-                                    <table style="border: 1px solid #000;width: 100%;text-align: center;">
+                                    <img src="<?php echo base_url() ?>img/slides/ambulance.JPG" style="width:100%;" />
+                                    <table style="border: 1px solid #000;width: 100%;text-align: center;margin-top: 20px;">
                                         <tr>
                                             <td style="border: 1px solid #000;"><b>Particulars</b></td>
                                             <td style="border: 1px solid #000;"><b>No. Of Teams</b></td>
@@ -554,6 +608,14 @@
                                             <td style="border: 1px solid #000;">PNP Police Officers</td>
                                             <td style="border: 1px solid #000;">100</td>
                                             <td style="border: 1px solid #000;">104</td>
+                                        </tr>
+                                    </table>
+                                    <img src="<?php echo base_url() ?>img/slides/Slide48.jpg" style="width:100%;" />
+                                    <table>
+                                        <tr>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide49.jpg" style="width:100%;" /></td>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide48.jpg" style="width:100%;" /></td>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide50.jpg" style="width:100%;" /></td>
                                         </tr>
                                     </table>
                                     <h4>PNP Undercover Contingent: INTEL GROUP</h4>
