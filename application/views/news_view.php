@@ -69,6 +69,9 @@
 					<a href="https://twitter.com/ActivationsAd" target="_blank"><img src="images/tweet.png"></a>
 					<a href="http://instagram.com/activationsadvertising" target="_blank"><img src="images/instagram.png"></a>
 				</div>
+				<div class="col-md-8 col-sm-8">
+					<?php echo anchor('newspage', 'Read More', 'style="float: right;"'); ?>
+				</div>
 			</div>
 			<!--<div>&nbsp;</div>-->
 		</div>
