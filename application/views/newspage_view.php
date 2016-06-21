@@ -247,7 +247,7 @@
                                     <div class="img-holder">
                                         <h3>1st Briefing Day - May 12, 2016</h3>
                                         <img id="large" src="<?php echo base_url() ?>img/slides/Slide2.JPG" style="width:100%;height: 380px;" />
-                                        <table>
+                                        <table style="width: 100%;">
                                             <tr>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide2.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide3.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
@@ -258,7 +258,7 @@
                                     <div class="img-holder">
                                         <h3>2nd Briefing Day - May 18, 2016</h3>
                                         <img id="large" src="<?php echo base_url() ?>img/slides/Slide7.JPG" style="width:100%;height: 380px;" />
-                                        <table>
+                                        <table style="width: 100%;">
                                             <tr>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide7.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide8.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
@@ -269,7 +269,7 @@
                                     <div class="img-holder">
                                         <h3>3rd Briefing Day - May 19, 2016</h3>
                                         <img id="large" src="<?php echo base_url() ?>img/slides/Slide11.JPG" style="width:100%;height: 380px;" />
-                                        <table>
+                                        <table style="width: 100%;">
                                             <tr>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide11.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide10.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
@@ -283,7 +283,7 @@
                                     <div class="img-holder">
                                         <h3 style="margin-top: 15px;margin-bottom: 0px;">Event Day Briefing of Security</h3>
                                         <img id="large" src="<?php echo base_url() ?>img/security/24.jpg" style="width:100%;height: 380px;" />
-                                        <table>
+                                        <table style="width: 100%;">
                                             <tr>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/24.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/IMG_0274.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
@@ -436,7 +436,7 @@
                                     <p>Before the event, a thorough security sweep was conducted by security teams with K-9 units to ensure that no illicit material are present in the venue before guests were allowed to enter.</p>
                                     <div class="img-holder">
                                         <img id="large" src="<?php echo base_url() ?>img/slides/Slide44.jpg" style="width:100%;height: 380px;" />
-                                        <table>
+                                        <table style="width: 100%;">
                                             <tr>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide41.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide42.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
@@ -636,7 +636,7 @@
                                     </table>
                                     <div class="img-holder">
                                         <img id="large" src="<?php echo base_url() ?>img/slides/Slide48.jpg" style="width:100%;height: 380px;" />
-                                        <table>
+                                        <table style="width: 100%;">
                                             <tr>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide49.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide48.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
