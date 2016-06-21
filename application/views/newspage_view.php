@@ -543,21 +543,14 @@
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_0131.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/VIP.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_0135.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_0215.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/SVIP Entrance Left.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                             </tr>
                                             <tr>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_0216.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_0218.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_6435.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_6436.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_6802.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                            </tr>
-                                            <tr>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/SVIP Entrance Left.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/SVIP Entrance Right.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td></td>
-                                                <td></td>
-                                                <td></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_6802.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                             </tr>
                                         </table>
                                     </div>
