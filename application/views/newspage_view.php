@@ -282,11 +282,11 @@
                                     <img src="<?php echo base_url() ?>img/slides/Eventdaybriefing.jpg" style="width:100%;height: 380px;" />
                                     <div class="img-holder">
                                         <h3 style="margin-top: 15px;margin-bottom: 0px;">Event Day Briefing of Security</h3>
-                                        <img id="large" src="<?php echo base_url() ?>img/security/24.jpg" style="width:100%;height: 380px;" />
+                                        <img id="large" src="<?php echo base_url() ?>img/security/Picture1.jpg" style="width:100%;height: 380px;" />
                                         <table style="width: 100%;">
                                             <tr>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/24.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/IMG_0274.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/Picture1.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/23.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/IMG_0283.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/IMG_0317.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                             </tr>
@@ -294,7 +294,7 @@
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/IMG_6922.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/IMG_6930.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/IMG_6931.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/Picture1.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/24.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                             </tr>
                                         </table>
                                     </div>
@@ -639,6 +639,11 @@
                                             <td style="border: 1px solid #000;">104</td>
                                         </tr>
                                     </table>
+                                    <br>
+                                    Letter request for PNP and K9 <a href="<?=base_url('pdf/PNP.pdf');?>" target="_blank">Read more</a>
+                                    <br>
+                                    List of PNP <a href="<?=base_url('pdf/List_of_PNP.pdf');?>" target="_blank">Read more</a>
+                                    <br><br>
                                     <div class="img-holder">
                                         <img id="large" src="<?php echo base_url() ?>img/slides/Slide48.jpg" style="width:100%;height: 380px;" />
                                         <table style="width: 100%;">
@@ -742,7 +747,7 @@
                                         </tr>
                                     </table>
 
-                                    <h4>Conclusion and Summary</h4>
+                                    <h4 style="margin-top: 20px">Recap</h4>
                                     <p>Based from the planning and implementation figures, the organizers followed industry- standard safety & security procedures in organizing major live events involving large numbers of audiences. The security and emergency protocols implemented mirrored or exceeded similar events. The required number of manpower, resources and assets were allocated in the implementation of its plans.</p>
                                     <p>During implementation, the organizers exceeded the required number of security and medical personnel based on US and WHO events standards and its entry procedures and protocols were more stringent than that of other similar events in the past. </p>
                                 </div>
