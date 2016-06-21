@@ -15,6 +15,32 @@
 	width:135px;
 } */
 
+table.runsheet{
+	width: 100%;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.runsheet .row1{
+	background: #ccc;
+}
+
+.runsheet .row2{
+	background: #ededed;
+}
+
+.runsheet tr td{
+	border: 1px solid black;
+}
+
+.runsheet .head{
+	width: 33%;
+	color: white;
+	font-weight: 600;
+	background: black;
+	border: 1px solid white;
+}
+
 .nav-contact {
 	height:80px;
 	width:auto;

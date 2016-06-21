@@ -384,44 +384,173 @@
                         </div>
                     </div>
                     <!--End PAGE 3-->
-                    <!--Start PAGE 3-->
+                    <!--Start PAGE 4-->
                     <div class="row col-md-10 col-md-offset-1 aai-news-bshadow" style="min-height: 800px;">
                         <div class="col-md-12" style="border-bottom:solid px gray;padding: 70px 15px;text-align: justify;">
                             <div class="container" style="font-weight: 100;font-family: sans-serif;">
                                 <div class="col-md-10 col-md-offset-1">
-                                    <b>SM Mall of Asia</b>
-                                    <p>The venue was provided by SM Mall of Asia at their concert grounds. The venue has been a popular location for big concert events similar to CloseUp Forever Summer.</p>
-                                    <ul class="mar30">
-                                        <li>Venue</li>
-                                        <li>Additional Security</li>
-                                    </ul>
-                                    <b>Pasay City Police</b>
-                                    <p>The Pasay City Police was asked to support and participate in the planning and implementation of the event by providing expert assistance in regards to security planning and identifying potential dangers and hazards in events of this type. Pasay City Police was also requested to provide police assistance outside and inside the venue during the event as well as show police presence.</p>
-                                    <ul class="mar30">
-                                        <li>Law enforcer</li>
-                                        <li>Police presence</li>
-                                        <li>Planning and implementation support</li>
-                                    </ul>
-
-                                    <h2 class="twidth">PRE-EVENT PLANNING</h2>
-                                    <p>Months and weeks before the event, the event organizer (CloseUp/Unilever Philippines) and its joint suppliers and partners (Eventscape and Activations Advertising) formulated and finalized the event logistics, procedures and security measures in implementing the 4th annual running of CloseUp Forever summer music festival.</p>
-                                    <h3>Standards Followed</h3>
-                                    <b>Security Personnel Requirements</b>
-                                    <ul class="mar30">
-                                        <li>The security plan was based on the US events standard a security-to-guest ratio of 1:50. 1 security personnel for every 50 audience members. </li>
-                                    </ul>
-                                    <b>Medical Personnel Requirements</b>
-                                    <ul class="mar30">
-                                        <li>
-                                            The organizers also followed the Government of Western Australia-Department of Health: Guidelines for Concerts, Events, and Organized Gatherings standard of the number of emergency medical professionals and teams to be used for events of this type and size.
-                                            <br><a href="http://ww2.health.wa.gov.au/~/media/Files/Corporate/general%20documents/Environmental%20health/Concerts%20and%20Mass%20Gathering%20Guidelines.ashx">Click here for reference.</a><br>
-                                        </li>
-                                    </ul>
+                                    <h4>1st Briefing Day - May 12, 2016</h4>
+                                    <div class="img-holder">
+                                        <img id="large" src="<?php echo base_url() ?>img/1stbriefing/Picture1.jpg" style="width:100%;height: 380px;" />
+                                        <table style="width: 100%;margin-bottom: 20px;">
+                                            <tr>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/1stbriefing/Picture2.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/1stbriefing/Picture3.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/1stbriefing/Picture4.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <h4>2nd Briefing Day - May 18, 2016</h4>
+                                    <div class="img-holder">
+                                        <img id="large" src="<?php echo base_url() ?>img/2ndbriefing/Picture9.jpg" style="width:100%;height: 380px;" />
+                                        <table style="width: 100%;margin-bottom: 20px;">
+                                            <tr>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/2ndbriefing/Picture9.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/2ndbriefing/Picture10.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/2ndbriefing/Picture11.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <h4>3rd Briefing Day - May 19, 2016</h4>
+                                    <div class="img-holder">
+                                        <img id="large" src="<?php echo base_url() ?>img/3rdbriefing/Picture15.jpg" style="width:100%;height: 380px;" />
+                                        <table style="width: 100%;margin-bottom: 20px;">
+                                            <tr>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/3rdbriefing/Picture15.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/3rdbriefing/Picture16.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/3rdbriefing/Picture17.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <h4>CLOSEUP FOREVER SUMMER 2016 "NOW OR NEVER" RUNSHEET</h4>
+                                    <table class="runsheet">
+                                        <tr>
+                                            <td class="head">Date</td>
+                                            <td class="head">Time</td>
+                                            <td class="head">Activity</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="31" class="row1">May 21, 2016</td>
+                                            <td class="row1">6:30:00 AM</td>
+                                            <td class="row1">Call time of Manpower @ Quirino 2B Basketball Court</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row2">8:30:00 AM</td>
+                                            <td class="row2">Call time of Core Group</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row1"></td>
+                                            <td class="row1">Distributon of Breakfast Meal</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row2">9:30 am to 10:00 am</td>
+                                            <td class="row2">On-site rebriefing of Core + TLs</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="2" class="row1">10:00 am to 10:30 am</td>
+                                            <td class="row1">Distribution of AAI Wirst Tags, IDs and Uniform of On-ground Team</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row1">Distribution of Pouch Devices to AAI</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row2">10:00:00 AM</td>
+                                            <td class="row2">Start distribution of ID's to Unilever, partner agencies and concessionaires</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row1">10:30 am to 11:30 am</td>
+                                            <td class="row1">On-site simulation of on-ground manpower team</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row2">11:00:00 AM</td>
+                                            <td class="row2">Call time of Bouncers</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row1">11:15:00 AM</td>
+                                            <td class="row1">Assembly of Security/Bouncers</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row2">11:30:00 AM</td>
+                                            <td class="row2">Security Briefing on-site</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row1">12:00 nn</td>
+                                            <td class="row1">SM Tickets Set-up (24 Laptops & Scanners) / WIFI Connection</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row2">12:15:00 PM</td>
+                                            <td class="row2">Rebriefing with Unilever Brand Team</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="2" class="row1">12:30:00 PM</td>
+                                            <td class="row1">Distribution of wrist tags + ids to Bouncers (per area)</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row1">Distribution of Lunch Meals</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="2" class="row2">1:30:00 PM</td>
+                                            <td class="row2">Clearing of Venue/ Prep for Security Sweep</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row2">All manpower should wear their uniform</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="2" class="row1">2:00:00 PM</td>
+                                            <td class="row1">Start of Security Sweep Proper</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row1">Distribution of Remaining event ID's</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="3" class="row2">2:30:00 PM</td>
+                                            <td class="row2">Distribution of Pouch Devices to Concessionaires</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row2">Distribution of Communicators</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row2">All manpower on standby to designated areas</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row1">4:00:00 PM</td>
+                                            <td class="row1">Gates Open</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row2">6:00:00 PM</td>
+                                            <td class="row2">Distribution of Dinner </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row1">12:00:00 MN</td>
+                                            <td class="row1">Distribution of Midnight Meal</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row2">2:30:00 AM</td>
+                                            <td class="row2">End of Show</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="4" class="row1">3:00:00 AM</td>
+                                            <td class="row1">Retrieval of all Pouch Devices (On-ground team + Concessionaires)</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row1">Retrieval of all Communicators</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row1">Retrieval of all materials and equipments</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row1">Inventory of Sales</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row2">4:00:00 AM</td>
+                                            <td class="row2">GO HOME AND SLEEP!!!</td>
+                                        </tr>
+                                    </table>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!--End PAGE 3 -->
+                    <!--End PAGE 4 -->
                     <!--Start PAGE 4 -->
                     <div class="row col-md-10 col-md-offset-1 aai-news-bshadow" style="min-height: 800px;">
                         <div class="col-md-12" style="border-bottom:solid px gray;padding: 70px 15px;text-align: justify;">
