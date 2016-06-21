@@ -108,7 +108,7 @@
                             <div class="container" style="font-weight: 100;font-family: sans-serif;padding-top: 25%;font-size: 1.2em;">
                                 <!--Start CONTENT -->
                                 <p>As of June 20, 2016, we at Activations Advertising, Inc. continue to cooperate with the NBI and the Congress regarding the investigation on Closeup Forever Summer 2016 . The deaths that occurred during the event are a terrible tragedy and have been profoundly traumatic for all of the parties involved.</p>
-                                <p>In the interest of full disclosure, we would like to make public the documents, which we have submitted, to the NBI –which includes the security plan validated by affidavits. We have decided to publish this so that the public can be informed about the details of this unfortunate circumstance.</p>
+                                <p>In the interest of full disclosure, we would like to make public the documents, which we have submitted, to the NBI which includes the security plan validated by affidavits. We have decided to publish this so that the public can be informed about the details of this unfortunate circumstance.</p>
                                 <p>Currently, our organization is working with several security experts to find possible enhancements to our security protocol.</p>
                                 <!--End CONTENT -->
                             </div>
@@ -123,11 +123,11 @@
                                 <div class="col-md-10 col-md-offset-1">
                                     <b>Civilian</b>
                                     <ul style="margin-left: 50px;">
-                                        <li>CloseUp/Unilever Philippines –Event Organizer</li>
-                                        <li>EventScape – Event Implementation, Logistics, Talent Acquisition, Food and Beverage</li>
-                                        <li>Activations Advertising – Event Security, On-ground Manpower and Logistics</li>
-                                        <li>Pouch – RFID Venue Entry System</li>
-                                        <li>SM Mall of Asia – Venue Owner, Security</li>
+                                        <li>CloseUp/Unilever Philippines - Event Organizer</li>
+                                        <li>EventScape - Event Implementation, Logistics, Talent Acquisition, Food and Beverage</li>
+                                        <li>Activations Advertising - Event Security, On-ground Manpower and Logistics</li>
+                                        <li>Pouch - RFID Venue Entry System</li>
+                                        <li>SM Mall of Asia - Venue Owner, Security</li>
                                     </ul>
                                     <b>Government</b>
                                     <ul style="margin-left: 50px;">
@@ -136,7 +136,7 @@
                                         <li>Bureau of Fire Protection</li>
                                     </ul>
                                     <b>What is CloseUp Forever Summer?</b>
-                                    <p>CloseUp Forever Summer is an annual Electronic Dance Music (EDM) festival featuring the world’s top DJs performing live. The event is organized and funded by CloseUp/Unilever Philippines with support from its contracted suppliers EventScape and Activations Advertising.</p>
+                                    <p>CloseUp Forever Summer is an annual Electronic Dance Music (EDM) festival featuring the world's top DJs performing live. The event is organized and funded by CloseUp/Unilever Philippines with support from its contracted suppliers EventScape and Activations Advertising.</p>
 
                                     <b>EventScape</b>
                                     <p>EventScape was responsible for organizing and bringing-in the featured talent and performers for the event.</p>
@@ -325,7 +325,7 @@
                                     <h4>Security and Emergency Safety Videos</h4>
                                     <ul style="margin-left: 50px;">
                                         <li>
-                                            <p>Videos were shown on-screen during the event that informs concert goers to follow the event’s security, safety and emergency rules.</p>
+                                            <p>Videos were shown on-screen during the event that informs concert goers to follow the event's security, safety and emergency rules.</p>
                                         </li>
                                     </ul>
                                     <iframe class="embed-responsive-item twidth" src="<?=base_url('videos/Media1.mp4')?>" style="height: 388px;" allowfullscreen></iframe>
