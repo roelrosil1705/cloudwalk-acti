@@ -198,14 +198,29 @@
                                             <th>Actual Deployed</th>
                                         </tr>
                                         <tr align="left">
-                                            <td>On-ground Safety Commander</td>
+                                            <td>On-ground Safety Commander and Security Commander</td>
                                             <td align="right">1</td>
                                             <td align="right">1</td>
                                         </tr>
                                         <tr align="left">
-                                            <td>Assistant Safety Commanders</td>
+                                            <td>Assistant to the Safety Commanders</td>
                                             <td align="right">3</td>
                                             <td align="right">4</td>
+                                        </tr>
+                                        <tr align="left">
+                                            <td>Head PNP</td>
+                                            <td align="right">1</td>
+                                            <td align="right">1</td>
+                                        </tr>
+                                        <tr align="left">
+                                            <td>PNP</td>
+                                            <td align="right">100</td>
+                                            <td align="right">104</td>
+                                        </tr>
+                                        <tr align="left">
+                                            <td>Intel Group</td>
+                                            <td align="right">---</td>
+                                            <td align="right">8</td>
                                         </tr>
                                         <tr align="left">
                                             <td>SM Mall of Asia Security</td>
@@ -228,6 +243,11 @@
                                             <td align="right">235</td>
                                         </tr>
                                         <tr align="left">
+                                            <td>Bouncer's Team Leader</td>
+                                            <td align="right">15</td>
+                                            <td align="right">15</td>
+                                        </tr>
+                                        <tr align="left">
                                             <td>Red Knights Security (for SVIP)</td>
                                             <td align="right">16</td>
                                             <td align="right">16</td>
@@ -239,8 +259,8 @@
                                         </tr>
                                         <tr align="left">
                                             <td>Total</td>
-                                            <td align="right">377</td>
-                                            <td align="right">378</td>
+                                            <td align="right">472</td>
+                                            <td align="right">485</td>
                                         </tr>
                                     </table>
                                     <br>
