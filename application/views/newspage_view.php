@@ -747,7 +747,7 @@
                                         </tr>
                                     </table>
 
-                                    <h4>Conclusion and Summary</h4>
+                                    <h4>Recap</h4>
                                     <p>Based from the planning and implementation figures, the organizers followed industry- standard safety & security procedures in organizing major live events involving large numbers of audiences. The security and emergency protocols implemented mirrored or exceeded similar events. The required number of manpower, resources and assets were allocated in the implementation of its plans.</p>
                                     <p>During implementation, the organizers exceeded the required number of security and medical personnel based on US and WHO events standards and its entry procedures and protocols were more stringent than that of other similar events in the past. </p>
                                 </div>
