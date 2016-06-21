@@ -774,28 +774,28 @@
                                     <h4 style="margin-bottom: 0px;"><b>Distribution of AAI Wirst Tags, IDs, Uniform and Pouch Devices to AAI</b></h4>
                                     <p>10:00 am to 10:30 am</p><br/>
                                     <div class="img-holder">
-                                        <img id="large" src="<?php echo base_url() ?>img/runsheet/distribution/IMG_0264.jpg" style="width:100%;height: 380px;" />
+                                        <img id="large" src="<?php echo base_url() ?>img/runsheet/distribution/IMG_0264.JPG" style="width:100%;height: 380px;" />
                                         <table style="width: 100%;margin-bottom: 20px;">
                                             <tr>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/distribution/IMG_0264.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/distribution/IMG_0295.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/distribution/IMG_0296.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/distribution/IMG_0264.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/distribution/IMG_0295.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/distribution/IMG_0296.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                             </tr>
                                             <tr>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/distribution/IMG_0495.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/distribution/IMG_6907.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/distribution/IMG_6964.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/distribution/IMG_0495.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/distribution/IMG_6907.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/distribution/IMG_6964.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                             </tr>
                                         </table>
                                     </div><br/>
                                     <h4 style="margin-bottom: 0px;"><b>On-ground Manpower Simulation</b></h4>
                                     <p>10:30 am to 11:30 am</p><br/>
                                     <div class="img-holder">
-                                        <img id="large" src="<?php echo base_url() ?>img/runsheet/simulation/IMG_0221.jpg" style="width:100%;height: 380px;" />
+                                        <img id="large" src="<?php echo base_url() ?>img/runsheet/simulation/IMG_0221.JPG" style="width:100%;height: 380px;" />
                                         <table style="width: 100%;margin-bottom: 20px;">
                                             <tr>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/simulation/IMG_0221.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/simulation/IMG_0314.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/simulation/IMG_0221.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/simulation/IMG_0314.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/simulation/Picture1.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/simulation/Picture2.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/simulation/Picture3.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
@@ -810,13 +810,13 @@
                                             <tr>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_brief/1f84550abc7a952246f710114a404edf7dc45c79d0b79e1ab78b835cf6b17528_full.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_brief/13275216_1271713416190974_482153606_o.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_brief/IMG_0274.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_brief/IMG_0283.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_brief/IMG_0274.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_brief/IMG_0283.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                             </tr>
                                             <tr>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_brief/IMG_0317.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_brief/IMG_0317.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_brief/IMG_6922.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_brief/IMG_6930.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_brief/IMG_6930.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_brief/IMG_6931.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                             </tr>
                                         </table>
@@ -830,15 +830,15 @@
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_sweep/IMG_0379.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_sweep/IMG_0381.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_sweep/IMG_0384.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_sweep/IMG_0386.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_sweep/IMG_0388.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_sweep/IMG_0386.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_sweep/IMG_0388.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                             </tr>
                                             <tr>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_sweep/IMG_0391.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_sweep/IMG_0391.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_sweep/IMG_0411.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_sweep/IMG_0418.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_sweep/IMG_0429.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_sweep/IMG_0458.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_sweep/IMG_0429.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_sweep/IMG_0458.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                             </tr>
                                         </table>
                                     </div><br/>
