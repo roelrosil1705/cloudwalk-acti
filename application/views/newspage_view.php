@@ -13,6 +13,8 @@
     <link href="<?php echo base_url();?>style/whatwedo_style.css" rel="stylesheet">
     <link href="<?php echo base_url();?>style/style.css" rel="stylesheet">
 
+    <script src="<?php echo base_url();?>js/jquery.min.js"></script>
+    <script src="<?php echo base_url();?>js/jquery-ui.min.js"></script>
     <link rel="stylesheet" type="text/css" href="<?php echo base_url();?>elastslide/css/demo.css" /><!-- added 01-03-2014 -->
     <link rel="stylesheet" type="text/css" href="<?php echo base_url();?>elastslide/css/elastislide.css" /><!-- added 01-03-2014 -->
     <link rel="stylesheet" type="text/css" href="<?php echo base_url();?>elastslide/css/custom.css" /><!-- added 01-03-2014 -->
@@ -242,43 +244,51 @@
                                             <td style="border: 1px solid #000;">Mall of Asia</td>
                                         </tr>
                                     </table>
-                                    <h3>1st Briefing Day - May 12, 2016</h3>
-                                    <img src="<?php echo base_url() ?>img/slides/Slide2.JPG" style="width:100%;" />
-                                    <table>
-                                        <tr>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide2.JPG" style="width:100%;" /></td>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide3.JPG" style="width:100%;" /></td>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide4.png" style="width:100%;" /></td>
-                                        </tr>
-                                    </table>
-                                    <h3>2nd Briefing Day - May 18, 2016</h3>
-                                    <img src="<?php echo base_url() ?>img/slides/Slide7.JPG" style="width:100%;" />
-                                    <table>
-                                        <tr>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide7.JPG" style="width:100%;" /></td>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide8.JPG" style="width:100%;" /></td>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide9.JPG" style="width:100%;" /></td>
-                                        </tr>
-                                    </table>
-                                    <h3>3rd Briefing Day - May 19, 2016</h3>
-                                    <img src="<?php echo base_url() ?>img/slides/Slide11.JPG" style="width:100%;" />
-                                    <table>
-                                        <tr>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide11.JPG" style="width:100%;" /></td>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide10.JPG" style="width:100%;" /></td>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide12.JPG" style="width:100%;" /></td>
-                                        </tr>
-                                    </table>
-                                    <h3>Day of Event Briefing</h3>
-                                    <img src="<?php echo base_url() ?>img/slides/Slide13.JPG" style="width:100%;" />
-                                    <table>
-                                        <tr>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide13.JPG" style="width:100%;" /></td>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide14.JPG" style="width:100%;" /></td>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide15.JPG" style="width:100%;" /></td>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide16.JPG" style="width:100%;" /></td>
-                                        </tr>
-                                    </table>
+                                    <div class="img-holder">
+                                        <h3>1st Briefing Day - May 12, 2016</h3>
+                                        <img id="large" src="<?php echo base_url() ?>img/slides/Slide2.JPG" style="width:100%;height: 380px;" />
+                                        <table>
+                                            <tr>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide2.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide3.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide4.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <div class="img-holder">
+                                        <h3>2nd Briefing Day - May 18, 2016</h3>
+                                        <img id="large" src="<?php echo base_url() ?>img/slides/Slide7.JPG" style="width:100%;height: 380px;" />
+                                        <table>
+                                            <tr>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide7.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide8.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide9.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <div class="img-holder">
+                                        <h3>3rd Briefing Day - May 19, 2016</h3>
+                                        <img id="large" src="<?php echo base_url() ?>img/slides/Slide11.JPG" style="width:100%;height: 380px;" />
+                                        <table>
+                                            <tr>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide11.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide10.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide12.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <div class="img-holder">
+                                        <h3>Day of Event Briefing</h3>
+                                        <img id="large" src="<?php echo base_url() ?>img/slides/Slide16.JPG" style="width:100%;height: 380px;" />
+                                        <table>
+                                            <tr>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide13.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide14.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide15.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide16.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                            </tr>
+                                        </table>
+                                    </div>
                                     <h3><b>EVENT DAY AND IMPLEMENTATION OF SECURITY PLAN</b></h3>
                                     <b>Quick Look: Security Plan</b>
                                     <p>The security plan was based from previous CloseUp Forever Summer runs and similar events implemented by the organizers. </p>
@@ -413,15 +423,17 @@
                                     </table>
                                     <h4>Security Sweep</h4>
                                     <p>Before the event, a thorough security sweep was conducted by security teams with K-9 units to ensure that no illicit material are present in the venue before guests were allowed to enter.</p>
-                                    <img src="<?php echo base_url() ?>img/slides/Slide44.jpg" style="width:100%;" />
-                                    <table>
-                                        <tr>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide41.jpg" style="width:100%;" /></td>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide42.jpg" style="width:100%;" /></td>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide43.jpg" style="width:100%;" /></td>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide44.jpg" style="width:100%;" /></td>
-                                        </tr>
-                                    </table>
+                                    <div class="img-holder">
+                                        <img id="large" src="<?php echo base_url() ?>img/slides/Slide44.jpg" style="width:100%;height: 380px;" />
+                                        <table>
+                                            <tr>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide41.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide42.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide43.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide44.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                            </tr>
+                                        </table>
+                                    </div>
                                     <h4>Emergency and Evacuation Protocol</h4>
                                     <p>Organizers also implemented plans for immediate evacuation and assistance to all audience members and staff inside the venue in case of a major emergency including: earthquake, fire, floods, or terrorist incidents</p>
                                 </div>
@@ -611,14 +623,16 @@
                                             <td style="border: 1px solid #000;">104</td>
                                         </tr>
                                     </table>
-                                    <img src="<?php echo base_url() ?>img/slides/Slide48.jpg" style="width:100%;" />
-                                    <table>
-                                        <tr>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide49.jpg" style="width:100%;" /></td>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide48.jpg" style="width:100%;" /></td>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide50.jpg" style="width:100%;" /></td>
-                                        </tr>
-                                    </table>
+                                    <div class="img-holder">
+                                        <img id="large" src="<?php echo base_url() ?>img/slides/Slide48.jpg" style="width:100%;height: 380px;" />
+                                        <table>
+                                            <tr>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide49.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide48.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide50.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                            </tr>
+                                        </table>
+                                    </div>
                                     <img src="<?php echo base_url() ?>img/slides/pnp_highlight.jpg" style="width:100%;" />
                                     <h4>PNP Undercover Contingent: INTEL GROUP</h4>
                                     <p>The Pasay PNP also deployed civilian-clothed units inside the venue to monitor the audience and guard against potential dangers.</p>
@@ -742,9 +756,6 @@
     ?>
 </div>
 
-<script src="<?php echo base_url();?>js/jquery.min.js"></script>
-<script src="<?php echo base_url();?>js/jquery-ui.min.js"></script>
-
 <script src="<?php echo base_url();?>bootstrap/js/bootstrap.js"></script>
 <script src="http://code.jquery.com/jquery.js"></script>
 <script src="bootstrap/js/bootstrap.min.js"></script>
@@ -765,6 +776,10 @@
             $('#scrolltopbtn').hide();
         }
         lastScrollTop = st;
+    });
+    $('.img-thumb').on('click',function(){
+        var imgsrc = $(this).attr('src');
+        $(this).parents('.img-holder').find('#large').attr('src',imgsrc);
     });
 </script>
 
