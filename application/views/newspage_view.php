@@ -418,18 +418,23 @@
                                     <table style="border: 1px solid #000;width: 100%;text-align: center;">
                                         <tr>
                                             <td style="border: 1px solid #000;"><b>Hospitals</b></td>
+                                            <td style="border: 1px solid #000;">PDF</td>
                                         </tr>
                                         <tr>
                                             <td style="border: 1px solid #000;">San Juan De Dios </td>
+                                            <td style="border: 1px solid #000;"><a href="<?=base_url('pdf/San_Juan_de_Dios.pdf')?>" target="_blank">Read more</a></td>
                                         </tr>
                                         <tr>
                                             <td style="border: 1px solid #000;">Adventist Medical </td>
+                                            <td style="border: 1px solid #000;"><a href="<?=base_url('pdf/Adventist_Medical_Center_Manila.pdf')?>" target="_blank">Read more</a></td>
                                         </tr>
                                         <tr>
                                             <td style="border: 1px solid #000;">Pasay General Hospital</td>
+                                            <td style="border: 1px solid #000;"><a href="<?=base_url('pdf/Pasay_City_General_Hospital.pdf')?>" target="_blank">Read more</a></td>
                                         </tr>
                                         <tr>
                                             <td style="border: 1px solid #000;">Manila Doctors</td>
+                                            <td style="border: 1px solid #000;"><a href="<?=base_url('pdf/Manila_Doctors.pdf')?>" target="_blank">Read more</a></td>
                                         </tr>
                                     </table>
                                     <h4>Security Sweep</h4>
