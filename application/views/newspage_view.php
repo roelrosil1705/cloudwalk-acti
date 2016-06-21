@@ -125,8 +125,8 @@
                                     <b>What is CloseUp Forever Summer?</b>
                                     <p>CloseUp Forever Summer is an annual Electronic Dance Music (EDM) festival featuring the world's top DJs performing live. The event is organized and funded by CloseUp/Unilever Philippines with support from its contracted suppliers EventScape and Activations Advertising.</p>
                                     <br/>
-                                    <h4 style="text-align: center;"><strong>INVOLVED GROUPS AND ORGANIZATIONS</strong></h4>
-                                    <h3><b>Civilian</b></h3>
+                                    <h3 style="text-align: center;"><strong>INVOLVED GROUPS AND ORGANIZATIONS</strong></h3>
+                                    <h4><b>Civilian</b></h4>
                                     <b>1.) CloseUp/Unilever Philippines - Event Organizer</b><br/><br/>
                                     <b>2.) EventScape - Event Implementation, Logistics, Talent Acquisition, Food and Beverage</b>
                                     <p>EventScape was responsible for organizing and bringing-in the featured talent and performers for the event.</p>
@@ -154,7 +154,7 @@
                                         <li>Venue</li>
                                         <li>Additional Security</li>
                                     </ul>
-                                    <h3><b>Government</b></h3>
+                                    <h4><b>Government</b></h4>
                                     <b>1.) PNP Pasay</b>
                                     <p>The Pasay City Police was asked to support and participate in the planning and implementation of the event by providing expert assistance in regards to security planning and identifying potential dangers and hazards in events of this type. Pasay City Police was also requested to provide police assistance outside and inside the venue during the event as well as show police presence.</p>
                                     <ul style="margin-left: 50px;">
@@ -174,6 +174,143 @@
                         </div>
                     </div>
                     <!--End PAGE 2-->
+                    <!--Start PAGE 3-->
+                    <div class="row col-md-10 col-md-offset-1 aai-news-bshadow" style="min-height: 800px;">
+                        <div class="col-md-12" style="border-bottom:solid px gray;padding: 70px 15px;text-align: justify;">
+                            <div class="container" style="font-weight: 100;font-family: sans-serif;">
+                                <div class="col-md-10 col-md-offset-1">
+                                    <h3 style="text-align: center;"><strong>PRE-EVENT PLANNING</strong></h3>
+                                    <p>Months and weeks before the event, the event organizer (CloseUp/Unilever Philippines) and its joint suppliers and partners (Eventscape and Activations Advertising) formulated and finalized the event logistics, procedures and security measures in implementing the 4th annual running of CloseUp Forever summer music festival.</p>
+                                    <br>
+                                    <h4>Standards Followed</h4>
+                                    <ul class="mar15">
+                                        <li>
+                                            Security Personnel Requirements
+                                            <ul class="mar30">
+                                                <li>The security plan was based on the US events standard a security-to-guest ratio of 1:50. 1 security personnel for every 50 audience members.</li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                    <table class="twidth" border="1px">
+                                        <tr>
+                                            <th>Particulars</th>
+                                            <th>Planned No.</th>
+                                            <th>Actual Deployed</th>
+                                        </tr>
+                                        <tr align="left">
+                                            <td>On-ground Safety Commander and Security Commander</td>
+                                            <td align="right">1</td>
+                                            <td align="right">1</td>
+                                        </tr>
+                                        <tr align="left">
+                                            <td>Assistant to the Safety Commanders</td>
+                                            <td align="right">3</td>
+                                            <td align="right">4</td>
+                                        </tr>
+                                        <tr align="left">
+                                            <td>Head PNP</td>
+                                            <td align="right">1</td>
+                                            <td align="right">1</td>
+                                        </tr>
+                                        <tr align="left">
+                                            <td>PNP</td>
+                                            <td align="right">100</td>
+                                            <td align="right">104</td>
+                                        </tr>
+                                        <tr align="left">
+                                            <td>Intel Group</td>
+                                            <td align="right">---</td>
+                                            <td align="right">8</td>
+                                        </tr>
+                                        <tr align="left">
+                                            <td>SM Mall of Asia Security</td>
+                                            <td align="right">100</td>
+                                            <td align="right">100</td>
+                                        </tr>
+                                        <tr align="left">
+                                            <td>Head Security</td>
+                                            <td align="right">1</td>
+                                            <td align="right">1</td>
+                                        </tr>
+                                        <tr align="left">
+                                            <td>Bouncers Team Leaders</td>
+                                            <td align="right">15</td>
+                                            <td align="right">15</td>
+                                        </tr>
+                                        <tr align="left">
+                                            <td>Bouncers</td>
+                                            <td align="right">235</td>
+                                            <td align="right">235</td>
+                                        </tr>
+                                        <tr align="left">
+                                            <td>Bouncer's Team Leader</td>
+                                            <td align="right">15</td>
+                                            <td align="right">15</td>
+                                        </tr>
+                                        <tr align="left">
+                                            <td>Red Knights Security (for SVIP)</td>
+                                            <td align="right">16</td>
+                                            <td align="right">16</td>
+                                        </tr>
+                                        <tr align="left">
+                                            <td>k-9 Units</td>
+                                            <td align="right">6</td>
+                                            <td align="right">6</td>
+                                        </tr>
+                                        <tr align="left">
+                                            <td>Total</td>
+                                            <td align="right">472</td>
+                                            <td align="right">485</td>
+                                        </tr>
+                                    </table>
+                                    <br>
+                                    <ul class="mar15">
+                                        <li>
+                                            Medical Personnel Requirements
+                                            <ul class="mar30">
+                                                <li>The organizers also followed the Government of Western Australia-Department of Health: Guidelines for Concerts, Events, and Organized Gatherings standard of the number of emergency medical professionals and teams to be used for events of this type and size. </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                    <a href="http://ww2.health.wa.gov.au/~/media/Files/Corporate/general%20documents/Environmental%20health/Concerts%20and%20Mass%20Gathering%20Guidelines.ashx">Click here for reference.</a>
+                                    <br>
+                                    <br>
+                                    <h4>Planning and Production Meetings</h4>
+                                    <p>CloseUp and its main suppliers Activations Advertising and Eventscape conducted three separate pre-production meetings with suppliers, partners and government organizations refine and finalize the security measures that will be put in place during the event.</p>
+                                    <br>
+                                    <h4>Pre-production and security meetings</h4>
+                                    <table style="border: 1px solid #000;width: 100%;text-align: center;">
+                                        <tr>
+                                            <td style="border: 1px solid #000;"><b>Agenda</b></td>
+                                            <td style="border: 1px solid #000;"><b>Date</b></td>
+                                            <td style="border: 1px solid #000;"><b>Location</b></td>
+                                        </tr>
+                                        <tr>
+                                            <td style="border: 1px solid #000;">1st Production Meeting</td>
+                                            <td style="border: 1px solid #000;">05/12/2016</td>
+                                            <td style="border: 1px solid #000;">SM Mall of Asia</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="border: 1px solid #000;">2nd Production Meeting</td>
+                                            <td style="border: 1px solid #000;">05/18/2016</td>
+                                            <td style="border: 1px solid #000;">Brgy Pinahan, Quezon City</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="border: 1px solid #000;">3rd Production Meeting</td>
+                                            <td style="border: 1px solid #000;">05/19/2016</td>
+                                            <td style="border: 1px solid #000;">Brgy. Quirino 2B Covered Court</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="border: 1px solid #000;">Final Security Briefing/Simulation</td>
+                                            <td style="border: 1px solid #000;">05/21/2016</td>
+                                            <td style="border: 1px solid #000;">Mall of Asia</td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End PAGE 3-->
                     <!--Start PAGE 3-->
                     <div class="row col-md-10 col-md-offset-1 aai-news-bshadow" style="min-height: 800px;">
                         <div class="col-md-12" style="border-bottom:solid px gray;padding: 70px 15px;text-align: justify;">
@@ -205,7 +342,6 @@
                                         <li>
                                             The organizers also followed the Government of Western Australia-Department of Health: Guidelines for Concerts, Events, and Organized Gatherings standard of the number of emergency medical professionals and teams to be used for events of this type and size.
                                             <br><a href="http://ww2.health.wa.gov.au/~/media/Files/Corporate/general%20documents/Environmental%20health/Concerts%20and%20Mass%20Gathering%20Guidelines.ashx">Click here for reference.</a><br>
-
                                         </li>
                                     </ul>
                                 </div>
@@ -643,7 +779,7 @@
                                         <tr>
                                             <td style="border: 1px solid #000;">PNP Police Officers</td>
                                             <td style="border: 1px solid #000;">100</td>
-                                            <td style="border: 1px solid #000;">104</td>
+                                            <td style="border: 1px solid #000;">100</td>
                                         </tr>
                                     </table>
                                     <br>
