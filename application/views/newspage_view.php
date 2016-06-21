@@ -612,19 +612,7 @@
                                             <td style="border: 1px solid #000;"><a href="<?=base_url('pdf/Manila_Doctors.pdf')?>" target="_blank">Read more</a></td>
                                         </tr>
                                     </table>
-                                    <h4>Security Sweep</h4>
-                                    <p>Before the event, a thorough security sweep was conducted by security teams with K-9 units to ensure that no illicit material are present in the venue before guests were allowed to enter.</p>
-                                    <div class="img-holder">
-                                        <img id="large" src="<?php echo base_url() ?>img/slides/Slide44.jpg" style="width:100%;height: 380px;" />
-                                        <table style="width: 100%;">
-                                            <tr>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide41.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide42.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide43.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide44.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                            </tr>
-                                        </table>
-                                    </div>
+                                    <br>
                                     <h4>Emergency and Evacuation Protocol</h4>
                                     <p>Organizers also implemented plans for immediate evacuation and assistance to all audience members and staff inside the venue in case of a major emergency including: earthquake, fire, floods, or terrorist incidents</p>
                                     <br>
