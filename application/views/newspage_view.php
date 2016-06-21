@@ -121,26 +121,13 @@
                     <div class="row col-md-10 col-md-offset-1 aai-news-bshadow" style="min-height: 800px;">
                         <div class="col-md-12" style="border-bottom:solid px gray;padding: 70px 15px;text-align: justify;">
                             <div class="container" style="font-weight: 100;font-family: sans-serif;">
-                                <h4 style="text-align: center;"><strong>INVOLVED GROUPS AND ORGANIZATIONS</strong></h4>
                                 <div class="col-md-10 col-md-offset-1">
-                                    <b>Civilian</b>
-                                    <ul style="margin-left: 50px;">
-                                        <li>CloseUp/Unilever Philippines - Event Organizer</li>
-                                        <li>EventScape - Event Implementation, Logistics, Talent Acquisition, Food and Beverage</li>
-                                        <li>Activations Advertising - Event Security, On-ground Manpower and Logistics</li>
-                                        <li>Pouch - RFID Venue Entry System</li>
-                                        <li>SM Mall of Asia - Venue Owner, Security</li>
-                                    </ul>
-                                    <b>Government</b>
-                                    <ul style="margin-left: 50px;">
-                                        <li>PNP Pasay</li>
-                                        <li>City of Pasay</li>
-                                        <li>Bureau of Fire Protection</li>
-                                    </ul>
                                     <b>What is CloseUp Forever Summer?</b>
                                     <p>CloseUp Forever Summer is an annual Electronic Dance Music (EDM) festival featuring the world's top DJs performing live. The event is organized and funded by CloseUp/Unilever Philippines with support from its contracted suppliers EventScape and Activations Advertising.</p>
-
-                                    <b>EventScape</b>
+                                    <h4 style="text-align: center;"><strong>INVOLVED GROUPS AND ORGANIZATIONS</strong></h4>
+                                    <h3><b>Civilian</b></h3>
+                                    <b>1.) CloseUp/Unilever Philippines - Event Organizer</b><br/>
+                                    <b>2.) EventScape - Event Implementation, Logistics, Talent Acquisition, Food and Beverage</b>
                                     <p>EventScape was responsible for organizing and bringing-in the featured talent and performers for the event.</p>
                                     <ul style="margin-left: 50px;">
                                         <li>Staging of the event</li>
@@ -148,10 +135,8 @@
                                         <li>Event setup</li>
                                         <li>Official Permits (Event, City, Alcohol)</li>
                                         <li>Organizing food and alcoholic beverage suppliers</li>
-                                        <li>Selling of Food. Beverages, Alcoholic drinks</li>
                                     </ul>
-
-                                    <b>Activations Advertising</b>
+                                    <b>3.) Activations Advertising - Event Security, On-ground Manpower and Logistics</b>
                                     <p>Activations Advertising Inc. was given the task of planning, organizing and implementing the security and emergency measures for the event. </p>
                                     <ul style="margin-left: 50px;">
                                         <li>Planning and Implementation of event security and emergency procedures</li>
@@ -160,7 +145,28 @@
                                         <li>Coordination with PNP</li>
                                         <li>Coordination with Hospitals</li>
                                         <li>Coordination with Licensed Ticket outlet</li>
+                                        <li>RFID Venue Entry System (by POUCH)</li>
                                     </ul>
+                                    <b>4.) SM Mall of Asia - Venue Owner, Security</b>
+                                    <p>The venue was provided by SM Mall of Asia at their concert grounds. The venue has been a popular location for big concert events similar to CloseUp Forever Summer.</p>
+                                    <ul style="margin-left: 50px;">
+                                        <li>Venue</li>
+                                        <li>Additional Security</li>
+                                    </ul>
+                                    <h3><b>Government</b></h3>
+                                    <b>1.) PNP Pasay</b>
+                                    <p>The Pasay City Police was asked to support and participate in the planning and implementation of the event by providing expert assistance in regards to security planning and identifying potential dangers and hazards in events of this type. Pasay City Police was also requested to provide police assistance outside and inside the venue during the event as well as show police presence.</p>
+                                    <ul style="margin-left: 50px;">
+                                        <li>Additional Security</li>
+                                        <li>Police presence</li>
+                                        <li>Planning and implementation support</li>
+                                    </ul>
+                                    <b>2.) City of Pasay</b>
+                                    <ul style="margin-left: 50px;">
+                                        <li>Permit Issuance</li>
+                                        <li>Deployment of Inspection Team</li>
+                                    </ul>
+                                    <b>3.) Bureau of Fire Protection</b>
                                 </div>
                                 <!--End CONTENT -->
                             </div>
