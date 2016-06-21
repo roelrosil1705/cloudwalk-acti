@@ -131,11 +131,11 @@
                                     <b>2.) EventScape - Event Implementation, Logistics, Talent Acquisition, Food and Beverage</b>
                                     <p>EventScape was responsible for organizing and bringing-in the featured talent and performers for the event.</p>
                                     <ul style="margin-left: 50px;">
-                                        <li>Staging of the event</li>
+                                        <li>Staging of the Event</li>
                                         <li>Talent Acquisition</li>
-                                        <li>Event setup</li>
+                                        <li>Event Setup</li>
                                         <li>Official Permits (Event, City, Alcohol)</li>
-                                        <li>Organizing food and alcoholic beverage suppliers</li>
+                                        <li>Organizing Food and Alcoholic Beverage Suppliers</li>
                                     </ul>
                                     <b>3.) Activations Advertising - Event Security, On-ground Manpower and Logistics</b>
                                     <p>Activations Advertising Inc. was given the task of planning, organizing and implementing the security and emergency measures for the event. </p>
@@ -158,9 +158,9 @@
                                     <b>1.) PNP Pasay</b>
                                     <p>The Pasay City Police was asked to support and participate in the planning and implementation of the event by providing expert assistance in regards to security planning and identifying potential dangers and hazards in events of this type. Pasay City Police was also requested to provide police assistance outside and inside the venue during the event as well as show police presence.</p>
                                     <ul style="margin-left: 50px;">
-                                        <li>Law Enforcer</li>
-                                        <li>Police presence</li>
-                                        <li>Planning and implementation support</li>
+                                        <li>Law Enforcement</li>
+                                        <li>Police Presence</li>
+                                        <li>Planning and Implementation Support</li>
                                     </ul>
                                     <b>2.) City of Pasay</b>
                                     <ul style="margin-left: 50px;">
@@ -194,73 +194,73 @@
                                     <table class="twidth" border="1px">
                                         <tr>
                                             <th>Particulars</th>
-                                            <th>Planned No.</th>
-                                            <th>Actual Deployed</th>
+                                            <th align="center">Planned No.</th>
+                                            <th align="center">Actual Deployed</th>
                                         </tr>
                                         <tr align="left">
                                             <td>On-ground Safety Commander and Security Commander</td>
-                                            <td align="right">1</td>
-                                            <td align="right">1</td>
+                                            <td align="center">1</td>
+                                            <td align="center">1</td>
                                         </tr>
                                         <tr align="left">
                                             <td>Assistant to the Safety Commanders</td>
-                                            <td align="right">3</td>
-                                            <td align="right">4</td>
+                                            <td align="center">3</td>
+                                            <td align="center">4</td>
                                         </tr>
                                         <tr align="left">
                                             <td>Head PNP</td>
-                                            <td align="right">1</td>
-                                            <td align="right">1</td>
+                                            <td align="center">1</td>
+                                            <td align="center">1</td>
                                         </tr>
                                         <tr align="left">
                                             <td>PNP</td>
-                                            <td align="right">100</td>
-                                            <td align="right">104</td>
+                                            <td align="center">100</td>
+                                            <td align="center">104</td>
                                         </tr>
                                         <tr align="left">
                                             <td>Intel Group</td>
-                                            <td align="right">---</td>
-                                            <td align="right">8</td>
+                                            <td align="center">---</td>
+                                            <td align="center">8</td>
                                         </tr>
                                         <tr align="left">
                                             <td>SM Mall of Asia Security</td>
-                                            <td align="right">100</td>
-                                            <td align="right">100</td>
+                                            <td align="center">100</td>
+                                            <td align="center">100</td>
                                         </tr>
                                         <tr align="left">
                                             <td>Head Security</td>
-                                            <td align="right">1</td>
-                                            <td align="right">1</td>
+                                            <td align="center">1</td>
+                                            <td align="center">1</td>
                                         </tr>
                                         <tr align="left">
                                             <td>Bouncers Team Leaders</td>
-                                            <td align="right">15</td>
-                                            <td align="right">15</td>
+                                            <td align="center">15</td>
+                                            <td align="center">15</td>
                                         </tr>
                                         <tr align="left">
                                             <td>Bouncers</td>
-                                            <td align="right">235</td>
-                                            <td align="right">235</td>
+                                            <td align="center">235</td>
+                                            <td align="center">235</td>
                                         </tr>
                                         <tr align="left">
                                             <td>Bouncer's Team Leader</td>
-                                            <td align="right">15</td>
-                                            <td align="right">15</td>
+                                            <td align="center">15</td>
+                                            <td align="center">15</td>
                                         </tr>
                                         <tr align="left">
                                             <td>Red Knights Security (for SVIP)</td>
-                                            <td align="right">16</td>
-                                            <td align="right">16</td>
+                                            <td align="center">16</td>
+                                            <td align="center">16</td>
                                         </tr>
                                         <tr align="left">
                                             <td>k-9 Units</td>
-                                            <td align="right">6</td>
-                                            <td align="right">6</td>
+                                            <td align="center">6</td>
+                                            <td align="center">6</td>
                                         </tr>
                                         <tr align="left">
                                             <td>Total</td>
-                                            <td align="right">472</td>
-                                            <td align="right">485</td>
+                                            <td align="center"><b>472</b></td>
+                                            <td align="center"><b>485</b></td>
                                         </tr>
                                     </table>
                                     <br>
@@ -304,6 +304,27 @@
                                             <td style="border: 1px solid #000;">Final Security Briefing/Simulation</td>
                                             <td style="border: 1px solid #000;">05/21/2016</td>
                                             <td style="border: 1px solid #000;">Mall of Asia</td>
+                                        </tr>
+                                    </table>
+                                    <br>
+                                    <table class="twidth" border="1">
+                                        <tr>
+                                            <th> </th>
+                                            <th>Planned</th>
+                                            <th>Actual</th>
+                                        </tr>
+                                        <tr>
+                                            <td>Attendees</td>
+                                            <td>15000</td>
+                                            <td>12312</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Ratio</td>
+                                            <td>1:30</td>
+                                            <td>1:25</td>
+                                        </tr>
+                                        <tr>
+                                            <td colspan="3"><b>U.S. Industry Standard Ratio 1:50</b></td>
                                         </tr>
                                     </table>
                                 </div>
