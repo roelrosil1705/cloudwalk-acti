@@ -188,91 +188,217 @@
                                             Security Personnel Requirements
                                             <ul class="mar30">
                                                 <li>The security plan was based on the US events standard a security-to-guest ratio of 1:50. 1 security personnel for every 50 audience members.</li>
+                                                <br>
+                                                <table class="twidth" border="1px">
+                                                    <tr>
+                                                        <th style="text-align: center;">Particulars</th>
+                                                        <th style="text-align: center;">Planned No.</th>
+                                                        <th style="text-align: center;">Actual Deployed</th>
+                                                    </tr>
+                                                    <tr align="left">
+                                                        <td align="center">On-ground Safety Commander and Security Commander</td>
+                                                        <td align="center">1</td>
+                                                        <td align="center">1</td>
+                                                    </tr>
+                                                    <tr align="left">
+                                                        <td align="center">Assistant to the Safety Commanders</td>
+                                                        <td align="center">3</td>
+                                                        <td align="center">4</td>
+                                                    </tr>
+                                                    <tr align="left">
+                                                        <td align="center">Head PNP</td>
+                                                        <td align="center">1</td>
+                                                        <td align="center">1</td>
+                                                    </tr>
+                                                    <tr align="left">
+                                                        <td align="center"><a href="http://localhost/cloudwalk-acti/pdf/List_of_PNP.pdf" target="_blank">PNP</a></td>
+                                                        <td align="center">100</td>
+                                                        <td align="center">104</td>
+                                                    </tr>
+                                                    <tr align="left">
+                                                        <td align="center">Intel Group</td>
+                                                        <td align="center">---</td>
+                                                        <td align="center">8</td>
+                                                    </tr>
+                                                    <tr align="left">
+                                                        <td align="center">SM Mall of Asia Security</td>
+                                                        <td align="center">100</td>
+                                                        <td align="center">100</td>
+                                                    </tr>
+                                                    <tr align="left">
+                                                        <td align="center">Head Security</td>
+                                                        <td align="center">1</td>
+                                                        <td align="center">1</td>
+                                                    </tr>
+                                                    <tr align="left">
+                                                        <td align="center">Bouncers Team Leaders</td>
+                                                        <td align="center">15</td>
+                                                        <td align="center">15</td>
+                                                    </tr>
+                                                    <tr align="left">
+                                                        <td align="center">Bouncers</td>
+                                                        <td align="center">235</td>
+                                                        <td align="center">235</td>
+                                                    </tr>
+                                                    <tr align="left">
+                                                        <td align="center">Bouncer's Team Leader</td>
+                                                        <td align="center">15</td>
+                                                        <td align="center">15</td>
+                                                    </tr>
+                                                    <tr align="left">
+                                                        <td align="center">Red Knights Security (for SVIP)</td>
+                                                        <td align="center">16</td>
+                                                        <td align="center">16</td>
+                                                    </tr>
+                                                    <tr align="left">
+                                                        <td align="center">k-9 Units</td>
+                                                        <td align="center">6</td>
+                                                        <td align="center">6</td>
+                                                    </tr>
+                                                    <tr align="left">
+                                                        <td align="center">Total</td>
+                                                        <td align="center"><b>472</b></td>
+                                                        <td align="center"><b>485</b></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan="3"><br></td>
+                                                    </tr>
+                                                    <tr align="left">
+                                                        <th> </th>
+                                                        <th style="text-align: center;">Planned</th>
+                                                        <th style="text-align: center;">Actual</th>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="center">Attendees</td>
+                                                        <td>15000</td>
+                                                        <td>12312</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="center">Ratio</td>
+                                                        <td>1:30</td>
+                                                        <td>1:25</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan="3"><b>U.S. Industry Standard Ratio 1:50</b></td>
+                                                    </tr>
+                                                </table>
+                                                <br>
+                                                <br>
+                                                <li>
+                                                    On-ground Security Personnel
+                                                    <ul class="mar30">
+                                                        <li>
+                                                            <p>Security was to be provided by teams comprised of bouncers, on-ground personnel and police. These units were to be deployed inside and outside the venue including critical locations like entrances and exits and other entry points between different sections of the venue.</p>
+                                                            <p>Certified and registered bouncer teams were provided Delirum and Red Knights which were comprised of bouncers with experience in handling large-scale live events.</p>
+                                                            <p>Security Objectives:</p>
+                                                            <ul class="mar30">
+                                                                <li>Deter and stop violence or unruly behavior</li>
+                                                                <li>Prevent or minimize physical injuries</li>
+                                                                <li>Prevent damage to property</li>
+                                                                <li>Deter or stop theft and other petty crimes</li>
+                                                                <li>Confiscate prohibited items from entering the venue (Weapons, drugs, cameras etc.)</li>
+                                                                <li>Prevent other threats like terrorist actions. </li>
+                                                            </ul>
+                                                        </li>
+                                                    </ul>
+
+                                                </li>
+                                                <br>
+                                                <li>
+                                                    On-ground Manpower
+                                                    <ul class="mar30">
+                                                        <li>
+                                                            <p>A separate group of on-ground manpower were deployed to operate key sections of the venue. These include manning entrances, guest assistance, utility, logistics, etc.</p>
+                                                            <br>
+                                                            <table style="border: 1px solid #000;width: 100%;text-align: center;">
+                                                                <tr>
+                                                                    <td style="border: 1px solid #000;"><b>Particulars</b></td>
+                                                                    <td style="border: 1px solid #000;"><b>Actual Deployed</b></td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="border: 1px solid #000;">Project Manager</td>
+                                                                    <td style="border: 1px solid #000;">9</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="border: 1px solid #000;">Team Leaders</td>
+                                                                    <td style="border: 1px solid #000;">19</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="border: 1px solid #000;">Gate Personnel</td>
+                                                                    <td style="border: 1px solid #000;">111</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="border: 1px solid #000;">Top-up Personnel</td>
+                                                                    <td style="border: 1px solid #000;">30</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="border: 1px solid #000;">Tent and on-ground attendants</td>
+                                                                    <td style="border: 1px solid #000;">27</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="border: 1px solid #000;">Documentation</td>
+                                                                    <td style="border: 1px solid #000;">3 teams</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="border: 1px solid #000;">Barkers</td>
+                                                                    <td style="border: 1px solid #000;">4</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="border: 1px solid #000;">Utility</td>
+                                                                    <td style="border: 1px solid #000;">8</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="border: 1px solid #000;">Standby Manpower</td>
+                                                                    <td style="border: 1px solid #000;">10</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="border: 1px solid #000;">Technical Team (CCTV, radio, comms, etc.)</td>
+                                                                    <td style="border: 1px solid #000;">30</td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="border: 1px solid #000;">Core AAI Team</td>
+                                                                    <td style="border: 1px solid #000;">32</td>
+                                                                </tr>
+                                                            </table>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                                <br>
+                                                <li>
+                                                    Pasay City Event Inspection Team
+                                                    <ul class="mar30">
+                                                        <li>
+                                                            <p>Before and during the event, Pasay City Local Government also deployed a 20-man event inspection team who will verify and sign-off if the said event is in compliance with the city’s Laws and Ordinances with regards to safety, lewd behavior, and drugs.</p>
+
+                                                            <table class="twidth" border="1px" style="padding: 5px;">
+                                                                <tr>
+                                                                    <th style="text-align: center;">Particulars</th>
+                                                                    <th style="text-align: center;">Planned</th>
+                                                                    <th style="text-align: center;">Actual Deployed</th>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td><a href="<?=base_url('img/security/Pasay_City_Inspection_Team.jpg')?>" target="_blank">Pasay City Event Inspection Team</a></td>
+                                                                    <td>20</td>
+                                                                    <td>20</td>
+                                                                </tr>
+                                                            </table>
+                                                        </li>
+                                                    </ul>
+                                                </li>
                                             </ul>
+
                                         </li>
                                     </ul>
-                                    <table class="twidth" border="1px">
-                                        <tr>
-                                            <th>Particulars</th>
-                                            <th align="center">Planned No.</th>
-                                            <th align="center">Actual Deployed</th>
-                                        </tr>
-                                        <tr align="left">
-                                            <td>On-ground Safety Commander and Security Commander</td>
-                                            <td align="center">1</td>
-                                            <td align="center">1</td>
-                                        </tr>
-                                        <tr align="left">
-                                            <td>Assistant to the Safety Commanders</td>
-                                            <td align="center">3</td>
-                                            <td align="center">4</td>
-                                        </tr>
-                                        <tr align="left">
-                                            <td>Head PNP</td>
-                                            <td align="center">1</td>
-                                            <td align="center">1</td>
-                                        </tr>
-                                        <tr align="left">
-                                            <td>PNP</td>
-                                            <td align="center">100</td>
-                                            <td align="center">104</td>
-                                        </tr>
-                                        <tr align="left">
-                                            <td>Intel Group</td>
-                                            <td align="center">---</td>
-                                            <td align="center">8</td>
-                                        </tr>
-                                        <tr align="left">
-                                            <td>SM Mall of Asia Security</td>
-                                            <td align="center">100</td>
-                                            <td align="center">100</td>
-                                        </tr>
-                                        <tr align="left">
-                                            <td>Head Security</td>
-                                            <td align="center">1</td>
-                                            <td align="center">1</td>
-                                        </tr>
-                                        <tr align="left">
-                                            <td>Bouncers Team Leaders</td>
-                                            <td align="center">15</td>
-                                            <td align="center">15</td>
-                                        </tr>
-                                        <tr align="left">
-                                            <td>Bouncers</td>
-                                            <td align="center">235</td>
-                                            <td align="center">235</td>
-                                        </tr>
-                                        <tr align="left">
-                                            <td>Bouncer's Team Leader</td>
-                                            <td align="center">15</td>
-                                            <td align="center">15</td>
-                                        </tr>
-                                        <tr align="left">
-                                            <td>Red Knights Security (for SVIP)</td>
-                                            <td align="center">16</td>
-                                            <td align="center">16</td>
-                                        </tr>
-                                        <tr align="left">
-                                            <td>k-9 Units</td>
-                                            <td align="center">6</td>
-                                            <td align="center">6</td>
-                                        </tr>
-                                        <tr align="left">
-                                            <td>Total</td>
-                                            <td align="center"><b>472</b></td>
-                                            <td align="center"><b>485</b></td>
-                                        </tr>
-                                    </table>
+
                                     <br>
                                     <ul class="mar15">
                                         <li>
                                             Medical Personnel Requirements
                                             <ul class="mar30">
-                                                <li>The organizers also followed the Government of Western Australia-Department of Health: Guidelines for Concerts, Events, and Organized Gatherings standard of the number of emergency medical professionals and teams to be used for events of this type and size. </li>
+                                                <li>The <a href="http://ww2.health.wa.gov.au/~/media/Files/Corporate/general%20documents/Environmental%20health/Concerts%20and%20Mass%20Gathering%20Guidelines.ashx">organizers also followed the Government of Western Australia-Department of Health</a>: Guidelines for Concerts, Events, and Organized Gatherings standard of the number of emergency medical professionals and teams to be used for events of this type and size. </li>
                                             </ul>
                                         </li>
                                     </ul>
-                                    <a href="http://ww2.health.wa.gov.au/~/media/Files/Corporate/general%20documents/Environmental%20health/Concerts%20and%20Mass%20Gathering%20Guidelines.ashx">Click here for reference.</a>
                                     <br>
                                     <br>
                                     <h4>Planning and Production Meetings</h4>
@@ -304,27 +430,6 @@
                                             <td style="border: 1px solid #000;">Final Security Briefing/Simulation</td>
                                             <td style="border: 1px solid #000;">05/21/2016</td>
                                             <td style="border: 1px solid #000;">Mall of Asia</td>
-                                        </tr>
-                                    </table>
-                                    <br>
-                                    <table class="twidth" border="1">
-                                        <tr>
-                                            <th> </th>
-                                            <th>Planned</th>
-                                            <th>Actual</th>
-                                        </tr>
-                                        <tr>
-                                            <td>Attendees</td>
-                                            <td>15000</td>
-                                            <td>12312</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Ratio</td>
-                                            <td>1:30</td>
-                                            <td>1:25</td>
-                                        </tr>
-                                        <tr>
-                                            <td colspan="3"><b>U.S. Industry Standard Ratio 1:50</b></td>
                                         </tr>
                                     </table>
                                     <br>
@@ -485,17 +590,7 @@
                                             <td class="row2">GO HOME AND SLEEP!!!</td>
                                         </tr>
                                     </table>
-
-                                    <br>
-
-                                    <h3><b>EVENT DAY AND IMPLEMENTATION OF SECURITY PLAN</b></h3>
-                                    <p><b>Quick Look: Security Plan</b></p>
-                                    <img src="<?php echo base_url() ?>img/slides/Slide21.JPG" style="width:100%;" />
-
-                                    <br>
-                                    <br>
-                                    <p>The security plan was based from previous CloseUp Forever Summer runs and similar events implemented by the organizers. </p>
-                                    <br>
+ <br>
                                     <br>
                                         <h2 class="twidth">VENUE SAFETY FEATURES, PROCEDURES AND ASSETS</h2>
                                         <h3><i>Venue Map</i></h3>
@@ -543,21 +638,14 @@
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_0131.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/VIP.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_0135.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_0215.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/SVIP Entrance Left.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                             </tr>
                                             <tr>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_0216.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_0218.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_6435.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_6436.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_6802.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                            </tr>
-                                            <tr>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/SVIP Entrance Left.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/SVIP Entrance Right.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td></td>
-                                                <td></td>
-                                                <td></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_6802.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                             </tr>
                                         </table>
                                     </div>
@@ -565,30 +653,8 @@
                                     <p>A central control room monitored and directed all operations in the venue via communication with on-ground and security personnel plus CCTV live footage.</p>
                                     <img src="<?php echo base_url() ?>img/slides/controlsystem.jpg" style="width: 100%;">
                                     <br>
-                                    <br>
-                                    <h4>Medical Tents</h4>
-                                    <p>A number of medical first-aide stations were installed offering quick first-aide. A larger ambulatory tent was also installed equipped to provide medical treatment for serious cases.</p>
-                                    <img src="<?php echo base_url() ?>img/slides/Slide19.JPG" style="width: 76%;display: block;margin: 0 auto;" />
-                                    <img src="<?php echo base_url() ?>img/slides/medical_highlight.jpg" style="width: 76%;display: block;margin: 0 auto;" />
-                                    <table style="border: 1px solid #000;width: 100%;text-align: center;margin-top: 27px;">
-                                        <tr>
-                                            <td style="border: 1px solid #000;"><b>Asset</b></td>
-                                            <td style="border: 1px solid #000;"><b>Capability</b></td>
-                                            <td style="border: 1px solid #000;"><b>Number Deployed</b></td>
-                                        </tr>
-                                        <tr>
-                                            <td style="border: 1px solid #000;">First-aid Station</td>
-                                            <td style="border: 1px solid #000;">First-aid, minor injuries or treatment.</td>
-                                            <td style="border: 1px solid #000;">4</td>
-                                        </tr>
-                                        <tr>
-                                            <td style="border: 1px solid #000;">Ambulatory tent</td>
-                                            <td style="border: 1px solid #000;">Serious Medical Incidents. Emergency equipment.</td>
-                                            <td style="border: 1px solid #000;">1</td>
-                                        </tr>
-                                    </table>
-                                    <br/>
-                                    <h4>Hospitals</h4>
+
+                                    <h4>Nearby Hospitals Coordination</h4>
                                     <p>Several days before the event, we have coordinated with  4 hospitals nearby. </p>
                                     <table style="border: 1px solid #000;width: 100%;text-align: center;">
                                         <tr>
@@ -617,128 +683,30 @@
                                     <p>Organizers also implemented plans for immediate evacuation and assistance to all audience members and staff inside the venue in case of a major emergency including: earthquake, fire, floods, or terrorist incidents</p>
                                     <br>
                                     <br>
-                                    <h2 class="twidth">NUMBER OF PERSONNEL DEPLOYED FOR THE EVENT</h2>
-                                    <h3><i>On-ground Security Personnel</i></h3>
-                                    <p>Security was to be provided by teams comprised of bouncers, on-ground personnel and police. These units were to be deployed inside and outside the venue including critical locations like entrances and exits and other entry points between different sections of the venue.</p>
-                                    <p>Certified and registered bouncer teams were provided Delirum and Red Knights which were comprised of bouncers with experience in handling large-scale live events.</p>
-                                    <p>Security Objectives:</p>
-                                    <ul class="mar30">
-                                        <li>Deter and stop violence or unruly behavior</li>
-                                        <li>Prevent or minimize physical injuries</li>
-                                        <li>Prevent damage to property</li>
-                                        <li>Deter or stop theft and other petty crimes</li>
-                                        <li>Confiscate prohibited items from entering the venue (Weapons, drugs, cameras etc.)</li>
-                                        <li>Prevent other threats like terrorist actions. </li>
-                                    </ul>
-                                    <table class="twidth" border="1px">
-                                        <tr>
-                                            <th>Particulars</th>
-                                            <th>Planned No.</th>
-                                            <th>Actual Deployed</th>
-                                        </tr>
-                                        <tr align="left">
-                                            <td>On-ground Safety Commander</td>
-                                            <td>1</td>
-                                            <td>1</td>
-                                        </tr>
-                                        <tr align="left">
-                                            <td>Assistant Safety Commanders</td>
-                                            <td>3</td>
-                                            <td>4</td>
-                                        </tr>
-                                        <tr align="left">
-                                            <td>SM Mall of Asia Security</td>
-                                            <td>100</td>
-                                            <td>100</td>
-                                        </tr>
-                                        <tr align="left">
-                                            <td>Head Security</td>
-                                            <td>1</td>
-                                            <td>1</td>
-                                        </tr>
-                                        <tr align="left">
-                                            <td>Bouncers Team Leaders</td>
-                                            <td>15</td>
-                                            <td>15</td>
-                                        </tr>
-                                        <tr align="left">
-                                            <td>Bouncers</td>
-                                            <td>235</td>
-                                            <td>235</td>
-                                        </tr>
-                                        <tr align="left">
-                                            <td>Red Knights Security (for SVIP)</td>
-                                            <td>16</td>
-                                            <td>16</td>
-                                        </tr>
-                                        <tr align="left">
-                                            <td>k-9 Units</td>
-                                            <td>6</td>
-                                            <td>6</td>
-                                        </tr>
-                                        <tr align="left">
-                                            <td>Total</td>
-                                            <td>377</td>
-                                            <td>378</td>
-                                        </tr>
-                                    </table>
-                                    <img src="<?php echo base_url() ?>img/slides/Slide21.JPG" style="width: 100%;" />
-                                    <h3><i>On-ground Manpower</i></h3>
-                                    <p>A separate group of on-ground manpower were deployed to operate key sections of the venue. These include manning entrances, guest assistance, utility, logistics, etc.</p>
 
+                                    <h4>Emergency Medical Teams and Medical Stations</h4>
                                     <br>
-                                    <br>
-                                    <table style="border: 1px solid #000;width: 100%;text-align: center;">
+                                    <p>A number of medical first-aide stations were installed offering quick first-aide. A larger ambulatory tent was also installed equipped to provide medical treatment for serious cases.</p>
+                                    <img src="<?php echo base_url() ?>img/slides/Slide19.JPG" style="width: 76%;display: block;margin: 0 auto;" />
+                                    <img src="<?php echo base_url() ?>img/slides/medical_highlight.jpg" style="width: 76%;display: block;margin: 0 auto;" />
+                                    <table style="border: 1px solid #000;width: 100%;text-align: center;margin-top: 27px;">
                                         <tr>
-                                            <td style="border: 1px solid #000;"><b>Particulars</b></td>
-                                            <td style="border: 1px solid #000;"><b>Actual Deployed</b></td>
+                                            <td style="border: 1px solid #000;"><b>Asset</b></td>
+                                            <td style="border: 1px solid #000;"><b>Capability</b></td>
+                                            <td style="border: 1px solid #000;"><b>Number Deployed</b></td>
                                         </tr>
                                         <tr>
-                                            <td style="border: 1px solid #000;">Project Manager</td>
-                                            <td style="border: 1px solid #000;">9</td>
-                                        </tr>
-                                        <tr>
-                                            <td style="border: 1px solid #000;">Team Leaders</td>
-                                            <td style="border: 1px solid #000;">19</td>
-                                        </tr>
-                                        <tr>
-                                            <td style="border: 1px solid #000;">Gate Personnel</td>
-                                            <td style="border: 1px solid #000;">111</td>
-                                        </tr>
-                                        <tr>
-                                            <td style="border: 1px solid #000;">Top-up Personnel</td>
-                                            <td style="border: 1px solid #000;">30</td>
-                                        </tr>
-                                        <tr>
-                                            <td style="border: 1px solid #000;">Tent and on-ground attendants</td>
-                                            <td style="border: 1px solid #000;">27</td>
-                                        </tr>
-                                        <tr>
-                                            <td style="border: 1px solid #000;">Documentation</td>
-                                            <td style="border: 1px solid #000;">3 teams</td>
-                                        </tr>
-                                        <tr>
-                                            <td style="border: 1px solid #000;">Barkers</td>
+                                            <td style="border: 1px solid #000;">First-aid Station</td>
+                                            <td style="border: 1px solid #000;">First-aid, minor injuries or treatment.</td>
                                             <td style="border: 1px solid #000;">4</td>
                                         </tr>
                                         <tr>
-                                            <td style="border: 1px solid #000;">Utility</td>
-                                            <td style="border: 1px solid #000;">8</td>
-                                        </tr>
-                                        <tr>
-                                            <td style="border: 1px solid #000;">Standby Manpower</td>
-                                            <td style="border: 1px solid #000;">10</td>
-                                        </tr>
-                                        <tr>
-                                            <td style="border: 1px solid #000;">Technical Team (CCTV, radio, comms, etc.)</td>
-                                            <td style="border: 1px solid #000;">30</td>
-                                        </tr>
-                                        <tr>
-                                            <td style="border: 1px solid #000;">Core AAI Team</td>
-                                            <td style="border: 1px solid #000;">32</td>
+                                            <td style="border: 1px solid #000;">Ambulatory tent</td>
+                                            <td style="border: 1px solid #000;">Serious Medical Incidents. Emergency equipment.</td>
+                                            <td style="border: 1px solid #000;">1</td>
                                         </tr>
                                     </table>
-                                    <h4>Emergency Medical Teams and Medical Stations</h4>
+                                    <br/>
                                     <p>Emergency Medical Teams were deployed throughout the venue ready to quickly provide medical assistance to audience members when needed.</p>
                                     <img src="<?php echo base_url() ?>img/slides/ambulance.JPG" style="width:100%;" />
                                     <table style="border: 1px solid #000;width: 100%;text-align: center;margin-top: 20px;">
@@ -763,72 +731,7 @@
                                             <td style="border: 1px solid #000;">4 units</td>
                                         </tr>
                                     </table>
-
-                                    <h4>Police Deployment</h4>
-                                    <p>Members of the PNP Pasay were present to provide additional security inside and outside the venue and show strong police presence to deter potential criminal activity.</p>
-                                    <table style="border: 1px solid #000;width: 100%;text-align: center;">
-                                        <tr>
-                                            <td style="border: 1px solid #000;"><b>Particulars</b></td>
-                                            <td style="border: 1px solid #000;"><b>Planned</b></td>
-                                            <td style="border: 1px solid #000;"><b>Actual Deployed</b></td>
-                                        </tr>
-                                        <tr>
-                                            <td style="border: 1px solid #000;">Head of PNP</td>
-                                            <td style="border: 1px solid #000;">1</td>
-                                            <td style="border: 1px solid #000;">1</td>
-                                        </tr>
-                                        <tr>
-                                            <td style="border: 1px solid #000;">PNP Police Officers</td>
-                                            <td style="border: 1px solid #000;">100</td>
-                                            <td style="border: 1px solid #000;">100</td>
-                                        </tr>
-                                    </table>
                                     <br>
-                                    List of PNP <a href="<?=base_url('pdf/List_of_PNP.pdf');?>" target="_blank">Read more</a>
-                                    <br><br>
-                                    <div class="img-holder">
-                                        <img id="large" src="<?php echo base_url() ?>img/slides/Slide48.jpg" style="width:100%;height: 380px;" />
-                                        <table style="width: 100%;">
-                                            <tr>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide49.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide48.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide50.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                            </tr>
-                                        </table>
-                                    </div>
-                                    <img src="<?php echo base_url() ?>img/slides/pnp_highlight.jpg" style="width:100%;" />
-                                    <h4>PNP Undercover Contingent: INTEL GROUP</h4>
-                                    <p>The Pasay PNP also deployed civilian-clothed units inside the venue to monitor the audience and guard against potential dangers.</p>
-                                    <br>
-                                    <br>
-                                    <table class="twidth" border="1px">
-                                        <tr>
-                                            <th style="text-align: center;">Particulars</th>
-                                            <th style="text-align: center;">Planned</th>
-                                            <th style="text-align: center;">Actual Deployed</th>
-                                        </tr>
-                                        <tr>
-                                            <td>INTEL GROUP (Undercover)</td>
-                                            <td>none</td>
-                                            <td>8</td>
-                                        </tr>
-                                    </table>
-                                    <h3><i>Pasay City Event Inspection Team</i></h3>
-                                    <p>Before and during the event, Pasay City Local Government also deployed a 20-man event inspection team who will verify and sign-off if the said event is in compliance with the city’s Laws and Ordinances with regards to safety, lewd behavior, and drugs.</p>
-
-                                    <table class="twidth" border="1px" style="padding: 5px;">
-                                        <tr>
-                                            <th style="text-align: center;">Particulars</th>
-                                            <th style="text-align: center;">Planned</th>
-                                            <th style="text-align: center;">Actual Deployed</th>
-                                        </tr>
-                                        <tr>
-                                            <td>Pasay City Event Inspection Team</td>
-                                            <td>20</td>
-                                            <td>20</td>
-                                        </tr>
-                                    </table>
-
                                     <h1 class="twidth">IMPORTANT INCIDENTS</h1>
                                     <h3><i>Event Fatalities</i></h3>
                                     <p>During the event, 3 audience members were given quick medical aid due to illness. These individuals were then immediately transported to the nearest hospitals to be given necessary medical attention.</p>
