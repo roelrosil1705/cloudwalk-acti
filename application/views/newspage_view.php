@@ -636,7 +636,7 @@
                                         <tr>
                                             <td style="border: 1px solid #000;">PNP Police Officers</td>
                                             <td style="border: 1px solid #000;">100</td>
-                                            <td style="border: 1px solid #000;">104</td>
+                                            <td style="border: 1px solid #000;">100</td>
                                         </tr>
                                     </table>
                                     <br>
