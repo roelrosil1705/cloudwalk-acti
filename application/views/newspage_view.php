@@ -278,11 +278,10 @@
                                         </table>
                                     </div>
 
-                                    <h3>Day of Event Briefing</h3>
-                                    <p>Manpower Briefing</p>
+                                    <h3>Event Day Briefing of Manpower</h3>
                                     <img src="<?php echo base_url() ?>img/slides/Eventdaybriefing.jpg" style="width:100%;height: 380px;" />
                                     <div class="img-holder">
-                                        <p style="margin-top: 15px;margin-bottom: 0px;">Security Briefing</p>
+                                        <h3 style="margin-top: 15px;margin-bottom: 0px;">Event Day Briefing of Security</h3>
                                         <img id="large" src="<?php echo base_url() ?>img/slides/Slide16.JPG" style="width:100%;height: 380px;" />
                                         <table>
                                             <tr>
