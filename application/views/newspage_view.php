@@ -282,13 +282,19 @@
                                     <img src="<?php echo base_url() ?>img/slides/Eventdaybriefing.jpg" style="width:100%;height: 380px;" />
                                     <div class="img-holder">
                                         <h3 style="margin-top: 15px;margin-bottom: 0px;">Event Day Briefing of Security</h3>
-                                        <img id="large" src="<?php echo base_url() ?>img/slides/Slide16.JPG" style="width:100%;height: 380px;" />
+                                        <img id="large" src="<?php echo base_url() ?>img/security/24.jpg" style="width:100%;height: 380px;" />
                                         <table>
                                             <tr>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide13.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide14.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide15.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide16.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/24.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/IMG_0274.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/IMG_0283.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/IMG_0317.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                            </tr>
+                                            <tr>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/IMG_6922.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/IMG_6930.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/IMG_6931.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/Picture1.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                             </tr>
                                         </table>
                                     </div>
