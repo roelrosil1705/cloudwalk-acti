@@ -243,46 +243,46 @@
                                         </tr>
                                     </table>
                                     <h3>1st Briefing Day - May 12, 2016</h3>
-                                    <img src="<?php echo base_url() ?>img/slides/Slide2.jpg" style="width:100%;" />
+                                    <img src="<?php echo base_url() ?>img/slides/Slide2.JPG" style="width:100%;" />
                                     <table>
                                         <tr>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide2.jpg" style="width:100%;" /></td>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide3.jpg" style="width:100%;" /></td>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide2.JPG" style="width:100%;" /></td>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide3.JPG" style="width:100%;" /></td>
                                             <td><img src="<?php echo base_url() ?>img/slides/Slide4.png" style="width:100%;" /></td>
                                         </tr>
                                     </table>
                                     <h3>2nd Briefing Day - May 18, 2016</h3>
-                                    <img src="<?php echo base_url() ?>img/slides/Slide7.jpg" style="width:100%;" />
+                                    <img src="<?php echo base_url() ?>img/slides/Slide7.JPG" style="width:100%;" />
                                     <table>
                                         <tr>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide7.jpg" style="width:100%;" /></td>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide8.jpg" style="width:100%;" /></td>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide9.jpg" style="width:100%;" /></td>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide7.JPG" style="width:100%;" /></td>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide8.JPG" style="width:100%;" /></td>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide9.JPG" style="width:100%;" /></td>
                                         </tr>
                                     </table>
                                     <h3>3rd Briefing Day - May 19, 2016</h3>
-                                    <img src="<?php echo base_url() ?>img/slides/Slide11.jpg" style="width:100%;" />
+                                    <img src="<?php echo base_url() ?>img/slides/Slide11.JPG" style="width:100%;" />
                                     <table>
                                         <tr>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide11.jpg" style="width:100%;" /></td>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide10.jpg" style="width:100%;" /></td>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide12.jpg" style="width:100%;" /></td>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide11.JPG" style="width:100%;" /></td>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide10.JPG" style="width:100%;" /></td>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide12.JPG" style="width:100%;" /></td>
                                         </tr>
                                     </table>
                                     <h3>Day of Event Briefing</h3>
-                                    <img src="<?php echo base_url() ?>img/slides/Slide13.jpg" style="width:100%;" />
+                                    <img src="<?php echo base_url() ?>img/slides/Slide13.JPG" style="width:100%;" />
                                     <table>
                                         <tr>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide13.jpg" style="width:100%;" /></td>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide14.jpg" style="width:100%;" /></td>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide15.jpg" style="width:100%;" /></td>
-                                            <td><img src="<?php echo base_url() ?>img/slides/Slide16.jpg" style="width:100%;" /></td>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide13.JPG" style="width:100%;" /></td>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide14.JPG" style="width:100%;" /></td>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide15.JPG" style="width:100%;" /></td>
+                                            <td><img src="<?php echo base_url() ?>img/slides/Slide16.JPG" style="width:100%;" /></td>
                                         </tr>
                                     </table>
                                     <h3><b>EVENT DAY AND IMPLEMENTATION OF SECURITY PLAN</b></h3>
                                     <b>Quick Look: Security Plan</b>
                                     <p>The security plan was based from previous CloseUp Forever Summer runs and similar events implemented by the organizers. </p>
-                                    <img src="<?php echo base_url() ?>img/slides/Slide21.jpg" style="width:100%;" />
+                                    <img src="<?php echo base_url() ?>img/slides/Slide21.JPG" style="width:100%;" />
                                 </div>
                                 <!--End CONTENT -->
                             </div>
