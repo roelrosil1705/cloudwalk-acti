@@ -124,9 +124,10 @@
                                 <div class="col-md-10 col-md-offset-1">
                                     <b>What is CloseUp Forever Summer?</b>
                                     <p>CloseUp Forever Summer is an annual Electronic Dance Music (EDM) festival featuring the world's top DJs performing live. The event is organized and funded by CloseUp/Unilever Philippines with support from its contracted suppliers EventScape and Activations Advertising.</p>
+                                    <br/>
                                     <h4 style="text-align: center;"><strong>INVOLVED GROUPS AND ORGANIZATIONS</strong></h4>
                                     <h3><b>Civilian</b></h3>
-                                    <b>1.) CloseUp/Unilever Philippines - Event Organizer</b><br/>
+                                    <b>1.) CloseUp/Unilever Philippines - Event Organizer</b><br/><br/>
                                     <b>2.) EventScape - Event Implementation, Logistics, Talent Acquisition, Food and Beverage</b>
                                     <p>EventScape was responsible for organizing and bringing-in the featured talent and performers for the event.</p>
                                     <ul style="margin-left: 50px;">
@@ -157,14 +158,14 @@
                                     <b>1.) PNP Pasay</b>
                                     <p>The Pasay City Police was asked to support and participate in the planning and implementation of the event by providing expert assistance in regards to security planning and identifying potential dangers and hazards in events of this type. Pasay City Police was also requested to provide police assistance outside and inside the venue during the event as well as show police presence.</p>
                                     <ul style="margin-left: 50px;">
-                                        <li>Additional Security</li>
+                                        <li>Law Enforcer</li>
                                         <li>Police presence</li>
                                         <li>Planning and implementation support</li>
                                     </ul>
                                     <b>2.) City of Pasay</b>
                                     <ul style="margin-left: 50px;">
                                         <li>Permit Issuance</li>
-                                        <li>Deployment of Inspection Team</li>
+                                        <li>Venue Inspection Team</li>
                                     </ul>
                                     <b>3.) Bureau of Fire Protection</b>
                                 </div>
