@@ -639,6 +639,11 @@
                                             <td style="border: 1px solid #000;">104</td>
                                         </tr>
                                     </table>
+                                    <br>
+                                    Letter request for PNP and K9 <a href="<?=base_url('pdf/PNP.pdf');?>" target="_blank">Read more</a>
+                                    <br>
+                                    List of PNP <a href="<?=base_url('pdf/List_of_PNP.pdf');?>" target="_blank">Read more</a>
+                                    <br><br>
                                     <div class="img-holder">
                                         <img id="large" src="<?php echo base_url() ?>img/slides/Slide48.jpg" style="width:100%;height: 380px;" />
                                         <table style="width: 100%;">
