@@ -122,7 +122,7 @@
                         <div class="col-md-12" style="border-bottom:solid px gray;padding: 70px 15px;text-align: justify;">
                             <div class="container" style="font-weight: 100;font-family: sans-serif;">
                                 <div class="col-md-10 col-md-offset-1">
-                                    <b>What is CloseUp Forever Summer?</b>
+                                    <h4><b>What is CloseUp Forever Summer?</b></h4>
                                     <p>CloseUp Forever Summer is an annual Electronic Dance Music (EDM) festival featuring the world's top DJs performing live. The event is organized and funded by CloseUp/Unilever Philippines with support from its contracted suppliers EventScape and Activations Advertising.</p>
                                     <br/>
                                     <h3 style="text-align: center;"><strong>INVOLVED GROUPS AND ORGANIZATIONS</strong></h3>
@@ -181,8 +181,8 @@
                                 <div class="col-md-10 col-md-offset-1">
                                     <h3 style="text-align: center;"><strong>PRE-EVENT PLANNING</strong></h3>
                                     <p>Months and weeks before the event, the event organizer (CloseUp/Unilever Philippines) and its joint suppliers and partners (Eventscape and Activations Advertising) formulated and finalized the event logistics, procedures and security measures in implementing the 4th annual running of CloseUp Forever summer music festival.</p>
-                                    <br>
-                                    <h4>Standards Followed</h4>
+                                    <br/>
+                                    <h4><b>Standards Followed</b></h4>
                                     <ul class="mar15">
                                         <li>
                                             Security Personnel Requirements
@@ -400,11 +400,10 @@
                                         </li>
                                     </ul>
                                     <br>
-                                    <br>
-                                    <h4>Planning and Production Meetings</h4>
+                                    <h4><b>Planning and Production Meetings</b></h4>
                                     <p>CloseUp and its main suppliers Activations Advertising and Eventscape conducted three separate pre-production meetings with suppliers, partners and government organizations refine and finalize the security measures that will be put in place during the event.</p>
                                     <br>
-                                    <h4>Pre-production and security meetings</h4>
+                                    <h4><b>Pre-production and security meetings</b></h4>
                                     <table style="border: 1px solid #000;width: 100%;text-align: center;">
                                         <tr>
                                             <td style="border: 1px solid #000;"><b>Agenda</b></td>
@@ -433,7 +432,7 @@
                                         </tr>
                                     </table>
                                     <br>
-                                    <h4>1st Briefing Day - May 12, 2016</h4>
+                                    <h4><b>1st Briefing Day - May 12, 2016</b></h4>
                                     <div class="img-holder">
                                         <img id="large" src="<?php echo base_url() ?>img/1stbriefing/Picture1.jpg" style="width:100%;height: 380px;" />
                                         <table style="width: 100%;margin-bottom: 20px;">
@@ -443,8 +442,8 @@
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/1stbriefing/Picture4.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                             </tr>
                                         </table>
-                                    </div>
-                                    <h4>2nd Briefing Day - May 18, 2016</h4>
+                                    </div><br/>
+                                    <h4><b>2nd Briefing Day - May 18, 2016</b></h4>
                                     <div class="img-holder">
                                         <img id="large" src="<?php echo base_url() ?>img/2ndbriefing/Picture9.jpg" style="width:100%;height: 380px;" />
                                         <table style="width: 100%;margin-bottom: 20px;">
@@ -454,8 +453,8 @@
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/2ndbriefing/Picture11.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                             </tr>
                                         </table>
-                                    </div>
-                                    <h4>3rd Briefing Day - May 19, 2016</h4>
+                                    </div><br/>
+                                    <h4><b>3rd Briefing Day - May 19, 2016</b></h4>
                                     <div class="img-holder">
                                         <img id="large" src="<?php echo base_url() ?>img/3rdbriefing/Picture15.jpg" style="width:100%;height: 380px;" />
                                         <table style="width: 100%;margin-bottom: 20px;">
@@ -466,149 +465,28 @@
                                             </tr>
                                         </table>
                                     </div>
-                                    <h4>CLOSEUP FOREVER SUMMER 2016 "NOW OR NEVER" RUNSHEET</h4>
-                                    <table class="runsheet">
-                                        <tr>
-                                            <td class="head">Date</td>
-                                            <td class="head">Time</td>
-                                            <td class="head">Activity</td>
-                                        </tr>
-                                        <tr>
-                                            <td rowspan="31" class="row1">May 21, 2016</td>
-                                            <td class="row1">6:30:00 AM</td>
-                                            <td class="row1">Call time of Manpower @ Quirino 2B Basketball Court</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="row2">8:30:00 AM</td>
-                                            <td class="row2">Call time of Core Group</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="row1"></td>
-                                            <td class="row1">Distributon of Breakfast Meal</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="row2">9:30 am to 10:00 am</td>
-                                            <td class="row2">On-site rebriefing of Core + TLs</td>
-                                        </tr>
-                                        <tr>
-                                            <td rowspan="2" class="row1">10:00 am to 10:30 am</td>
-                                            <td class="row1">Distribution of AAI Wirst Tags, IDs and Uniform of On-ground Team</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="row1">Distribution of Pouch Devices to AAI</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="row2">10:00:00 AM</td>
-                                            <td class="row2">Start distribution of ID's to Unilever, partner agencies and concessionaires</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="row1">10:30 am to 11:30 am</td>
-                                            <td class="row1">On-site simulation of on-ground manpower team</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="row2">11:00:00 AM</td>
-                                            <td class="row2">Call time of Bouncers</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="row1">11:15:00 AM</td>
-                                            <td class="row1">Assembly of Security/Bouncers</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="row2">11:30:00 AM</td>
-                                            <td class="row2">Security Briefing on-site</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="row1">12:00 nn</td>
-                                            <td class="row1">SM Tickets Set-up (24 Laptops & Scanners) / WIFI Connection</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="row2">12:15:00 PM</td>
-                                            <td class="row2">Rebriefing with Unilever Brand Team</td>
-                                        </tr>
-                                        <tr>
-                                            <td rowspan="2" class="row1">12:30:00 PM</td>
-                                            <td class="row1">Distribution of wrist tags + ids to Bouncers (per area)</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="row1">Distribution of Lunch Meals</td>
-                                        </tr>
-                                        <tr>
-                                            <td rowspan="2" class="row2">1:30:00 PM</td>
-                                            <td class="row2">Clearing of Venue/ Prep for Security Sweep</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="row2">All manpower should wear their uniform</td>
-                                        </tr>
-                                        <tr>
-                                            <td rowspan="2" class="row1">2:00:00 PM</td>
-                                            <td class="row1">Start of Security Sweep Proper</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="row1">Distribution of Remaining event ID's</td>
-                                        </tr>
-                                        <tr>
-                                            <td rowspan="3" class="row2">2:30:00 PM</td>
-                                            <td class="row2">Distribution of Pouch Devices to Concessionaires</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="row2">Distribution of Communicators</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="row2">All manpower on standby to designated areas</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="row1">4:00:00 PM</td>
-                                            <td class="row1">Gates Open</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="row2">6:00:00 PM</td>
-                                            <td class="row2">Distribution of Dinner </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="row1">12:00:00 MN</td>
-                                            <td class="row1">Distribution of Midnight Meal</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="row2">2:30:00 AM</td>
-                                            <td class="row2">End of Show</td>
-                                        </tr>
-                                        <tr>
-                                            <td rowspan="4" class="row1">3:00:00 AM</td>
-                                            <td class="row1">Retrieval of all Pouch Devices (On-ground team + Concessionaires)</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="row1">Retrieval of all Communicators</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="row1">Retrieval of all materials and equipments</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="row1">Inventory of Sales</td>
-                                        </tr>
-                                        <tr>
-                                            <td class="row2">4:00:00 AM</td>
-                                            <td class="row2">GO HOME AND SLEEP!!!</td>
-                                        </tr>
-                                    </table>
  <br>
                                     <br>
                                         <h2 class="twidth">VENUE SAFETY FEATURES, PROCEDURES AND ASSETS</h2>
-                                        <h3><i>Venue Map</i></h3>
+                                        <h4><b>Venue Map</b></h4>
                                         <img class="twidth" src="<?=base_url('img/odds/1.jpg');?>">
-                                        <h3><i>Barricades and Restricted Entry Points</i></h3>
+                                    <br/><br/>
+                                        <h4><b>Barricades and Restricted Entry Points</b></h4>
                                         <p>The venue was barricaded to prevent non-ticket holders from entering and to ensure all guests were directed to the entrance locations and go through the thorough entry and security procedures.</p>
                                         <p>Important sections of the venue were divided into different zones with varying levels of security and can only be entered by passing through security and inspection.</p>
                                     <br>
-                                    <h3><i>Guest Information</i></h3>
+                                    <h4><b>Guest Information</b></h4>
                                     <p>The organizers also provided information to guests regarding the safety and security rules of the event including a list of prohibited items.</p>
-                                    <h4>Prohibited Items Signages.</h4>
+                                    <br/>
+                                    <h4><b>Prohibited Items Signages.</b></h4>
                                     <ul style="margin-left: 50px;">
                                         <li>
                                             <p>Large and visible signages at key areas like entrances that show the list of prohibited items inside the venue to inform concert goers.</p>
                                             <img src="<?php echo base_url() ?>img/odds/2222.jpg" style="width: 100%;">
                                         </li>
                                     </ul>
-                                    <h4>Security and Emergency Safety Videos</h4>
+                                    <br/>
+                                    <h4><b>Security and Emergency Safety Videos</b></h4>
                                     <ul style="margin-left: 50px;">
                                         <li>
                                             <p>Videos were shown on-screen during the event that informs concert goers to follow the event's security, safety and emergency rules.</p>
@@ -617,9 +495,12 @@
                                     <video class="twidth" height="388" controls>
                                         <source src="<?=base_url('videos/Media1.mp4')?>" type="video/mp4">
                                     </video>
-                                    <h3><i>Pouch RFID System</i></h3>
+                                    <br/>
+                                    <br/>
+                                    <h4><b>Pouch RFID System</b></h4>
                                     <p>Puch provided RFID tagging system using an RFID wristband that facilitates and records entrances as well as facilitating wireless cash transactions between guests and concessionaires. This system also restricts minors from buying alcoholic drinks.</p>
-                                    <h3><i>Entrance Procedures and Security</i></h3>
+                                    <br/>
+                                    <h4><b>Entrance Procedures and Security</b></h4>
                                     <p>Before entering the venue, audience members must pass several lines of security steps. </p>
                                     <ol type="1" class="mar30">
                                         <li>Barker Announcement</li>
@@ -628,14 +509,15 @@
                                         <li>Scanning of tickets </li>
                                         <li>Tagging and registration</li>
                                     </ol>
-                                    <h3><i>CCTV</i></h3>
+                                    <br/>
+                                    <h4><b>CCTV</b></h4>
                                     <p>CCTV units were also deployed to monitor the entire venue. All footage was viewed live in a central control room inside the venue.</p>
                                     <div class="img-holder">
-                                        <img id="large" src="<?php echo base_url() ?>img/cctv/BOH.JPG" style="width:100%;height: 380px;" />
+                                        <img id="large" src="<?php echo base_url() ?>img/runsheet/sec_plot/5. CCTV Plotting.jpg" style="width:100%;height: 380px;" />
                                         <table style="width: 100%;">
                                             <tr>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/5. CCTV Plotting.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/BOH.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_0131.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/VIP.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_0135.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/SVIP Entrance Left.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
@@ -649,12 +531,13 @@
                                             </tr>
                                         </table>
                                     </div>
-                                    <h3><i>Central Control Room</i></h3>
+                                    <br/>
+                                    <h4><b>Central Control Room</b></h4>
                                     <p>A central control room monitored and directed all operations in the venue via communication with on-ground and security personnel plus CCTV live footage.</p>
                                     <img src="<?php echo base_url() ?>img/slides/controlsystem.jpg" style="width: 100%;">
                                     <br>
-
-                                    <h4>Nearby Hospitals Coordination</h4>
+                                    <br/>
+                                    <h4><b>Nearby Hospitals Coordination</b></h4>
                                     <p>Several days before the event, we have coordinated with  4 hospitals nearby. </p>
                                     <table style="border: 1px solid #000;width: 100%;text-align: center;">
                                         <tr>
@@ -679,16 +562,33 @@
                                         </tr>
                                     </table>
                                     <br>
-                                    <h4>Emergency and Evacuation Protocol</h4>
+                                    <h4><b>Emergency and Evacuation Protocol</b></h4>
                                     <p>Organizers also implemented plans for immediate evacuation and assistance to all audience members and staff inside the venue in case of a major emergency including: earthquake, fire, floods, or terrorist incidents</p>
+                                    <img src="<?php echo base_url() ?>img/evacuation plan.jpg" style="width:100%;height: 380px;" />
                                     <br>
                                     <br>
-
-                                    <h4>Emergency Medical Teams and Medical Stations</h4>
+                                    <h4><b>Emergency Medical Teams and Medical Stations</b></h4>
                                     <br>
                                     <p>A number of medical first-aide stations were installed offering quick first-aide. A larger ambulatory tent was also installed equipped to provide medical treatment for serious cases.</p>
-                                    <img src="<?php echo base_url() ?>img/slides/Slide19.JPG" style="width: 76%;display: block;margin: 0 auto;" />
-                                    <img src="<?php echo base_url() ?>img/slides/medical_highlight.jpg" style="width: 76%;display: block;margin: 0 auto;" />
+                                    <div class="img-holder">
+                                        <img id="large" src="<?php echo base_url() ?>img/slides/medical_highlight.jpg" style="width:100%;height: 380px;" />
+                                        <table style="width: 100%;margin-bottom: 20px;">
+                                            <tr>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/medical_highlight.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/first_aid_tent/1. Medical-First Aid Tent.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/first_aid_tent/Ambulance.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/first_aid_tent/Medical Personnel.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/first_aid_tent/Picture 2.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                            </tr>
+                                            <tr>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/first_aid_tent/Picture 3.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/first_aid_tent/Picture 4.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/first_aid_tent/Picture 5.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/first_aid_tent/Picture 6.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/first_aid_tent/Picture 7.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                            </tr>
+                                        </table>
+                                    </div>
                                     <table style="border: 1px solid #000;width: 100%;text-align: center;margin-top: 27px;">
                                         <tr>
                                             <td style="border: 1px solid #000;"><b>Asset</b></td>
@@ -731,9 +631,281 @@
                                             <td style="border: 1px solid #000;">4 units</td>
                                         </tr>
                                     </table>
+                                    <br/>
+                                    <h4><b>CLOSEUP FOREVER SUMMER 2016 "NOW OR NEVER" RUNSHEET</b></h4>
+                                    <br/>
+                                    <table class="runsheet">
+                                        <tr>
+                                            <td class="head">Date</td>
+                                            <td class="head">Time</td>
+                                            <td class="head">Activity</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="31" class="row1">May 21, 2016</td>
+                                            <td class="row1">6:30 AM</td>
+                                            <td class="row1">Call time of Manpower @ Quirino 2B Basketball Court</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row2">8:30 AM</td>
+                                            <td class="row2">Call time of Core Group</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row1"></td>
+                                            <td class="row1">Distributon of Breakfast Meal</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row2">9:30 am to 10:00 am</td>
+                                            <td class="row2">On-site rebriefing of Core + TLs</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="2" class="row1">10:00 am to 10:30 am</td>
+                                            <td class="row1">Distribution of AAI Wirst Tags, IDs and Uniform of On-ground Team</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row1">Distribution of Pouch Devices to AAI</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row2">10:00 AM</td>
+                                            <td class="row2">Start distribution of ID's to Unilever, partner agencies and concessionaires</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row1">10:30 am to 11:30 am</td>
+                                            <td class="row1">On-site simulation of on-ground manpower team</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row2">11:00 AM</td>
+                                            <td class="row2">Call time of Bouncers</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row1">11:15 AM</td>
+                                            <td class="row1">Assembly of Security/Bouncers</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row2">11:30 AM</td>
+                                            <td class="row2">Security Briefing on-site</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row1">12:00 nn</td>
+                                            <td class="row1">SM Tickets Set-up (24 Laptops & Scanners) / WIFI Connection</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row2">12:15 PM</td>
+                                            <td class="row2">Rebriefing with Unilever Brand Team</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="2" class="row1">12:30 PM</td>
+                                            <td class="row1">Distribution of wrist tags + ids to Bouncers (per area)</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row1">Distribution of Lunch Meals</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="2" class="row2">1:30 PM</td>
+                                            <td class="row2">Clearing of Venue/ Prep for Security Sweep</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row2">All manpower should wear their uniform</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="2" class="row1">2:00 PM</td>
+                                            <td class="row1">Start of Security Sweep Proper</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row1">Distribution of Remaining event ID's</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="3" class="row2">2:30 PM</td>
+                                            <td class="row2">Distribution of Pouch Devices to Concessionaires</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row2">Distribution of Communicators</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row2">All manpower on standby to designated areas</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row1">4:00 PM</td>
+                                            <td class="row1">Gates Open</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row2">6:00 PM</td>
+                                            <td class="row2">Distribution of Dinner </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row1">12:00 MN</td>
+                                            <td class="row1">Distribution of Midnight Meal</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row2">2:30 AM</td>
+                                            <td class="row2">End of Show</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="4" class="row1">3:00 AM</td>
+                                            <td class="row1">Retrieval of all Pouch Devices (On-ground team + Concessionaires)</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row1">Retrieval of all Communicators</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row1">Retrieval of all materials and equipments</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row1">Inventory of Sales</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="row2">4:00 AM</td>
+                                            <td class="row2">GO HOME AND SLEEP!!!</td>
+                                        </tr>
+                                    </table>
                                     <br>
-                                    <h1 class="twidth">IMPORTANT INCIDENTS</h1>
-                                    <h3><i>Event Fatalities</i></h3>
+                                    <h4 style="margin-bottom: 0px;"><b>On-site rebriefing Manpower</b></h4>
+                                    <p>9:30 am to 10:00 am</p><br/>
+                                    <div class="img-holder">
+                                        <img id="large" src="<?php echo base_url() ?>img/runsheet/manpower/6c1a237e48820985ab7acfe00b43ed0eb7e57c3e2b7ee135d79ea5cf44ec4d2d_full.jpg" style="width:100%;height: 380px;" />
+                                        <table style="width: 100%;margin-bottom: 20px;">
+                                            <tr>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/manpower/6c1a237e48820985ab7acfe00b43ed0eb7e57c3e2b7ee135d79ea5cf44ec4d2d_full.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/manpower/IMG_0105.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/manpower/IMG_0115.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <br/>
+                                    <h4 style="margin-bottom: 0px;"><b>Distribution of AAI Wirst Tags, IDs, Uniform and Pouch Devices to AAI</b></h4>
+                                    <p>10:00 am to 10:30 am</p><br/>
+                                    <div class="img-holder">
+                                        <img id="large" src="<?php echo base_url() ?>img/runsheet/distribution/IMG_0264.jpg" style="width:100%;height: 380px;" />
+                                        <table style="width: 100%;margin-bottom: 20px;">
+                                            <tr>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/distribution/IMG_0264.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/distribution/IMG_0295.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/distribution/IMG_0296.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                            </tr>
+                                            <tr>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/distribution/IMG_0495.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/distribution/IMG_6907.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/distribution/IMG_6964.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                            </tr>
+                                        </table>
+                                    </div><br/>
+                                    <h4 style="margin-bottom: 0px;"><b>On-ground Manpower Simulation</b></h4>
+                                    <p>10:30 am to 11:30 am</p><br/>
+                                    <div class="img-holder">
+                                        <img id="large" src="<?php echo base_url() ?>img/runsheet/simulation/IMG_0221.jpg" style="width:100%;height: 380px;" />
+                                        <table style="width: 100%;margin-bottom: 20px;">
+                                            <tr>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/simulation/IMG_0221.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/simulation/IMG_0314.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/simulation/Picture1.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/simulation/Picture2.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/simulation/Picture3.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                            </tr>
+                                        </table>
+                                    </div><br/>
+                                    <h4 style="margin-bottom: 0px;"><b>Security Briefing On-site</b></h4>
+                                    <p>11:30 AM</p><br/>
+                                    <div class="img-holder">
+                                        <img id="large" src="<?php echo base_url() ?>img/runsheet/sec_brief/1f84550abc7a952246f710114a404edf7dc45c79d0b79e1ab78b835cf6b17528_full.jpg" style="width:100%;height: 380px;" />
+                                        <table style="width: 100%;margin-bottom: 20px;">
+                                            <tr>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_brief/1f84550abc7a952246f710114a404edf7dc45c79d0b79e1ab78b835cf6b17528_full.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_brief/13275216_1271713416190974_482153606_o.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_brief/IMG_0274.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_brief/IMG_0283.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                            </tr>
+                                            <tr>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_brief/IMG_0317.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_brief/IMG_6922.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_brief/IMG_6930.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_brief/IMG_6931.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                            </tr>
+                                        </table>
+                                    </div><br/>
+                                    <h4 style="margin-bottom: 0px;"><b>Clearing of Venue/ Prep for Security Sweep</b></h4>
+                                    <p>2:00 PM</p><br/>
+                                    <div class="img-holder">
+                                        <img id="large" src="<?php echo base_url() ?>img/runsheet/sec_sweep/IMG_0379.JPG" style="width:100%;height: 380px;" />
+                                        <table style="width: 100%;margin-bottom: 20px;">
+                                            <tr>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_sweep/IMG_0379.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_sweep/IMG_0381.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_sweep/IMG_0384.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_sweep/IMG_0386.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_sweep/IMG_0388.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                            </tr>
+                                            <tr>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_sweep/IMG_0391.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_sweep/IMG_0411.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_sweep/IMG_0418.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_sweep/IMG_0429.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_sweep/IMG_0458.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                            </tr>
+                                        </table>
+                                    </div><br/>
+                                    <h4 style="margin-bottom: 0px;"><b>Security Plotting</b></h4><br/>
+                                    <ul style="margin-left: 50px;">
+                                        <li>
+                                            <p>Security Placement of Bouncers</p>
+                                            <div class="img-holder">
+                                                <img id="large" src="<?php echo base_url() ?>img/runsheet/sec_plot/3. Security Bouncers.jpg" style="width:100%;height: 380px;" />
+                                                <table style="width: 100%;margin-bottom: 20px;">
+                                                    <tr>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/3. Security Bouncers.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/3. SVIP Plotting.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/4. BOH Security Plotting.gif" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/3. Picture 15.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/3. Picture 14.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/3. Picture 13.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/3. Picture 12.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/3. Picture 11.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/3. Picture 10.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/3. Picture 9.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/3. Picture 8.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/3. Picture 7.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/3. Picture 6.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/3. Picture 5.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/3. Picture 4.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/3. Picture 3.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/3. Picture 2.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/3. Picture 1.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/3. Event Proper Picture 2.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/3. Event Proper Picture 1.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                    </tr>
+                                                </table>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <p>Security Placement of PNP</p>
+                                            <div class="img-holder">
+                                                <img id="large" src="<?php echo base_url() ?>img/slides/pnp_highlight.jpg" style="width:100%;height: 380px;" />
+                                                <table style="width: 100%;margin-bottom: 20px;">
+                                                    <tr>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/pnp_highlight.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/PNP/1. PNP Plotting.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/PNP/Intel plotting.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/PNP/2. Picture 1.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/PNP/2. Picture 7.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/PNP/2. Picture 2.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/PNP/2. Picture 3.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/PNP/2. Picture 4.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/PNP/2. Picture 5.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/PNP/2. Picture 6.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                    </tr>
+                                                </table>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                    <h1 class="twidth">IMPORTANT INCIDENTS</h1><br/>
+                                    <h4><b>Event Fatalities</b></h4>
+                                    <br/>
                                     <p>During the event, 3 audience members were given quick medical aid due to illness. These individuals were then immediately transported to the nearest hospitals to be given necessary medical attention.</p>
                                     <table class="twidth" border="1px">
                                         <tr>
@@ -752,8 +924,8 @@
                                             <td>Eric Miller 36 yrs old</td>
                                             <td>Manila Doctors</td>
                                         </tr>
-                                    </table>
-                                    <h3><i>Outside Fatalities</i></h3>
+                                    </table><br/>
+                                    <h4><b>Outside Fatalities</b></h4><br/>
                                     <p>Two individuals who also attended the event earlier in the evening were found outside the venue and brought to hospitals and were then declared fatalities. Additional information on the events that transpired before the individuals were received in the hospital are unknown as they were not inside the venue when the incidents occurred.</p>
 
                                     <br>
@@ -772,8 +944,9 @@
                                             <td style="border: 1px solid #000;">Brought to the hospital by acquaintances. Whether individual was brought directly from the event venue or another location to the hospital is unknown.</td>
                                         </tr>
                                     </table>
-
-                                    <h4 style="margin-top: 20px">Recap</h4>
+                                    <br/>
+                                    <h4 style="margin-top: 20px"><b>Recap</b></h4>
+                                    <br/>
                                     <p>Based from the planning and implementation figures, the organizers followed industry- standard safety & security procedures in organizing major live events involving large numbers of audiences. The security and emergency protocols implemented mirrored or exceeded similar events. The required number of manpower, resources and assets were allocated in the implementation of its plans.</p>
                                     <p>During implementation, the organizers exceeded the required number of security and medical personnel based on US and WHO events standards and its entry procedures and protocols were more stringent than that of other similar events in the past. </p>
                                 </div>
