@@ -535,6 +535,32 @@
                                     </ol>
                                     <h3><i>CCTV</i></h3>
                                     <p>CCTV units were also deployed to monitor the entire venue. All footage was viewed live in a central control room inside the venue.</p>
+                                    <div class="img-holder">
+                                        <img id="large" src="<?php echo base_url() ?>img/cctv/BOH.JPG" style="width:100%;height: 380px;" />
+                                        <table style="width: 100%;">
+                                            <tr>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/BOH.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_0131.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/VIP.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_0135.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_0215.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                            </tr>
+                                            <tr>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_0216.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_0218.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_6435.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_6436.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/IMG_6802.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                            </tr>
+                                            <tr>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/SVIP Entrance Left.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/cctv/SVIP Entrance Right.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                <td></td>
+                                                <td></td>
+                                                <td></td>
+                                            </tr>
+                                        </table>
+                                    </div>
                                     <h3><i>Central Control Room</i></h3>
                                     <p>A central control room monitored and directed all operations in the venue via communication with on-ground and security personnel plus CCTV live footage.</p>
                                     <img src="<?php echo base_url() ?>img/slides/controlsystem.jpg" style="width: 100%;">
