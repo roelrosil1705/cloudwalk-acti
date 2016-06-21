@@ -181,7 +181,7 @@
                                     <b>Pasay City Police</b>
                                     <p>The Pasay City Police was asked to support and participate in the planning and implementation of the event by providing expert assistance in regards to security planning and identifying potential dangers and hazards in events of this type. Pasay City Police was also requested to provide police assistance outside and inside the venue during the event as well as show police presence.</p>
                                     <ul class="mar30">
-                                        <li>Additional Security</li>
+                                        <li>Law enforcer</li>
                                         <li>Police presence</li>
                                         <li>Planning and implementation support</li>
                                     </ul>
@@ -639,8 +639,6 @@
                                             <td style="border: 1px solid #000;">104</td>
                                         </tr>
                                     </table>
-                                    <br>
-                                    Letter request for PNP and K9 <a href="<?=base_url('pdf/PNP.pdf');?>" target="_blank">Read more</a>
                                     <br>
                                     List of PNP <a href="<?=base_url('pdf/List_of_PNP.pdf');?>" target="_blank">Read more</a>
                                     <br><br>
