@@ -327,6 +327,58 @@
                                             <td colspan="3"><b>U.S. Industry Standard Ratio 1:50</b></td>
                                         </tr>
                                     </table>
+                                    <br>
+
+                                    <h3><b>EVENT DAY AND IMPLEMENTATION OF SECURITY PLAN</b></h3>
+                                    <p><b>Quick Look: Security Plan</b></p>
+                                    <img src="<?php echo base_url() ?>img/slides/Slide21.JPG" style="width:100%;" />
+
+                                    <br>
+                                    <br>
+                                    <p>The security plan was based from previous CloseUp Forever Summer runs and similar events implemented by the organizers. </p>
+                                    <br>
+                                    <br>
+                                        <h2 class="twidth">VENUE SAFETY FEATURES, PROCEDURES AND ASSETS</h2>
+                                        <h3><i>Venue Map</i></h3>
+                                        <img class="twidth" src="<?=base_url('img/odds/1.jpg');?>">
+                                        <h3><i>Barricades and Restricted Entry Points</i></h3>
+                                        <p>The venue was barricaded to prevent non-ticket holders from entering and to ensure all guests were directed to the entrance locations and go through the thorough entry and security procedures.</p>
+                                        <p>Important sections of the venue were divided into different zones with varying levels of security and can only be entered by passing through security and inspection.</p>
+                                    <br>
+                                    <h3><i>Guest Information</i></h3>
+                                    <p>The organizers also provided information to guests regarding the safety and security rules of the event including a list of prohibited items.</p>
+                                    <h4>Prohibited Items Signages.</h4>
+                                    <ul style="margin-left: 50px;">
+                                        <li>
+                                            <p>Large and visible signages at key areas like entrances that show the list of prohibited items inside the venue to inform concert goers.</p>
+                                            <img src="<?php echo base_url() ?>img/odds/2222.jpg" style="width: 100%;">
+                                        </li>
+                                    </ul>
+                                    <h4>Security and Emergency Safety Videos</h4>
+                                    <ul style="margin-left: 50px;">
+                                        <li>
+                                            <p>Videos were shown on-screen during the event that informs concert goers to follow the event's security, safety and emergency rules.</p>
+                                        </li>
+                                    </ul>
+                                    <video class="twidth" height="388" controls>
+                                        <source src="<?=base_url('videos/Media1.mp4')?>" type="video/mp4">
+                                    </video>
+                                    <h3><i>Pouch RFID System</i></h3>
+                                    <p>Puch provided RFID tagging system using an RFID wristband that facilitates and records entrances as well as facilitating wireless cash transactions between guests and concessionaires. This system also restricts minors from buying alcoholic drinks.</p>
+                                    <h3><i>Entrance Procedure and Security</i></h3>
+                                    <p>Before entering the venue, audience members must pass several lines of security steps. </p>
+                                    <ol type="1" class="mar30">
+                                        <li>Barker Announcement</li>
+                                        <li>Checking of Tickets & Frisking</li>
+                                        <li>2<sup>nd</sup> Frisking</li>
+                                        <li>Scanning of tickets </li>
+                                        <li>Tagging and registration</li>
+                                    </ol>
+                                    <h3><i>CCTV</i></h3>
+                                    <p>CCTV units were also deployed to monitor the entire venue. All footage was viewed live in a central control room inside the venue.</p>
+                                    <h3><i>Central Control Room</i></h3>
+                                    <p>A central control room monitored and directed all operations in the venue via communication with on-ground and security personnel plus CCTV live footage.</p>
+                                    <img src="<?php echo base_url() ?>img/slides/controlsystem.jpg" style="width: 100%;">
                                 </div>
                             </div>
                         </div>
@@ -462,10 +514,6 @@
                                             </tr>
                                         </table>
                                     </div>
-                                    <h3><b>EVENT DAY AND IMPLEMENTATION OF SECURITY PLAN</b></h3>
-                                    <b>Quick Look: Security Plan</b>
-                                    <p>The security plan was based from previous CloseUp Forever Summer runs and similar events implemented by the organizers. </p>
-                                    <img src="<?php echo base_url() ?>img/slides/Slide21.JPG" style="width:100%;" />
                                 </div>
                                 <!--End CONTENT -->
                             </div>
@@ -495,26 +543,7 @@
                         <div class="col-md-12" style="border-bottom:solid px gray;padding: 70px 15px;text-align: justify;">
                             <div class="container" style="font-weight: 100;font-family: sans-serif;">
                                 <!--Start CONTENT -->
-                                <div class="col-md-10 col-md-offset-1">
-                                    <h3><i>Guest Information</i></h3>
-                                    <p>The organizers also provided information to guests regarding the safety and security rules of the event including a list of prohibited items.</p>
-                                    <h4>Prohibited Items Signages.</h4>
-                                    <ul style="margin-left: 50px;">
-                                        <li>
-                                            <p>Large and visible signages at key areas like entrances that show the list of prohibited items inside the venue to inform concert goers.</p>
-                                            <img src="<?php echo base_url() ?>img/odds/2222.jpg" style="width: 100%;">
-                                        </li>
-                                    </ul>
-                                    <h4>Security and Emergency Safety Videos</h4>
-                                    <ul style="margin-left: 50px;">
-                                        <li>
-                                            <p>Videos were shown on-screen during the event that informs concert goers to follow the event's security, safety and emergency rules.</p>
-                                        </li>
-                                    </ul>
-                                    <video class="twidth" height="388" controls>
-                                        <source src="<?=base_url('videos/Media1.mp4')?>" type="video/mp4">
-                                    </video>
-                                </div>
+
                                 <!--End CONTENT -->
                             </div>
                         </div>
@@ -526,23 +555,7 @@
                             <div class="container" style="font-weight: 100;font-family: sans-serif;">
                                 <!--Start CONTENT -->
                                 <div class="col-md-10 col-md-offset-1">
-                                    <h3><i>Pouch RFID System</i></h3>
-                                    <p>Puch provided RFID tagging system using an RFID wristband that facilitates and records entrances as well as facilitating wireless cash transactions between guests and concessionaires. This system also restricts minors from buying alcoholic drinks.</p>
-                                    <h3><i>Entrance Procedure and Security</i></h3>
-                                    <p>Before entering the venue, audience members must pass several lines of security steps. </p>
-                                    <ol type="1" class="mar30">
-                                        <li>Barker Announcement</li>
-                                        <li>Checking of Tickets & Frisking</li>
-                                        <li>2<sup>nd</sup> Frisking</li>
-                                        <li>Scanning of tickets </li>
-                                        <li>Tagging and registration</li>
-                                    </ol>
-                                    <video src=""></video>
-                                    <h3><i>CCTV</i></h3>
-                                    <p>CCTV units were also deployed to monitor the entire venue. All footage was viewed live in a central control room inside the venue.</p>
-                                    <h3><i>Central Control Room</i></h3>
-                                    <p>A central control room monitored and directed all operations in the venue via communication with on-ground and security personnel plus CCTV live footage.</p>
-                                    <img src="<?php echo base_url() ?>img/slides/controlsystem.jpg" style="width: 100%;">
+
                                 </div>
                                 <!--End CONTENT -->
                             </div>
