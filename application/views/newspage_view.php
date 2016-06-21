@@ -327,16 +327,7 @@
                                             <td colspan="3"><b>U.S. Industry Standard Ratio 1:50</b></td>
                                         </tr>
                                     </table>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End PAGE 3-->
-                    <!--Start PAGE 4-->
-                    <div class="row col-md-10 col-md-offset-1 aai-news-bshadow" style="min-height: 800px;">
-                        <div class="col-md-12" style="border-bottom:solid px gray;padding: 70px 15px;text-align: justify;">
-                            <div class="container" style="font-weight: 100;font-family: sans-serif;">
-                                <div class="col-md-10 col-md-offset-1">
+                                    <br>
                                     <h4>1st Briefing Day - May 12, 2016</h4>
                                     <div class="img-holder">
                                         <img id="large" src="<?php echo base_url() ?>img/1stbriefing/Picture1.jpg" style="width:100%;height: 380px;" />
@@ -494,137 +485,25 @@
                                             <td class="row2">GO HOME AND SLEEP!!!</td>
                                         </tr>
                                     </table>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End PAGE 4 -->
-                    <!--Start PAGE 4 -->
-                    <div class="row col-md-10 col-md-offset-1 aai-news-bshadow" style="min-height: 800px;">
-                        <div class="col-md-12" style="border-bottom:solid px gray;padding: 70px 15px;text-align: justify;">
-                            <div class="container" style="font-weight: 100;font-family: sans-serif;">
-                                <!--Start CONTENT -->
-                                <div class="col-md-10 col-md-offset-1">
-                                    <b>Planning and Production Meetings</b>
-                                    <p>CloseUp and its main suppliers Activations Advertising and Eventscape conducted three separate pre-production meetings with suppliers, partners and government organizations refine and finalize the security measures that will be put in place during the event.</p>
-                                    <table style="border: 1px solid #000;width: 100%;text-align: center;">
-                                        <tr>
-                                            <td colspan="3" style="border: 1px solid #000;"><b>PRE-PRODUCTION AND SECURITY MEETINGS</b></td>
-                                        </tr>
-                                        <tr>
-                                            <td style="border: 1px solid #000;"><b>Agenda</b></td>
-                                            <td style="border: 1px solid #000;"><b>Date</b></td>
-                                            <td style="border: 1px solid #000;"><b>Location</b></td>
-                                        </tr>
-                                        <tr>
-                                            <td style="border: 1px solid #000;">1st Production Meeting</td>
-                                            <td style="border: 1px solid #000;">05/12/2016</td>
-                                            <td style="border: 1px solid #000;">SM Mall of Asia</td>
-                                        </tr>
-                                        <tr>
-                                            <td style="border: 1px solid #000;">2nd Production Meeting</td>
-                                            <td style="border: 1px solid #000;">05/18/2016</td>
-                                            <td style="border: 1px solid #000;">Brgy Pinahan, Quezon City</td>
-                                        </tr>
-                                        <tr>
-                                            <td style="border: 1px solid #000;">3rd Production Meeting</td>
-                                            <td style="border: 1px solid #000;">05/19/2016</td>
-                                            <td style="border: 1px solid #000;">Brgy. Quirino 2B Covered Court</td>
-                                        </tr>
-                                        <tr>
-                                            <td style="border: 1px solid #000;">Final Security Briefing/Simulation</td>
-                                            <td style="border: 1px solid #000;">05/21/2016</td>
-                                            <td style="border: 1px solid #000;">Mall of Asia</td>
-                                        </tr>
-                                    </table>
-                                    <div class="img-holder">
-                                        <h3>1st Briefing Day - May 12, 2016</h3>
-                                        <img id="large" src="<?php echo base_url() ?>img/slides/Slide2.JPG" style="width:100%;height: 380px;" />
-                                        <table style="width: 100%;">
-                                            <tr>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide2.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide3.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide4.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                            </tr>
-                                        </table>
-                                    </div>
-                                    <div class="img-holder">
-                                        <h3>2nd Briefing Day - May 18, 2016</h3>
-                                        <img id="large" src="<?php echo base_url() ?>img/slides/Slide7.JPG" style="width:100%;height: 380px;" />
-                                        <table style="width: 100%;">
-                                            <tr>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide7.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide8.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide9.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                            </tr>
-                                        </table>
-                                    </div>
-                                    <div class="img-holder">
-                                        <h3>3rd Briefing Day - May 19, 2016</h3>
-                                        <img id="large" src="<?php echo base_url() ?>img/slides/Slide11.JPG" style="width:100%;height: 380px;" />
-                                        <table style="width: 100%;">
-                                            <tr>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide11.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide10.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/slides/Slide12.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                            </tr>
-                                        </table>
-                                    </div>
 
-                                    <h3>Event Day Briefing of Manpower</h3>
-                                    <img src="<?php echo base_url() ?>img/slides/Eventdaybriefing.jpg" style="width:100%;height: 380px;" />
-                                    <div class="img-holder">
-                                        <h3 style="margin-top: 15px;margin-bottom: 0px;">Event Day Briefing of Security</h3>
-                                        <img id="large" src="<?php echo base_url() ?>img/security/Picture1.jpg" style="width:100%;height: 380px;" />
-                                        <table style="width: 100%;">
-                                            <tr>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/Picture1.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/23.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/IMG_0283.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/IMG_0317.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                            </tr>
-                                            <tr>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/IMG_6922.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/IMG_6930.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/IMG_6931.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/security/24.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                            </tr>
-                                        </table>
-                                    </div>
+                                    <br>
+
                                     <h3><b>EVENT DAY AND IMPLEMENTATION OF SECURITY PLAN</b></h3>
-                                    <b>Quick Look: Security Plan</b>
-                                    <p>The security plan was based from previous CloseUp Forever Summer runs and similar events implemented by the organizers. </p>
+                                    <p><b>Quick Look: Security Plan</b></p>
                                     <img src="<?php echo base_url() ?>img/slides/Slide21.JPG" style="width:100%;" />
-                                </div>
-                                <!--End CONTENT -->
-                            </div>
-                        </div>
-                    </div>
-                    <!--End PAGE 4-->
-                    <!--Start PAGE 5 -->
-                    <div class="row col-md-10 col-md-offset-1 aai-news-bshadow" style="min-height: 800px;">
-                        <div class="col-md-12" style="border-bottom:solid px gray;padding: 70px 15px;text-align: justify;">
-                            <div class="container" style="font-weight: 100;font-family: sans-serif;">
-                                <!--Start CONTENT -->
-                                <div class="col-md-10 col-md-offset-1">
-                                    <h2 class="twidth">VENUE SAFETY FEATURES, PROCEDURES AND ASSETS</h2>
-                                    <h3><i>Venue Map</i></h3>
-                                    <img class="twidth" src="<?=base_url('img/odds/1.jpg');?>">
-                                    <h3><i>Barricades and Restricted Entry Points</i></h3>
-                                    <p>The venue was barricaded to prevent non-ticket holders from entering and to ensure all guests were directed to the entrance locations and go through the thorough entry and security procedures.</p>
-                                    <p>Important sections of the venue were divided into different zones with varying levels of security and can only be entered by passing through security and inspection.</p>
-                                </div>
-                                <!--End CONTENT -->
-                            </div>
-                        </div>
-                    </div>
-                    <!--End PAGE 5-->
-                    <!--Start PAGE 6 -->
-                    <div class="row col-md-10 col-md-offset-1 aai-news-bshadow" style="min-height: 800px;">
-                        <div class="col-md-12" style="border-bottom:solid px gray;padding: 70px 15px;text-align: justify;">
-                            <div class="container" style="font-weight: 100;font-family: sans-serif;">
-                                <!--Start CONTENT -->
-                                <div class="col-md-10 col-md-offset-1">
+
+                                    <br>
+                                    <br>
+                                    <p>The security plan was based from previous CloseUp Forever Summer runs and similar events implemented by the organizers. </p>
+                                    <br>
+                                    <br>
+                                        <h2 class="twidth">VENUE SAFETY FEATURES, PROCEDURES AND ASSETS</h2>
+                                        <h3><i>Venue Map</i></h3>
+                                        <img class="twidth" src="<?=base_url('img/odds/1.jpg');?>">
+                                        <h3><i>Barricades and Restricted Entry Points</i></h3>
+                                        <p>The venue was barricaded to prevent non-ticket holders from entering and to ensure all guests were directed to the entrance locations and go through the thorough entry and security procedures.</p>
+                                        <p>Important sections of the venue were divided into different zones with varying levels of security and can only be entered by passing through security and inspection.</p>
+                                    <br>
                                     <h3><i>Guest Information</i></h3>
                                     <p>The organizers also provided information to guests regarding the safety and security rules of the event including a list of prohibited items.</p>
                                     <h4>Prohibited Items Signages.</h4>
@@ -643,21 +522,9 @@
                                     <video class="twidth" height="388" controls>
                                         <source src="<?=base_url('videos/Media1.mp4')?>" type="video/mp4">
                                     </video>
-                                </div>
-                                <!--End CONTENT -->
-                            </div>
-                        </div>
-                    </div>
-                    <!--End PAGE 6 -->
-                    <!--Start PAGE 7-->
-                    <div class="row col-md-10 col-md-offset-1 aai-news-bshadow" style="min-height: 800px;">
-                        <div class="col-md-12" style="border-bottom:solid px gray;padding: 70px 15px;text-align: justify;">
-                            <div class="container" style="font-weight: 100;font-family: sans-serif;">
-                                <!--Start CONTENT -->
-                                <div class="col-md-10 col-md-offset-1">
                                     <h3><i>Pouch RFID System</i></h3>
                                     <p>Puch provided RFID tagging system using an RFID wristband that facilitates and records entrances as well as facilitating wireless cash transactions between guests and concessionaires. This system also restricts minors from buying alcoholic drinks.</p>
-                                    <h3><i>Entrance Procedure and Security</i></h3>
+                                    <h3><i>Entrance Procedures and Security</i></h3>
                                     <p>Before entering the venue, audience members must pass several lines of security steps. </p>
                                     <ol type="1" class="mar30">
                                         <li>Barker Announcement</li>
@@ -666,24 +533,13 @@
                                         <li>Scanning of tickets </li>
                                         <li>Tagging and registration</li>
                                     </ol>
-                                    <video src=""></video>
                                     <h3><i>CCTV</i></h3>
                                     <p>CCTV units were also deployed to monitor the entire venue. All footage was viewed live in a central control room inside the venue.</p>
                                     <h3><i>Central Control Room</i></h3>
                                     <p>A central control room monitored and directed all operations in the venue via communication with on-ground and security personnel plus CCTV live footage.</p>
                                     <img src="<?php echo base_url() ?>img/slides/controlsystem.jpg" style="width: 100%;">
-                                </div>
-                                <!--End CONTENT -->
-                            </div>
-                        </div>
-                    </div>
-                    <!--End PAGE 7-->
-                    <!--Start PAGE 8 -->
-                    <div class="row col-md-10 col-md-offset-1 aai-news-bshadow" style="min-height: 800px;">
-                        <div class="col-md-12" style="border-bottom:solid px gray;padding: 70px 15px;text-align: justify;">
-                            <div class="container" style="font-weight: 100;font-family: sans-serif;">
-                                <!--Start CONTENT -->
-                                <div class="col-md-10 col-md-offset-1">
+                                    <br>
+                                    <br>
                                     <h4>Medical Tents</h4>
                                     <p>A number of medical first-aide stations were installed offering quick first-aide. A larger ambulatory tent was also installed equipped to provide medical treatment for serious cases.</p>
                                     <img src="<?php echo base_url() ?>img/slides/Slide19.JPG" style="width: 76%;display: block;margin: 0 auto;" />
@@ -745,18 +601,8 @@
                                     </div>
                                     <h4>Emergency and Evacuation Protocol</h4>
                                     <p>Organizers also implemented plans for immediate evacuation and assistance to all audience members and staff inside the venue in case of a major emergency including: earthquake, fire, floods, or terrorist incidents</p>
-                                </div>
-                                <!--End CONTENT -->
-                            </div>
-                        </div>
-                    </div>
-                    <!--End PAGE 8 -->
-                    <!--Start PAGE 9-->
-                    <div class="row col-md-10 col-md-offset-1 aai-news-bshadow" style="min-height: 800px;">
-                        <div class="col-md-12" style="padding: 70px 15px;text-align: justify;">
-                            <div class="container" style="font-weight: 100;font-family: sans-serif;">
-                                <!--Start CONTENT -->
-                                <div class="col-md-10 col-md-offset-1">
+                                    <br>
+                                    <br>
                                     <h2 class="twidth">NUMBER OF PERSONNEL DEPLOYED FOR THE EVENT</h2>
                                     <h3><i>On-ground Security Personnel</i></h3>
                                     <p>Security was to be provided by teams comprised of bouncers, on-ground personnel and police. These units were to be deployed inside and outside the venue including critical locations like entrances and exits and other entry points between different sections of the venue.</p>
@@ -825,18 +671,9 @@
                                     <img src="<?php echo base_url() ?>img/slides/Slide21.JPG" style="width: 100%;" />
                                     <h3><i>On-ground Manpower</i></h3>
                                     <p>A separate group of on-ground manpower were deployed to operate key sections of the venue. These include manning entrances, guest assistance, utility, logistics, etc.</p>
-                                </div>
-                                <!--End CONTENT -->
-                            </div>
-                        </div>
-                    </div>
-                    <!--End PAGE 9-->
-                    <!--Start PAGE 10-->
-                    <div class="row col-md-10 col-md-offset-1 aai-news-bshadow" style="min-height: 800px;">
-                        <div class="col-md-12" style="border-bottom:solid px gray;padding: 70px 15px;text-align: justify;">
-                            <div class="container" style="font-weight: 100;font-family: sans-serif;">
-                                <!--Start CONTENT -->
-                                <div class="col-md-10 col-md-offset-1">
+
+                                    <br>
+                                    <br>
                                     <table style="border: 1px solid #000;width: 100%;text-align: center;">
                                         <tr>
                                             <td style="border: 1px solid #000;"><b>Particulars</b></td>
@@ -948,18 +785,8 @@
                                     <img src="<?php echo base_url() ?>img/slides/pnp_highlight.jpg" style="width:100%;" />
                                     <h4>PNP Undercover Contingent: INTEL GROUP</h4>
                                     <p>The Pasay PNP also deployed civilian-clothed units inside the venue to monitor the audience and guard against potential dangers.</p>
-                                </div>
-                                <!--End CONTENT -->
-                            </div>
-                        </div>
-                    </div>
-                    <!--End PAGE 10-->
-                    <!--Start PAGE 11-->
-                    <div class="row col-md-10 col-md-offset-1 aai-news-bshadow" style="min-height: 800px;">
-                        <div class="col-md-12" style="padding: 70px 15px;text-align: justify;">
-                            <div class="container" style="font-weight: 100;font-family: sans-serif;">
-                                <!--Start CONTENT -->
-                                <div class="col-md-10 col-md-offset-1">
+                                    <br>
+                                    <br>
                                     <table class="twidth" border="1px">
                                         <tr>
                                             <th style="text-align: center;">Particulars</th>
@@ -1011,18 +838,9 @@
                                     </table>
                                     <h3><i>Outside Fatalities</i></h3>
                                     <p>Two individuals who also attended the event earlier in the evening were found outside the venue and brought to hospitals and were then declared fatalities. Additional information on the events that transpired before the individuals were received in the hospital are unknown as they were not inside the venue when the incidents occurred.</p>
-                                </div>
-                                <!--End CONTENT -->
-                            </div>
-                        </div>
-                    </div>
-                    <!--End PAGE 11-->
-                    <!--Start PAGE 12-->
-                    <div class="row col-md-10 col-md-offset-1 aai-news-bshadow" style="min-height: 800px;margin-bottom: 60px;">
-                        <div class="col-md-12" style="border-bottom:solid px gray;padding: 70px 15px;text-align: justify;">
-                            <div class="container" style="font-weight: 100;font-family: sans-serif;">
-                                <!--Start CONTENT -->
-                                <div class="col-md-10 col-md-offset-1">
+
+                                    <br>
+                                    <br>
                                     <table style="border: 1px solid #000;width: 100%;text-align: center;">
                                         <tr>
                                             <td style="border: 1px solid #000;"><b>Name of Individual</b></td>
@@ -1042,12 +860,10 @@
                                     <p>Based from the planning and implementation figures, the organizers followed industry- standard safety & security procedures in organizing major live events involving large numbers of audiences. The security and emergency protocols implemented mirrored or exceeded similar events. The required number of manpower, resources and assets were allocated in the implementation of its plans.</p>
                                     <p>During implementation, the organizers exceeded the required number of security and medical personnel based on US and WHO events standards and its entry procedures and protocols were more stringent than that of other similar events in the past. </p>
                                 </div>
-                                <!--End CONTENT -->
                             </div>
                         </div>
                     </div>
-                    <!--End PAGE -->
-
+                    <!--End PAGE 3-->
                 </div>
             </div>
         </div>
