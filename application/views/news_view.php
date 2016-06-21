@@ -1,9 +1,9 @@
 <div id="news-sec" class="container" style="border:solid px red;margin-top:0px;">
 
-	<div class="row" style="border:solid px red;margin-top:150px;">
-		<div class="col-md-4 col-md-offset-2 col-sm-4">
+	<div class="row" style="border:solid px red;margin-top:41px;">
+		<div class="col-md-12 col-sm-12">
 			<!--<p class="news_title">news</p>-->
-			<img src="images/news-title.png">			
+			<img src="images/news-title.png" style="max-width: 500px;display: block;margin: 0 auto;" />
 		</div>
 	</div>
 <!--
@@ -33,16 +33,22 @@
 			</div>
 		</div>
 	</div>
--->	
+-->
 	<div class="row aai-news-bshadow">
 		<div class="col-md-12" style="border-bottom:solid px gray;padding: 15px;">
 			<div class="container">
-				<p><span><strong>Activations brings excitement at every turn with the launch of the Samsung Gear S2 and Samsung Galaxy Studio.</strong></span></p>
-				<p>Hundreds of media and influencers from the tech scene flocked to the SM Mall of Asia where, for the first time ever, a big event was held at the iconic Globe Rotunda in front of the Mall.
-				Activations Advertising played a leading role in creating one of the biggest tech launches ever in the country with the arrival of Samsung's latest smartwatch, the Gear S2. We converted the MOA globe into the biggest smartwatch ever in a live interactive display to celebrate the product's launch.
-				The night also saw the opening of the Samsung Galaxy Studio at the SM MOA Cyberzone as it makes its exclusive stop here in the Philippines on its worldwide tour. The booth activation featured exciting experience zones headline by Samsung's latest line of smartphones with the Gear S2 taking center stage.
-				Check out the Samsung Galaxy Studio at the SM Mall of Asia Cyberzone from November 27 to December 5, 2015.
-				#GalaxyStudioPH #GearsS2</p>
+				<h2 style="margin: 0px;">Close Up</h2>
+				<p style="font-size: 12px;text-align: justify;">As of June 20, 2016, we at Activations Advertising, Inc. continue to cooperate with the NBI and the Congress regarding the investigation on Closeup Forever Summer 2016 . The deaths that occurred during the event are a terrible tragedy and have been profoundly traumatic for all of the parties involved.</p>
+				<p style="font-size: 12px;text-align: justify;">In the interest of full disclosure, we would like to make public the documents, which we have submitted, to the NBI –which includes the security plan validated by affidavits. We have decided to publish this so that the public can be informed about the details of this unfortunate circumstance.</p>
+				<p style="font-size: 12px;text-align: justify;">Currently, our organization is working with several security experts to find possible enhancements to our security protocol.</p>
+			</div>
+			<div class="container">
+				<div class="col-md-4 col-sm-4">
+					<a href="https://www.facebook.com/activationsadvertisinginc" target="_blank"><img src="images/fblike.png" style="margin-left:-14px;max-width: 56px;" /></a>
+					<a href="https://twitter.com/ActivationsAd" target="_blank"><img src="images/tweet.png" style="max-width: 21px;" /></a>
+					<a href="http://instagram.com/activationsadvertising" target="_blank"><img src="images/instagram.png" style="max-width: 21px;" /></a>
+				</div>
+				<?php echo anchor('newspage', 'Read More', 'style="float: right;"'); ?>
 			</div>
 			<!--<hr class="featurette-divider">-->
 			<!--<div>&nbsp;</div>-->
@@ -51,13 +57,43 @@
 	<div class="row aai-news-bshadow">
 		<div class="col-md-12" style="border-bottom:solid px gray;padding: 15px;">
 			<div class="container">
+				<h2 style="margin: 0px;">Samsung</h2>
+				<p><span><strong>Activations brings excitement at every turn with the launch of the Samsung Gear S2 and Samsung Galaxy Studio.</strong></span></p>
+				<p style="font-size: 12px;text-align: justify;">Hundreds of media and influencers from the tech scene flocked to the SM Mall of Asia where, for the first time ever, a big event was held at the iconic Globe Rotunda in front of the Mall.
+				Activations Advertising played a leading role in creating one of the biggest tech launches ever in the country with the arrival of Samsung's latest smartwatch, the Gear S2. We converted the MOA globe into the biggest smartwatch ever in a live interactive display to celebrate the product's launch.
+				The night also saw the opening of the Samsung Galaxy Studio at the SM MOA Cyberzone as it makes its exclusive stop here in the Philippines on its worldwide tour. The booth activation featured exciting experience zones headline by Samsung's latest line of smartphones with the Gear S2 taking center stage.
+				Check out the Samsung Galaxy Studio at the SM Mall of Asia Cyberzone from November 27 to December 5, 2015.
+				#GalaxyStudioPH #GearsS2</p>
+			</div>
+			<div class="container">
+				<div class="col-md-4 col-sm-4">
+					<a href="https://www.facebook.com/activationsadvertisinginc" target="_blank"><img src="images/fblike.png" style="margin-left:-14px;max-width: 56px;" /></a>
+					<a href="https://twitter.com/ActivationsAd" target="_blank"><img src="images/tweet.png" style="max-width: 21px;" /></a>
+					<a href="http://instagram.com/activationsadvertising" target="_blank"><img src="images/instagram.png" style="max-width: 21px;" /></a>
+				</div>
+			</div>
+			<!--<hr class="featurette-divider">-->
+			<!--<div>&nbsp;</div>-->
+		</div>
+	</div>
+	<div class="row aai-news-bshadow">
+		<div class="col-md-12" style="border-bottom:solid px gray;padding: 15px;">
+			<div class="container">
+				<h2 style="margin: 0px;">Teenweek</h2>
 				<p><span><strong>Powering-up 1 MILLION Future-ready teen AGAIN!!!</strong></span></p>
-				<p>#TeenWeekPH 2015 has just wrapped-up it's nationwide celebrations of all things teens. We visited more than 200 high-schools throughout the Philippines where we enjoyed, celebrated and shared wonderful experiences with more than 1 million students.
+				<p style="font-size: 12px;text-align: justify;">#TeenWeekPH 2015 has just wrapped-up it's nationwide celebrations of all things teens. We visited more than 200 high-schools throughout the Philippines where we enjoyed, celebrated and shared wonderful experiences with more than 1 million students.
 					The 1-week celebrations aimed to educate Filipino teens about the important topics that are essential to a their personal development like personal care, hygiene, self-esteem. ambitions and future careers, which were made more fun and exciting with the help of Creamsilk, Rexona and Pond's.
 					From enlightening TED-talk forums, fun games, and shareable photo moments, students took-in important learnings while still having a good time all week long.
 					The celebrations concluded with the first-ever TeenWeek Fair headlined by a talent showcase featuring outstanding live performances from the students themselves. Our favorite Unilever brand ambassadors and celebrities like were also there to share the celebrations with our students.
 					In it's 3rd year of running, #TeenWeekPH has added 1 million more young teens who are future-ready to take on the world.
 					See you all next year!</p>
+			</div>
+			<div class="container">
+				<div class="col-md-4 col-sm-4">
+					<a href="https://www.facebook.com/activationsadvertisinginc" target="_blank"><img src="images/fblike.png" style="margin-left:-14px;max-width: 56px;" /></a>
+					<a href="https://twitter.com/ActivationsAd" target="_blank"><img src="images/tweet.png" style="max-width: 21px;" /></a>
+					<a href="http://instagram.com/activationsadvertising" target="_blank"><img src="images/instagram.png" style="max-width: 21px;" /></a>
+				</div>
 			</div>
 			<!--<hr class="featurette-divider">-->
 			<!--<div>&nbsp;</div>-->
@@ -67,7 +103,7 @@
 		<div class="col-md-12" style="border-bottom:solid px gray;padding: 15px;">
 			<div class="container" style="border-bottom:solid px gray; margin-top: 10px;">
 				<p><span><strong>Activations Advertising Inc. breaks another world record.</strong></span></p>
-				<p>AAI has bagged another world record after it set the official Guinness World Record for the most number of people handwashing a single piece of fabric
+				<p style="font-size: 12px;text-align: justify;">AAI has bagged another world record after it set the official Guinness World Record for the most number of people handwashing a single piece of fabric
 					simultaneously for Breeze Detergent.
 					Fighting through torrential rain and the massive logistics and planning nightmare of an official world record attempt, the agency successfully
 					gathered more than 2,200 moms at the UMAK Track & Field who were able to successfully handwash a 1 Kilometer long piece of cloth all at the same time.
@@ -77,12 +113,9 @@
 			<!--<hr class="featurette-divider">-->
 			<div class="container">
 				<div class="col-md-4 col-sm-4">
-					<a href="https://www.facebook.com/activationsadvertisinginc" target="_blank"><img src="images/fblike.png" style="margin-left:-14px;"></a>
-					<a href="https://twitter.com/ActivationsAd" target="_blank"><img src="images/tweet.png"></a>
-					<a href="http://instagram.com/activationsadvertising" target="_blank"><img src="images/instagram.png"></a>
-				</div>
-				<div class="col-md-8 col-sm-8">
-					<?php echo anchor('newspage', 'Read More', 'style="float: right;"'); ?>
+					<a href="https://www.facebook.com/activationsadvertisinginc" target="_blank"><img src="images/fblike.png" style="margin-left:-14px;max-width: 56px;" /></a>
+					<a href="https://twitter.com/ActivationsAd" target="_blank"><img src="images/tweet.png" style="max-width: 21px;" /></a>
+					<a href="http://instagram.com/activationsadvertising" target="_blank"><img src="images/instagram.png" style="max-width: 21px;" /></a>
 				</div>
 			</div>
 			<!--<div>&nbsp;</div>-->
