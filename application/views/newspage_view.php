@@ -277,8 +277,12 @@
                                             </tr>
                                         </table>
                                     </div>
+
+                                    <h3>Day of Event Briefing</h3>
+                                    <p>Manpower Briefing</p>
+                                    <img src="<?php echo base_url() ?>img/slides/Eventdaybriefing.jpg" style="width:100%;height: 380px;" />
                                     <div class="img-holder">
-                                        <h3>Day of Event Briefing</h3>
+                                        <p style="margin-top: 15px;margin-bottom: 0px;">Security Briefing</p>
                                         <img id="large" src="<?php echo base_url() ?>img/slides/Slide16.JPG" style="width:100%;height: 380px;" />
                                         <table>
                                             <tr>
