@@ -904,7 +904,7 @@
                                                         <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/PNP/2. Picture 7.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/PNP/2. Picture 2.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture25.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                         <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/PNP/2. Picture 3.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                         <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/PNP/2. Picture 4.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                         <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/PNP/2. Picture 5.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
@@ -943,7 +943,8 @@
                                                         <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture22.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                         <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture23.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                         <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture24.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture25.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td></td>
+                                                        <td></td>
                                                     </tr>
                                                 </table>
                                             </div>
