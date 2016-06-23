@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-
-	<meta name="robots" content="noindex">
-
 	<title><?php echo isset($title) ? $title : 'Activation Advertising, Inc.'; ?></title>
+	<meta name="description" content="As of June 20, 2016, we at Activations Advertising, Inc. continue to cooperate with the NBI and the Congress regarding the investigation on Closeup Forever Summer 2016 .">
+	<meta name="keywords" content="Activations, Advertising">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<link href="<?php echo base_url();?>bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">

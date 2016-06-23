@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/html">
 <head>
-
-    <meta name="robots" content="noindex">
-
     <title><?php echo isset($title) ? $title : 'Activation Advertising, Inc.'; ?></title>
+    <meta name="description" content="As of June 20, 2016, we at Activations Advertising, Inc. continue to cooperate with the NBI and the Congress regarding the investigation on Closeup Forever Summer 2016 .">
+    <meta name="keywords" content="Activations, Advertising">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link href="<?php echo base_url();?>bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
@@ -109,8 +108,8 @@
                         <div class="col-md-12" style="border-bottom:solid px gray;padding: 70px 15px;text-align: justify;">
                             <div class="container" style="font-weight: 100;font-family: sans-serif;padding-top: 25%;font-size: 1.2em;">
                                 <!--Start CONTENT -->
-                                <p>As of June 20, 2016, we at Activations Advertising, Inc. continue to cooperate with the NBI and the Congress regarding the investigation on Closeup Forever Summer 2016 . The deaths that occurred during the event are a terrible tragedy and have been profoundly traumatic for all of the parties involved.</p>
-                                <p>In the interest of full disclosure, we would like to make public the documents, which we have submitted, to the NBI which includes the security plan validated by affidavits. We have decided to publish this so that the public can be informed about the details of this unfortunate circumstance.</p>
+                                <p>As of June 20, 2016, we at Activations Advertising, Inc. continue to cooperate with the NBI and the Congress regarding the investigation on Closeup Forever Summer 2016. The deaths that occurred during the event are a terrible tragedy and have been profoundly traumatic for all of the parties involved.</p>
+                                <p>In the interest of full disclosure, we would like to make public the documents that we have submitted to the authorities, which includes the security plan, and validated by affidavits. We have decided to publish this so that the public can be informed about the details of the surrounding circumstances.</p>
                                 <p>Currently, our organization is working with several security experts to find possible enhancements to our security protocol.</p>
                                 <!--End CONTENT -->
                             </div>
@@ -123,19 +122,24 @@
                             <div class="container" style="font-weight: 100;font-family: sans-serif;">
                                 <div class="col-md-10 col-md-offset-1">
                                     <h4><b>What is CloseUp Forever Summer?</b></h4>
-                                    <p>CloseUp Forever Summer is an annual Electronic Dance Music (EDM) festival featuring the world's top DJs performing live. The event is organized and funded by CloseUp/Unilever Philippines with support from its contracted suppliers EventScape and Activations Advertising.</p>
+                                    <p>CloseUp Forever Summer is an annual Electronic Dance Music (EDM) festival featuring the world's top DJs performing live. The event is delivered and funded by CloseUp/Unilever Philippines with support from its contracted suppliers/co-organizers Eventscape Manila and Activations Advertising.</p>
                                     <br/>
                                     <h3 style="text-align: center;"><strong>INVOLVED GROUPS AND ORGANIZATIONS</strong></h3>
                                     <h4><b>Civilian</b></h4>
                                     <b>1.) CloseUp/Unilever Philippines - Principal</b><br/><br/>
-                                    <b>2.) EventScape - Event Implementation, Logistics, Talent Acquisition, Food and Beverage</b>
-                                    <p>EventScape was responsible for organizing and bringing-in the featured talent and performers for the event.</p>
+                                    <b>2.) Eventscape - Event Implementation, Logistics, Talent Acquisition, Food and Beverage</b>
+                                    <p>Eventscape was responsible for organizing and bringing-in the featured talents and performers for the event.</p>
                                     <ul style="margin-left: 50px;">
-                                        <li>Staging of the Event</li>
-                                        <li>Talent Acquisition</li>
-                                        <li>Event Setup</li>
-                                        <li>Official Permits (Event, City, Alcohol)</li>
-                                        <li>Organizing Food and Alcoholic Beverage Suppliers</li>
+                                        <li>Creative Conceptualization</li>
+                                        <li>Program Management</li>
+                                        <li>Stage Management</li>
+                                        <li>Technical Requirements</li>
+                                        <li>Stage and Fabrication Requirements</li>
+                                        <li>Backstage Management</li>
+                                        <li>Tents/Electrical Lightning Logistics</li>
+                                        <li>Coordination for the Set-up and Techinical Requirements of Concessionaries</li>
+                                        <li>Coordination for Securing Mayor's Permit, PRA, and CBP</li>
+                                        <li>Procurement of Special Event Permits</li>
                                     </ul>
                                     <b>3.) Activations Advertising - Event Security, On-ground Manpower and Logistics</b>
                                     <p>Activations Advertising Inc. was given the task of planning, organizing and implementing the security and emergency measures for the event. </p>
@@ -149,18 +153,18 @@
                                         <li>RFID Venue Entry System (by POUCH)</li>
                                     </ul>
                                     <b>4.) SM Mall of Asia - Venue Owner, Security</b>
-                                    <p>The venue was provided by SM Mall of Asia at their concert grounds. The venue has been a popular location for big concert events similar to CloseUp Forever Summer.</p>
+                                    <p>The venue was provided by SM Mall of Asia at their concert grounds. The venue is a popular location for big concert events similar to CloseUp Forever Summer.</p>
                                     <ul style="margin-left: 50px;">
                                         <li>Venue</li>
                                         <li>Additional Security</li>
                                     </ul>
                                     <h4><b>Government</b></h4>
-                                    <b>1.) PNP Pasay</b>
-                                    <p>The Pasay City Police was asked to support and participate in the planning and implementation of the event by providing expert assistance in regards to security planning and identifying potential dangers and hazards in events of this type. Pasay City Police was also requested to provide police assistance outside and inside the venue during the event as well as show police presence.</p>
+                                    <b>1.) PNP Pasay / Southern Police District (Police)</b>
+                                    <p>The Police was asked to support and participate in the planning and implementation of the event by providing expert assistance in regard to security planning and identifying potential dangers and hazards in events of this type. They were also requested to provide police assistance outside and inside the venue during the event for increase police presence.</p>
                                     <ul style="margin-left: 50px;">
-                                        <li>Law Enforcement</li>
-                                        <li>Police Presence</li>
                                         <li>Planning and Implementation Support</li>
+                                        <li>Police Presence</li>
+                                        <li>Law Enforcement</li>
                                     </ul>
                                     <b>2.) City of Pasay</b>
                                     <ul style="margin-left: 50px;">
@@ -180,14 +184,14 @@
                             <div class="container" style="font-weight: 100;font-family: sans-serif;">
                                 <div class="col-md-10 col-md-offset-1">
                                     <h3 style="text-align: center;"><strong>PRE-EVENT PLANNING</strong></h3>
-                                    <p>Months and weeks before the event, the event organizer (CloseUp/Unilever Philippines) and its joint suppliers and partners (Eventscape and Activations Advertising) formulated and finalized the event logistics, procedures and security measures in implementing the 4th annual running of CloseUp Forever summer music festival.</p>
+                                    <p>Months and weeks before the event, CloseUp/Unilever and its joint suppliers and partners (Eventscape and Activations Advertising) formulated and finalized the event logistics, procedures and security measures in implementing the 4th annual running of CloseUp Forever summer music festival.</p>
                                     <br/>
                                     <h4><b>Standards Followed</b></h4>
                                     <ul class="mar15">
                                         <li>
                                             Security Personnel Requirements
                                             <ul class="mar30">
-                                                <li>The security plan was based on the US events standard a security-to-guest ratio of 1:50. 1 security personnel for every 50 audience members.</li>
+                                                <li>The security plan was based on the US events standard of security-to-guest ratio of 1:50, i.e. 1 security personnel for every 50 audience members.</li>
                                                 <br>
                                                 <table class="twidth" border="1px">
                                                     <tr>
@@ -288,16 +292,16 @@
                                                     On-ground Security Personnel
                                                     <ul class="mar30">
                                                         <li>
-                                                            <p>Security was to be provided by teams comprised of bouncers, on-ground personnel and police. These units were to be deployed inside and outside the venue including critical locations like entrances and exits and other entry points between different sections of the venue.</p>
-                                                            <p>On-ground Security Personnels were provided by Delirium and Red Knights. These are all bouncers with years of experience in handling large - scale live events.</p>
+                                                            <p>Security was to be provided by teams comprised of bouncers, on-ground personnel and the police. These units were to be deployed inside and outside the venue including critical locations like entrances and exits and other entry points between different sections of the venue.</p>
+                                                            <p>On-ground Security Personnel were provided by Delirium and Red Knights. These are all bouncers with years of experience in handling large - scale live events.</p>
                                                             <p>Security Objectives:</p>
                                                             <ul class="mar30">
                                                                 <li>Deter and stop violence or unruly behavior</li>
                                                                 <li>Prevent or minimize physical injuries</li>
                                                                 <li>Prevent damage to property</li>
                                                                 <li>Deter or stop theft and other petty crimes</li>
-                                                                <li>Confiscate prohibited items from entering the venue (Weapons, drugs, cameras etc.)</li>
-                                                                <li>Prevent other threats like terrorist actions. </li>
+                                                                <li>Confiscate prohibited items from entering the venue (weapons, drugs, cameras etc.)</li>
+                                                                <li>Prevent other threats like terrorist actions</li>
                                                             </ul>
                                                         </li>
                                                     </ul>
@@ -316,7 +320,7 @@
                                                                     <td style="border: 1px solid #000;"><b>Actual Deployed</b></td>
                                                                 </tr>
                                                                 <tr>
-                                                                    <td style="border: 1px solid #000;">Project Manager</td>
+                                                                    <td style="border: 1px solid #000;">Project Managers</td>
                                                                     <td style="border: 1px solid #000;">9</td>
                                                                 </tr>
                                                                 <tr>
@@ -359,6 +363,10 @@
                                                                     <td style="border: 1px solid #000;">Core AAI Team</td>
                                                                     <td style="border: 1px solid #000;">32</td>
                                                                 </tr>
+                                                                <tr>
+                                                                    <td style="border: 1px solid #000;"><b>Total</b></td>
+                                                                    <td style="border: 1px solid #000;"><b>280</b></td>
+                                                                </tr>
                                                             </table>
                                                         </li>
                                                     </ul>
@@ -368,7 +376,7 @@
                                                     Pasay City Event Inspection Team
                                                     <ul class="mar30">
                                                         <li>
-                                                            <p>Before and during the event, Pasay City Local Government also deployed a 20-man event inspection team who will verify and sign-off if the said event is in compliance with the city’s Laws and Ordinances with regards to safety, lewd behavior, and drugs.</p>
+                                                            <p>During the event the Pasay City Local Government also deployed a 20-man event inspection team to verify compliance with the city’s laws and ordinances particularly with regard to safety, lewd behavior, and drugs.</p>
 
                                                             <table class="twidth" border="1px" style="padding: 5px;">
                                                                 <tr>
@@ -404,7 +412,7 @@
                                     </ul>
                                     <br>
                                     <h4><b>Planning and Production Meetings</b></h4>
-                                    <p>CloseUp and its main suppliers Activations Advertising and Eventscape conducted three separate pre-production meetings with suppliers, partners and government organizations refine and finalize the security measures that will be put in place during the event.</p>
+                                    <p>CloseUp and its main suppliers Activations Advertising and Eventscape conducted three separate pre-production meetings with suppliers, partners and government organizations to refine and finalize the security measures that would be put in place during the event.</p>
                                     <br>
                                     <h4><b>Pre-production and security meetings</b></h4>
                                     <table style="border: 1px solid #000;width: 100%;text-align: center;">
@@ -475,8 +483,8 @@
                                     <img class="twidth" src="<?=base_url('img/odds/1.jpg');?>">
                                     <br/><br/>
                                     <h4><b>Barricades and Restricted Entry Points</b></h4>
-                                    <p>The venue was barricaded to prevent non-ticket holders from entering and to ensure all guests were directed to the entrance locations and go through the thorough entry and security procedures.</p>
-                                    <p>Important sections of the venue were divided into different zones with varying levels of security and can only be entered by passing through security and inspection.</p>
+                                    <p>The venue was barricaded to prevent non-ticket holders from entering and to ensure all guests were directed to the entrance locations and go through strict entry and security procedures.</p>
+                                    <p>Important sections of the venue were divided into different zones with varying levels of security and could only be entered by passing through security and inspection.</p>
                                     <br>
                                     <h4><b>Guest Information</b></h4>
                                     <p>The organizers also provided information to guests regarding the safety and security rules of the event including a list of prohibited items.</p>
@@ -484,7 +492,7 @@
                                     <h4><b>Prohibited Items Signages.</b></h4>
                                     <ul style="margin-left: 50px;">
                                         <li>
-                                            <p>Large and visible signages at key areas like entrances that show the list of prohibited items inside the venue to inform concert goers.</p>
+                                            <p>Large and visible signages at key areas like entrances inform concert goers the list of prohibited items inside the venue.</p>
                                             <img src="<?php echo base_url() ?>img/odds/2222.jpg" style="width: 100%;">
                                         </li>
                                     </ul>
@@ -492,7 +500,7 @@
                                     <h4><b>Security and Emergency Safety Videos</b></h4>
                                     <ul style="margin-left: 50px;">
                                         <li>
-                                            <p>Videos were shown on-screen during the event that informs concert goers to follow the event's security, safety and emergency rules.</p>
+                                            <p>Videos were shown on screen during the event that informed concert goers to follow the event's security, safety and emergency rules.</p>
                                         </li>
                                     </ul>
                                     <video class="twidth" height="388" controls>
@@ -501,20 +509,20 @@
                                     <br/>
                                     <br/>
                                     <h4><b>Pouch RFID System</b></h4>
-                                    <p>Pouch provided RFID tagging system using an RFID wristband that facilitates and records entrances as well as facilitating wireless cash transactions between guests and concessionaires. This system also restricts minors from buying alcoholic drinks.</p>
+                                    <p>Pouch provided RFID tagging system using an RFID wristband that facilitated and recorded entrances and allowed wireless cash transactions between guests and concessionaires. This system also restricted minors from buying alcoholic drinks.</p>
                                     <br/>
                                     <h4><b>Entrance Procedures and Security</b></h4>
-                                    <p>Before entering the venue, audience members must pass several lines of security steps. </p>
+                                    <p>Before entering the venue, audience members had to pass several lines of security steps. </p>
                                     <ol type="1" class="mar30">
                                         <li>Barker Announcement</li>
                                         <li>Checking of Tickets & Frisking</li>
                                         <li>2<sup>nd</sup> Frisking</li>
-                                        <li>Scanning of tickets </li>
-                                        <li>Tagging and registration</li>
+                                        <li>Scanning of Tickets </li>
+                                        <li>Tagging and Registration</li>
                                     </ol>
                                     <br/>
                                     <h4><b>CCTV</b></h4>
-                                    <p>CCTV units were also deployed to monitor the entire venue. All footage was viewed live in a central control room inside the venue.</p>
+                                    <p>CCTV units were deployed to monitor the entire venue. All footages were viewed live in a central control room inside the venue.</p>
                                     <div class="img-holder">
                                         <img id="large" src="<?php echo base_url() ?>img/runsheet/sec_plot/5. CCTV Plotting.jpg" style="width:100%;height: 380px;" />
                                         <table style="width: 100%;">
@@ -536,12 +544,12 @@
                                     </div>
                                     <br/>
                                     <h4><b>Central Control Room</b></h4>
-                                    <p>A central control room monitored and directed all operations in the venue via communication with on-ground and security personnel plus CCTV live footage.</p>
+                                    <p>A central control room monitored and directed all operations in the venue via communication with on-ground and security personnel on the basis of the CCTV live footages.</p>
                                     <img src="<?php echo base_url() ?>img/slides/controlsystem.jpg" style="width: 100%;">
                                     <br>
                                     <br/>
-                                    <h4><b>Nearby Hospitals Coordination</b></h4>
-                                    <p>Several days before the event, we have coordinated with  4 hospitals nearby. </p>
+                                    <h4><b>Nearby Hospitals Link-up</b></h4>
+                                    <p>Several days before the event, the organizers coordinated with 4 hospitals that were nearest to the venue. </p>
                                     <table style="border: 1px solid #000;width: 100%;text-align: center;">
                                         <tr>
                                             <td style="border: 1px solid #000;"><b>Hospitals</b></td>
@@ -566,13 +574,13 @@
                                     </table>
                                     <br>
                                     <h4><b>Emergency and Evacuation Protocol</b></h4>
-                                    <p>Organizers also implemented plans for immediate evacuation and assistance to all audience members and staff inside the venue in case of a major emergency including: earthquake, fire, floods, or terrorist incidents</p>
+                                    <p>Organizers devised plans for immediate evacuation and assistance to all audience members and staff inside the venue in case of a major emergency including: earthquake, fire, flood, or terrorist incidents.</p>
                                     <img src="<?php echo base_url() ?>img/evacuation plan.jpg" style="width:100%;height: 380px;" />
                                     <br>
                                     <br>
                                     <h4><b>Emergency Medical Teams and Medical Stations</b></h4>
                                     <br>
-                                    <p>A number of medical first-aide stations were installed offering quick first-aide. A larger ambulatory tent was also installed equipped to provide medical treatment for serious cases.</p>
+                                    <p>A number of medical first aid stations were installed offering immediate first aid attention. A larger ambulatory tent (field hospital) was also provided for medical treatment in serious cases.</p>
                                     <div class="img-holder">
                                         <img id="large" src="<?php echo base_url() ?>img/slides/medical_highlight.jpg" style="width:100%;height: 380px;" />
                                         <table style="width: 100%;margin-bottom: 20px;">
@@ -623,7 +631,7 @@
                                         </tr>
                                         <tr>
                                             <td style="border: 1px solid #000;">Paramedics Team</td>
-                                            <td style="border: 1px solid #000;">30 EMT's /Nurses</td>
+                                            <td style="border: 1px solid #000;">30 EMTs /Nurses</td>
                                         </tr>
                                         <tr>
                                             <td style="border: 1px solid #000;">Unilever Paramedics</td>
@@ -669,7 +677,7 @@
                                         </tr>
                                         <tr>
                                             <td class="row2">10:00 am</td>
-                                            <td class="row2">Start distribution of ID's to Unilever, partner agencies and concessionaires</td>
+                                            <td class="row2">Start distribution of IDs to Unilever, partner agencies and concessionaires</td>
                                         </tr>
                                         <tr>
                                             <td class="row1">10:30 am to 11:30 am</td>
@@ -697,7 +705,7 @@
                                         </tr>
                                         <tr>
                                             <td rowspan="2" class="row1">12:30 pm</td>
-                                            <td class="row1">Distribution of wrist tags + ids to Bouncers (per area)</td>
+                                            <td class="row1">Distribution of wrist tags + IDs to Bouncers (per area)</td>
                                         </tr>
                                         <tr>
                                             <td class="row1">Distribution of Lunch Meals</td>
@@ -714,7 +722,7 @@
                                             <td class="row1">Start of Security Sweep Proper</td>
                                         </tr>
                                         <tr>
-                                            <td class="row1">Distribution of Remaining event ID's</td>
+                                            <td class="row1">Distribution of Remaining event IDs</td>
                                         </tr>
                                         <tr>
                                             <td rowspan="3" class="row2">2:30 pm</td>
@@ -896,7 +904,7 @@
                                                         <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/PNP/2. Picture 7.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                     </tr>
                                                     <tr>
-                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/PNP/2. Picture 2.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture25.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                         <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/PNP/2. Picture 3.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                         <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/PNP/2. Picture 4.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                         <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/PNP/2. Picture 5.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
@@ -935,16 +943,17 @@
                                                         <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture22.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                         <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture23.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                         <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture24.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture25.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td></td>
+                                                        <td></td>
                                                     </tr>
                                                 </table>
                                             </div>
                                         </li>
                                     </ul>
                                     <h1 class="twidth">IMPORTANT INCIDENTS</h1><br/>
-                                    <h4><b>Event Fatalities</b></h4>
+                                    <h4><b>Fatalities Attended to by Organizers</b></h4>
                                     <br/>
-                                    <p>During the event, 3 audience members were given quick medical aid due to illness. These individuals were then immediately transported to the nearest hospitals to be given necessary medical attention.</p>
+                                    <p>During the event, three audience members were given quick medical aid due to illness. These individuals were then immediately transported to the nearest hospitals to be given further medical attention.</p>
                                     <table class="twidth" border="1px">
                                         <tr>
                                             <th style="text-align: center;">Name of Individual</th>
@@ -963,8 +972,8 @@
                                             <td>Manila Doctors</td>
                                         </tr>
                                     </table><br/>
-                                    <h4><b>Outside Fatalities</b></h4><br/>
-                                    <p>Two individuals who also attended the event earlier in the evening were found outside the venue and brought to hospitals and were then declared fatalities. Additional information on the events that transpired before the individuals were received in the hospital are unknown as they were not inside the venue when the incidents occurred.</p>
+                                    <h4><b>Other Fatalities</b></h4><br/>
+                                    <p>Two other individuals who attended the event were found outside the venue and brought to hospitals. Information on the circumstances surrounding their deaths are unknown because they were not brought to the hospital by the organizers.</p>
 
                                     <br>
                                     <br>
@@ -978,15 +987,14 @@
                                             <td style="border: 1px solid #000;">Found outside the venue by SM Mall security (not related to the event)  near a parking facility and brought to hospital.</td>
                                         </tr>
                                         <tr>
-                                            <td style="border: 1px solid #000;">Ken Migawa 18 yrs old</td>
+                                            <td style="border: 1px solid #000;">Ken Miyagawa 18 yrs old</td>
                                             <td style="border: 1px solid #000;">Brought to the hospital by acquaintances. Whether individual was brought directly from the event venue or another location to the hospital is unknown.</td>
                                         </tr>
                                     </table>
                                     <br/>
                                     <h4 style="margin-top: 20px"><b>Recap</b></h4>
                                     <br/>
-                                    <p>Based from the planning and implementation figures, the organizers followed industry- standard safety & security procedures in organizing major live events involving large numbers of audiences. The security and emergency protocols implemented mirrored or exceeded similar events. The required number of manpower, resources and assets were allocated in the implementation of its plans.</p>
-                                    <p>During implementation, the organizers exceeded the required number of security and medical personnel based on US and Government of Western Australia-Department of Health: Guidelines for Concerts, Events, and Organized Gatherings events standards and its entry procedures and protocols were more stringent than that of other similar events in the past. </p>
+                                    <p>Based on the planning and implementation figures, the organizers followed industry- standard safety & security procedures in organizing major live events involving large number of audiences. During implementation, the organizers exceeded the required number of security and medical personnel based on US and Government of Western Australia-Department of Health: Guidelines for Concerts, Events, and Organized Gatherings standards. The entry procedures and protocols followed and implemented this year were more stringent than, and actually exceeded, those implemented in similar events in the past.</p>
                                 </div>
                             </div>
                         </div>
