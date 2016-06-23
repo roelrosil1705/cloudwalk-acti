@@ -127,7 +127,7 @@
                                     <br/>
                                     <h3 style="text-align: center;"><strong>INVOLVED GROUPS AND ORGANIZATIONS</strong></h3>
                                     <h4><b>Civilian</b></h4>
-                                    <b>1.) CloseUp/Unilever Philippines - Event Organizer</b><br/><br/>
+                                    <b>1.) CloseUp/Unilever Philippines - Principal</b><br/><br/>
                                     <b>2.) EventScape - Event Implementation, Logistics, Talent Acquisition, Food and Beverage</b>
                                     <p>EventScape was responsible for organizing and bringing-in the featured talent and performers for the event.</p>
                                     <ul style="margin-left: 50px;">
@@ -289,7 +289,7 @@
                                                     <ul class="mar30">
                                                         <li>
                                                             <p>Security was to be provided by teams comprised of bouncers, on-ground personnel and police. These units were to be deployed inside and outside the venue including critical locations like entrances and exits and other entry points between different sections of the venue.</p>
-                                                            <p>Certified and registered bouncer teams were provided Delirum and Red Knights which were comprised of bouncers with experience in handling large-scale live events.</p>
+                                                            <p>On-ground Security Personnels were provided by Delirium and Red Knights. These are all bouncers with years of experience in handling large - scale live events.</p>
                                                             <p>Security Objectives:</p>
                                                             <ul class="mar30">
                                                                 <li>Deter and stop violence or unruly behavior</li>
@@ -383,6 +383,9 @@
                                                                 </tr>
                                                             </table>
                                                         </li>
+                                                        <li style="margin-top: 10px;">
+                                                            <p><a href="<?=base_url('img/coverletter.jpg')?>" target="_blank">Mayor's Permit</a></p>
+                                                        </li>
                                                     </ul>
                                                 </li>
                                             </ul>
@@ -395,7 +398,7 @@
                                         <li>
                                             Medical Personnel Requirements
                                             <ul class="mar30">
-                                                <li>The <a href="http://ww2.health.wa.gov.au/~/media/Files/Corporate/general%20documents/Environmental%20health/Concerts%20and%20Mass%20Gathering%20Guidelines.ashx">organizers also followed the Government of Western Australia-Department of Health</a>: Guidelines for Concerts, Events, and Organized Gatherings standard of the number of emergency medical professionals and teams to be used for events of this type and size. </li>
+                                                <li>The organizers also followed the <a href="http://ww2.health.wa.gov.au/~/media/Files/Corporate/general%20documents/Environmental%20health/Concerts%20and%20Mass%20Gathering%20Guidelines.ashx">Government of Western Australia-Department of Health: Guidelines for Concerts, Events, and Organized Gatherings</a> standard of the number of emergency medical professionals and teams to be used for events of this type and size. </li>
                                             </ul>
                                         </li>
                                     </ul>
@@ -465,15 +468,15 @@
                                             </tr>
                                         </table>
                                     </div>
- <br>
                                     <br>
-                                        <h2 class="twidth">VENUE SAFETY FEATURES, PROCEDURES AND ASSETS</h2>
-                                        <h4><b>Venue Map</b></h4>
-                                        <img class="twidth" src="<?=base_url('img/odds/1.jpg');?>">
+                                    <br>
+                                    <h2 class="twidth">VENUE SAFETY FEATURES, PROCEDURES AND ASSETS</h2>
+                                    <h4><b>Venue Map</b></h4>
+                                    <img class="twidth" src="<?=base_url('img/odds/1.jpg');?>">
                                     <br/><br/>
-                                        <h4><b>Barricades and Restricted Entry Points</b></h4>
-                                        <p>The venue was barricaded to prevent non-ticket holders from entering and to ensure all guests were directed to the entrance locations and go through the thorough entry and security procedures.</p>
-                                        <p>Important sections of the venue were divided into different zones with varying levels of security and can only be entered by passing through security and inspection.</p>
+                                    <h4><b>Barricades and Restricted Entry Points</b></h4>
+                                    <p>The venue was barricaded to prevent non-ticket holders from entering and to ensure all guests were directed to the entrance locations and go through the thorough entry and security procedures.</p>
+                                    <p>Important sections of the venue were divided into different zones with varying levels of security and can only be entered by passing through security and inspection.</p>
                                     <br>
                                     <h4><b>Guest Information</b></h4>
                                     <p>The organizers also provided information to guests regarding the safety and security rules of the event including a list of prohibited items.</p>
@@ -498,7 +501,7 @@
                                     <br/>
                                     <br/>
                                     <h4><b>Pouch RFID System</b></h4>
-                                    <p>Puch provided RFID tagging system using an RFID wristband that facilitates and records entrances as well as facilitating wireless cash transactions between guests and concessionaires. This system also restricts minors from buying alcoholic drinks.</p>
+                                    <p>Pouch provided RFID tagging system using an RFID wristband that facilitates and records entrances as well as facilitating wireless cash transactions between guests and concessionaires. This system also restricts minors from buying alcoholic drinks.</p>
                                     <br/>
                                     <h4><b>Entrance Procedures and Security</b></h4>
                                     <p>Before entering the venue, audience members must pass several lines of security steps. </p>
@@ -620,7 +623,7 @@
                                         </tr>
                                         <tr>
                                             <td style="border: 1px solid #000;">Paramedics Team</td>
-                                            <td style="border: 1px solid #000;">30 EMT’s /Nurses</td>
+                                            <td style="border: 1px solid #000;">30 EMT's /Nurses</td>
                                         </tr>
                                         <tr>
                                             <td style="border: 1px solid #000;">Unilever Paramedics</td>
@@ -632,7 +635,7 @@
                                         </tr>
                                     </table>
                                     <br/>
-                                    <h4><b>CLOSEUP FOREVER SUMMER 2016 "NOW OR NEVER" RUNSHEET</b></h4>
+                                    <h4><b>CLOSEUP FOREVER SUMMER 2016 RUNSHEET</b></h4>
                                     <br/>
                                     <table class="runsheet">
                                         <tr>
@@ -642,11 +645,11 @@
                                         </tr>
                                         <tr>
                                             <td rowspan="31" class="row1">May 21, 2016</td>
-                                            <td class="row1">6:30 AM</td>
+                                            <td class="row1">6:30 am</td>
                                             <td class="row1">Call time of Manpower @ Quirino 2B Basketball Court</td>
                                         </tr>
                                         <tr>
-                                            <td class="row2">8:30 AM</td>
+                                            <td class="row2">8:30 am</td>
                                             <td class="row2">Call time of Core Group</td>
                                         </tr>
                                         <tr>
@@ -665,7 +668,7 @@
                                             <td class="row1">Distribution of Pouch Devices to AAI</td>
                                         </tr>
                                         <tr>
-                                            <td class="row2">10:00 AM</td>
+                                            <td class="row2">10:00 am</td>
                                             <td class="row2">Start distribution of ID's to Unilever, partner agencies and concessionaires</td>
                                         </tr>
                                         <tr>
@@ -673,15 +676,15 @@
                                             <td class="row1">On-site simulation of on-ground manpower team</td>
                                         </tr>
                                         <tr>
-                                            <td class="row2">11:00 AM</td>
+                                            <td class="row2">11:00 am</td>
                                             <td class="row2">Call time of Bouncers</td>
                                         </tr>
                                         <tr>
-                                            <td class="row1">11:15 AM</td>
+                                            <td class="row1">11:15 am</td>
                                             <td class="row1">Assembly of Security/Bouncers</td>
                                         </tr>
                                         <tr>
-                                            <td class="row2">11:30 AM</td>
+                                            <td class="row2">11:30 am</td>
                                             <td class="row2">Security Briefing on-site</td>
                                         </tr>
                                         <tr>
@@ -689,32 +692,32 @@
                                             <td class="row1">SM Tickets Set-up (24 Laptops & Scanners) / WIFI Connection</td>
                                         </tr>
                                         <tr>
-                                            <td class="row2">12:15 PM</td>
+                                            <td class="row2">12:15 pm</td>
                                             <td class="row2">Rebriefing with Unilever Brand Team</td>
                                         </tr>
                                         <tr>
-                                            <td rowspan="2" class="row1">12:30 PM</td>
+                                            <td rowspan="2" class="row1">12:30 pm</td>
                                             <td class="row1">Distribution of wrist tags + ids to Bouncers (per area)</td>
                                         </tr>
                                         <tr>
                                             <td class="row1">Distribution of Lunch Meals</td>
                                         </tr>
                                         <tr>
-                                            <td rowspan="2" class="row2">1:30 PM</td>
+                                            <td rowspan="2" class="row2">1:30 pm</td>
                                             <td class="row2">Clearing of Venue/ Prep for Security Sweep</td>
                                         </tr>
                                         <tr>
                                             <td class="row2">All manpower should wear their uniform</td>
                                         </tr>
                                         <tr>
-                                            <td rowspan="2" class="row1">2:00 PM</td>
+                                            <td rowspan="2" class="row1">2:00 pm</td>
                                             <td class="row1">Start of Security Sweep Proper</td>
                                         </tr>
                                         <tr>
                                             <td class="row1">Distribution of Remaining event ID's</td>
                                         </tr>
                                         <tr>
-                                            <td rowspan="3" class="row2">2:30 PM</td>
+                                            <td rowspan="3" class="row2">2:30 pm</td>
                                             <td class="row2">Distribution of Pouch Devices to Concessionaires</td>
                                         </tr>
                                         <tr>
@@ -724,23 +727,23 @@
                                             <td class="row2">All manpower on standby to designated areas</td>
                                         </tr>
                                         <tr>
-                                            <td class="row1">4:00 PM</td>
+                                            <td class="row1">4:00 pm</td>
                                             <td class="row1">Gates Open</td>
                                         </tr>
                                         <tr>
-                                            <td class="row2">6:00 PM</td>
+                                            <td class="row2">6:00 pm</td>
                                             <td class="row2">Distribution of Dinner </td>
                                         </tr>
                                         <tr>
-                                            <td class="row1">12:00 MN</td>
+                                            <td class="row1">12:00 mn</td>
                                             <td class="row1">Distribution of Midnight Meal</td>
                                         </tr>
                                         <tr>
-                                            <td class="row2">2:30 AM</td>
+                                            <td class="row2">2:30 am</td>
                                             <td class="row2">End of Show</td>
                                         </tr>
                                         <tr>
-                                            <td rowspan="4" class="row1">3:00 AM</td>
+                                            <td rowspan="4" class="row1">3:00 am</td>
                                             <td class="row1">Retrieval of all Pouch Devices (On-ground team + Concessionaires)</td>
                                         </tr>
                                         <tr>
@@ -753,12 +756,12 @@
                                             <td class="row1">Inventory of Sales</td>
                                         </tr>
                                         <tr>
-                                            <td class="row2">4:00 AM</td>
+                                            <td class="row2">4:00 am</td>
                                             <td class="row2">GO HOME AND SLEEP!!!</td>
                                         </tr>
                                     </table>
                                     <br>
-                                    <h4 style="margin-bottom: 0px;"><b>On-site rebriefing Manpower</b></h4>
+                                    <h4 style="margin-bottom: 0px;"><b>Manpower Rebriefing</b></h4>
                                     <p>9:30 am to 10:00 am</p><br/>
                                     <div class="img-holder">
                                         <img id="large" src="<?php echo base_url() ?>img/runsheet/manpower/6c1a237e48820985ab7acfe00b43ed0eb7e57c3e2b7ee135d79ea5cf44ec4d2d_full.jpg" style="width:100%;height: 380px;" />
@@ -802,15 +805,15 @@
                                             </tr>
                                         </table>
                                     </div><br/>
-                                    <h4 style="margin-bottom: 0px;"><b>Security Briefing On-site</b></h4>
-                                    <p>11:30 AM</p><br/>
+                                    <h4 style="margin-bottom: 0px;"><b>Security Briefing</b></h4>
+                                    <p>11:30 am</p><br/>
                                     <div class="img-holder">
-                                        <img id="large" src="<?php echo base_url() ?>img/runsheet/sec_brief/1f84550abc7a952246f710114a404edf7dc45c79d0b79e1ab78b835cf6b17528_full.jpg" style="width:100%;height: 380px;" />
+                                        <img id="large" src="<?php echo base_url() ?>img/runsheet/sec_brief/Picture1.jpg" style="width:100%;height: 380px;" />
                                         <table style="width: 100%;margin-bottom: 20px;">
                                             <tr>
+                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_brief/Picture1.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_brief/1f84550abc7a952246f710114a404edf7dc45c79d0b79e1ab78b835cf6b17528_full.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_brief/13275216_1271713416190974_482153606_o.jpg" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
-                                                <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_brief/IMG_0274.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                 <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_brief/IMG_0283.JPG" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                             </tr>
                                             <tr>
@@ -821,8 +824,8 @@
                                             </tr>
                                         </table>
                                     </div><br/>
-                                    <h4 style="margin-bottom: 0px;"><b>Clearing of Venue/ Prep for Security Sweep</b></h4>
-                                    <p>2:00 PM</p><br/>
+                                    <h4 style="margin-bottom: 0px;"><b>Security Sweep</b></h4>
+                                    <p>2:00 pm</p><br/>
                                     <div class="img-holder">
                                         <img id="large" src="<?php echo base_url() ?>img/runsheet/sec_sweep/IMG_0379.JPG" style="width:100%;height: 380px;" />
                                         <table style="width: 100%;margin-bottom: 20px;">
@@ -899,6 +902,41 @@
                                                         <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/PNP/2. Picture 5.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                         <td><img class="img-thumb" src="<?php echo base_url() ?>img/runsheet/sec_plot/PNP/2. Picture 6.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
                                                     </tr>
+                                                    <tr>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture1.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture2.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture3.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture4.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture6.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+<!--                                                        <td><img class="img-thumb" src="--><?php //echo base_url() ?><!--img/pnp/Picture5.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>-->
+                                                    </tr>
+                                                    <tr>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture7.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture8.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture9.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture10.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture11.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture12.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture13.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture14.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture15.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture16.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture17.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture18.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture19.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture20.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture21.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture22.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture23.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture24.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                        <td><img class="img-thumb" src="<?php echo base_url() ?>img/pnp/Picture25.png" style="width:100%;border: 5px solid #000;height: 100px;" /></td>
+                                                    </tr>
                                                 </table>
                                             </div>
                                         </li>
@@ -913,7 +951,7 @@
                                             <th style="text-align: center;">Hospital</th>
                                         </tr>
                                         <tr>
-                                            <td>Ariel Leal (22 yrs)</td>
+                                            <td>Ariel Leal 22 yrs old</td>
                                             <td>San Juan de Dios</td>
                                         </tr>
                                         <tr>
@@ -921,7 +959,7 @@
                                             <td>Manila Doctors</td>
                                         </tr>
                                         <tr>
-                                            <td>Eric Miller 36 yrs old</td>
+                                            <td>Eric Anthony Miller 36 yrs old</td>
                                             <td>Manila Doctors</td>
                                         </tr>
                                     </table><br/>
@@ -936,11 +974,11 @@
                                             <td style="border: 1px solid #000;"><b>Notes</b></td>
                                         </tr>
                                         <tr>
-                                            <td style="border: 1px solid #000;">Lance Garcia </td>
+                                            <td style="border: 1px solid #000;">Lance Garcia 36 yrs old</td>
                                             <td style="border: 1px solid #000;">Found outside the venue by SM Mall security (not related to the event)  near a parking facility and brought to hospital.</td>
                                         </tr>
                                         <tr>
-                                            <td style="border: 1px solid #000;">Ken Migawa</td>
+                                            <td style="border: 1px solid #000;">Ken Migawa 18 yrs old</td>
                                             <td style="border: 1px solid #000;">Brought to the hospital by acquaintances. Whether individual was brought directly from the event venue or another location to the hospital is unknown.</td>
                                         </tr>
                                     </table>
@@ -948,7 +986,7 @@
                                     <h4 style="margin-top: 20px"><b>Recap</b></h4>
                                     <br/>
                                     <p>Based from the planning and implementation figures, the organizers followed industry- standard safety & security procedures in organizing major live events involving large numbers of audiences. The security and emergency protocols implemented mirrored or exceeded similar events. The required number of manpower, resources and assets were allocated in the implementation of its plans.</p>
-                                    <p>During implementation, the organizers exceeded the required number of security and medical personnel based on US and WHO events standards and its entry procedures and protocols were more stringent than that of other similar events in the past. </p>
+                                    <p>During implementation, the organizers exceeded the required number of security and medical personnel based on US and Government of Western Australia-Department of Health: Guidelines for Concerts, Events, and Organized Gatherings events standards and its entry procedures and protocols were more stringent than that of other similar events in the past. </p>
                                 </div>
                             </div>
                         </div>
@@ -1003,4 +1041,3 @@
 
 </body>
 </html>
-
