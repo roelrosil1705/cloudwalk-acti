@@ -12,7 +12,7 @@ class Newspage extends CI_Controller {
 		$data['activeMenu'] = 'news_page';
 		$data['title'] = 'Activation Advertising, Inc. - Below the line. Beyond Expectations.';
 		$data['header'] = $this->load->view('homepage/header', $data, true); 
-		$data['body'] = $this->load->view('news_view', $data, true); 
+		$data['body'] = $this->load->view('newspage_view', $data, true);
 		$this->load->view('newspage_view', $data);
 	}
 }
