@@ -1003,6 +1003,7 @@
                                         </tr>
                                     </table>
                                     <br/>
+                                    <p>Click <a target="_blank" href="https://drive.google.com/folderview?id=0B5goOu25aJnQMmUtS0ZRTExGVjg&usp=drive_web">here</a> for reference video.</p>
                                     <h4 style="margin-top: 20px"><b>Recap</b></h4>
                                     <br/>
                                     <p>Based on the planning and implementation figures, the organizers followed industry- standard safety & security procedures in organizing major live events involving large number of audiences. During implementation, the organizers exceeded the required number of security and medical personnel based on US and Government of Western Australia-Department of Health: Guidelines for Concerts, Events, and Organized Gatherings standards. The entry procedures and protocols followed and implemented this year were more stringent than, and actually exceeded, those implemented in similar events in the past.</p>
