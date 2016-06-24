@@ -18,7 +18,18 @@
     <link rel="stylesheet" type="text/css" href="<?php echo base_url();?>elastslide/css/elastislide.css" /><!-- added 01-03-2014 -->
     <link rel="stylesheet" type="text/css" href="<?php echo base_url();?>elastslide/css/custom.css" /><!-- added 01-03-2014 -->
     <script src="<?php echo base_url();?>elastslide/js/modernizr.custom.17475.js"></script><!-- added 01-03-2014 -->
-
+    <script type="application/ld+json">
+	{
+	  "@context": "http://schema.org",
+	  "@type": "Organization",
+	  "url": "http://activationsadvertising.com",
+	  "contactPoint": [{
+		"@type": "ContactPoint",
+		"telephone": "435-6566",
+		"contactType": "customer service"
+	  }]
+	}
+	</script>
 </head>
 <body style="background:url('<?php echo base_url() ?>img/bg-news.png') 50% 0 no-repeat fixed">
 <div id="scrolltopbtn" style="display: none;position: fixed;right: 6px;background: rgba(0,0,0,0.2);padding: 15px;border-radius: 10px;top: 5px;z-index: 1111;">
