@@ -32,6 +32,16 @@
 	</script>
 </head>
 <body style="background:url('<?php echo base_url() ?>img/bg-news.png') 50% 0 no-repeat fixed">
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-79955706-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
 <div id="scrolltopbtn" style="display: none;position: fixed;right: 6px;background: rgba(0,0,0,0.2);padding: 15px;border-radius: 10px;top: 5px;z-index: 1111;">
     <a href="#wrapper">TOP &#11014;</a>
 </div>
@@ -138,8 +148,8 @@
                                     <h3 style="text-align: center;"><strong>INVOLVED GROUPS AND ORGANIZATIONS</strong></h3>
                                     <h4><b>Civilian</b></h4>
                                     <b>1.) CloseUp/Unilever Philippines - Principal</b><br/><br/>
-                                    <b>2.) Eventscape - Event Implementation, Logistics, Talent Acquisition, Food and Beverage</b>
-                                    <p>Eventscape was responsible for organizing and bringing-in the featured talents and performers for the event.</p>
+                                    <b>2.) Eventscape - Program Implementation , Staging  Requirements, Logistics, Food and Beverage</b>
+                                    <p> </p>
                                     <ul style="margin-left: 50px;">
                                         <li>Creative Conceptualization</li>
                                         <li>Program Management</li>
@@ -148,7 +158,7 @@
                                         <li>Stage and Fabrication Requirements</li>
                                         <li>Backstage Management</li>
                                         <li>Tents/Electrical Lightning Logistics</li>
-                                        <li>Coordination for the Set-up and Techinical Requirements of Concessionaries</li>
+                                        <li>Coordination for the Set-up and Technical Requirements of Concessionaries</li>
                                         <li>Coordination for Securing Mayor's Permit, PRA, and CBP</li>
                                         <li>Procurement of Special Event Permits</li>
                                     </ul>
@@ -387,23 +397,18 @@
                                                     Pasay City Event Inspection Team
                                                     <ul class="mar30">
                                                         <li>
-                                                            <p>During the event the Pasay City Local Government also deployed a 20-man event inspection team to verify compliance with the city’s laws and ordinances particularly with regard to safety, lewd behavior, and drugs.</p>
+                                                            <p>During the event the Pasay City Local Government also deployed a 20-man event inspection team to verify compliance with the city's laws and ordinances particularly with regard to safety, lewd behavior, and drugs.</p>
 
                                                             <table class="twidth" border="1px" style="padding: 5px;">
                                                                 <tr>
                                                                     <th style="text-align: center;">Particulars</th>
-                                                                    <th style="text-align: center;">Planned</th>
                                                                     <th style="text-align: center;">Actual Deployed</th>
                                                                 </tr>
                                                                 <tr>
-                                                                    <td><a href="<?=base_url('img/security/Pasay_City_Inspection_Team.jpg')?>" target="_blank">Pasay City Event Inspection Team</a></td>
-                                                                    <td>20</td>
+                                                                    <td>Pasay City Event Inspection Team</td>
                                                                     <td>20</td>
                                                                 </tr>
                                                             </table>
-                                                        </li>
-                                                        <li style="margin-top: 10px;">
-                                                            <p><a href="<?=base_url('img/coverletter.jpg')?>" target="_blank">Mayor's Permit</a></p>
                                                         </li>
                                                     </ul>
                                                 </li>

@@ -198,7 +198,7 @@
 						<div class="container">
 							<span>
 								Our diverse team of brand specialists and ambassadors go where the customers are through large-scale on ground product trial and sampling. 
-								We visit every home, every town and every city to ensure that our client’s products are introduced and experienced by thousands of households and millions of individuals nationwide.
+								We visit every home, every town and every city to ensure that our clientï¿½s products are introduced and experienced by thousands of households and millions of individuals nationwide.
 							</span>
 						</div>
 						<div>&nbsp;</div>
@@ -328,7 +328,7 @@
 						<div class="container">
 							<span>
 								Activations Advertising Inc. brings together brands, companies and organizations that allow them to share their expertise and products in order to 
-								fulfil our client’s plans in marketing and advertising plans. Through tie ups and other forms of collaborations, we have bridged the gaps inherent between companies.
+								fulfil our clientï¿½s plans in marketing and advertising plans. Through tie ups and other forms of collaborations, we have bridged the gaps inherent between companies.
 							</span>
 						</div>
 						
