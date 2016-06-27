@@ -1,3 +1,4 @@
+
 <div id="news-sec" class="container" style="border:solid px red;margin-top:0px;">
 
 	<div class="row" style="border:solid px red;margin-top:41px;">
