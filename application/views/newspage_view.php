@@ -422,7 +422,7 @@
                                         <li>
                                             Medical Personnel Requirements
                                             <ul class="mar30">
-                                                <li>The organizers also followed the <a href="http://ww2.health.wa.gov.au/~/media/Files/Corporate/general%20documents/Environmental%20health/Concerts%20and%20Mass%20Gathering%20Guidelines.ashx">Government of Western Australia-Department of Health: Guidelines for Concerts, Events, and Organized Gatherings</a> standard of the number of emergency medical professionals and teams to be used for events of this type and size. </li>
+                                                <li>The organizers also followed the <a href="<?=base_url('img/medical/Medical_Resource_Planner.JPG')?>" target="_blank">Government of Western Australia-Department of Health: Guidelines for Concerts, Events, and Organized Gatherings</a> standard of the number of emergency medical professionals and teams to be used for events of this type and size. </li>
                                             </ul>
                                         </li>
                                     </ul>
